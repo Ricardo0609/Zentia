@@ -1,0 +1,2457 @@
+{
+  "pechoSuperior": [
+    {
+      "foto": "Imagenes/pechosuperior.png",
+      "titulo": "Press inclinado"
+    },{
+      "foto": "Imagenes/pechosuperior.png",
+      "titulo": "Press inclinado con pausa abajo"
+    },{
+      "foto": "Imagenes/pechosuperior.png",
+      "titulo": "Press inclinado alternado con mancuernas"
+    },{
+      "foto": "Imagenes/pechosuperior.png",
+      "titulo": "Press inclinado con agarre neutro"
+    },{
+      "foto": "Imagenes/pechosuperior.png",
+      "titulo": "Press inclinado cerrado con mancuernas"
+    },{
+      "foto": "Imagenes/pechosuperior.png",
+      "titulo": "Aperturas inclinadas con mancuernas"
+    },{
+      "foto": "Imagenes/pechosuperior.png",
+      "titulo": "Aperturas inclinadas con pausa en estiramiento"
+    },{
+      "foto": "Imagenes/pechosuperior.png",
+      "titulo": "Squeeze press inclinado con mancuernas"
+    },{
+      "foto": "Imagenes/pechosuperior.png",
+      "titulo": "Press inclinado unilateral"
+    },{
+      "foto": "Imagenes/pechosuperior.png",
+      "titulo": "Pullover con mancuerna enfocado en pecho alto"
+    },{
+      "foto": "Imagenes/pechosuperior.png",
+      "titulo": "Flexiones con pies elevados"
+    },{
+      "foto": "Imagenes/pechosuperior.png",
+      "titulo": "Flexiones con pies elevados y manos cerradas medias"
+    },{
+      "foto": "Imagenes/pechosuperior.png",
+      "titulo": "Flexiones con pies elevados y pausa abajo"
+    },{
+      "foto": "Imagenes/pechosuperior.png",
+      "titulo": "Flexiones explosivas con pies elevados"
+    },{
+      "foto": "Imagenes/pechosuperior.png",
+      "titulo": "Flexiones tipo pike abiertas ligeras al frente"
+    },{
+      "foto": "Imagenes/pechosuperior.png",
+      "titulo": "Press guillotina inclinado con mancuernas ligero"
+    },{
+      "foto": "Imagenes/pechosuperior.png",
+      "titulo": "Apertura-press inclinado con mancuernas"
+    },{
+      "foto": "Imagenes/pechosuperior.png",
+      "titulo": "Press inclinado a 1.5 repeticiones"
+    },{
+      "foto": "Imagenes/pechosuperior.png",
+      "titulo": "Isométrico de aducción de pecho alto con mancuernas"
+    },{
+      "foto": "Imagenes/pechosuperior.png",
+      "titulo": "Flexiones en barra baja con pies adelantados y torso inclinado"
+    }
+  ], 
+  "pechoMedio": [
+    {
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Press plano con mancuernas"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Press plano con pausa"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Press plano con pausa"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Press plano con agarre neutro"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Press plano unilateral"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Squeeze press plano"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Aperturas planas con mancuernas"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Aperturas planas con mancuernas"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Press-apertura plano"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Press con recorrido corto al fallo parcial"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Flexiones clásicas"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Flexiones lentas"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Flexiones con pausa abajo"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Flexiones explosivas"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Flexiones en barra a media altura"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Flexiones con manos sobre mancuernas para más rango"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Flexiones con manos sobre mancuernas para más rango"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Press en el suelo con mancuernas"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Press en el suelo con mancuernas"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Floor squeeze press con mancuernas"
+    }
+  ],
+  "pechoInferior": [
+    {
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Press declinado con mancuernas"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Press declinado con pausa"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Press declinado alternado"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Press declinado alternado"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Aperturas declinadas con mancuernas"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Squeeze press declinado"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Press unilateral declinado"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Press declinado a 1.5 reps"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Press declinado a 1.5 reps"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Fondos entre superficies"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "ondos con torso inclinado al frente"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Flexiones con manos elevadas"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Flexiones con manos elevadas"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Flexiones inclinadas lentas"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Flexiones en barra baja con cuerpo inclinado hacia abajo"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Flexiones tipo chest dip lean"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Flexiones tipo chest dip lean"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Press en suelo con codos abiertos bajos"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Press convergente declinado con mancuernas"
+    },{
+      "foto": "Imagenes/pecho.png",
+      "titulo": "Isométrico de aducción de pecho bajo"
+    }
+  ],
+  "dorsales": [
+    {
+      "foto": "Imagenes/espalda4.png",
+      "titulo": "Dominadas pronas abiertas"
+    },{
+      "foto": "Imagenes/espalda4.png",
+      "titulo": "Dominadas pronas medias"
+    },{
+      "foto": "Imagenes/espalda4.png",
+      "titulo": "Dominadas cerradas pronas"
+    },{
+      "foto": "Imagenes/espalda4.png",
+      "titulo": "Chin ups cerradas"
+    },{
+      "foto": "Imagenes/espalda4.png",
+      "titulo": "Chin ups cerradas"
+    },{
+      "foto": "Imagenes/espalda4.png",
+      "titulo": "Dominadas con pausa arriba"
+    },{
+      "foto": "Imagenes/espalda4.png",
+      "titulo": "Dominadas lentas"
+    },{
+      "foto": "Imagenes/espalda4.png",
+      "titulo": "Dominadas escapulares"
+    },{
+      "foto": "Imagenes/espalda4.png",
+      "titulo": "Dominadas explosivas al pecho"
+    },{
+      "foto": "Imagenes/espalda4.png",
+      "titulo": "Dominadas explosivas al pecho"
+    },{
+      "foto": "Imagenes/espalda4.png",
+      "titulo": "Pull ups arqueras asistidas"
+    },{
+      "foto": "Imagenes/espalda4.png",
+      "titulo": "Remo con mancuerna a una mano pegado al cuerpo"
+    },{
+      "foto": "Imagenes/espalda4.png",
+      "titulo": "Remo con mancuerna bilateral inclinado"
+    },{
+      "foto": "Imagenes/espalda4.png",
+      "titulo": "Remo con mancuerna bilateral inclinado"
+    },{
+      "foto": "Imagenes/espalda4.png",
+      "titulo": "Remo con mancuerna agarre neutro"
+    },{
+      "foto": "Imagenes/espalda4.png",
+      "titulo": "Remo unilateral con pausa arriba"
+    },{
+      "foto": "Imagenes/espalda4.png",
+      "titulo": "Pullover con mancuerna"
+    },{
+      "foto": "Imagenes/espalda4.png",
+      "titulo": "Remo invertido en barra pronado ancho"
+    },{
+      "foto": "Imagenes/espalda4.png",
+      "titulo": "Remo invertido en barra supino"
+    },{
+      "foto": "Imagenes/espalda4.png",
+      "titulo": "Remo invertido en barra supino"
+    }
+  ], 
+  "espaldaMedia": [
+    {
+      "foto": "Imagenes/espalda2.png",
+      "titulo": "Remo con mancuerna a una mano"
+    },{
+      "foto": "Imagenes/espalda2.png",
+      "titulo": "Remo bilateral con mancuernas"
+    },{
+      "foto": "Imagenes/espalda2.png",
+      "titulo": "Remo bilateral con mancuernas"
+    },{
+      "foto": "Imagenes/espalda2.png",
+      "titulo": "Remo inclinado con agarre pronado"
+    },{
+      "foto": "Imagenes/espalda2.png",
+      "titulo": "Remo inclinado con agarre neutro"
+    },{
+      "foto": "Imagenes/espalda2.png",
+      "titulo": "Remo inclinado con agarre neutro"
+    },{
+      "foto": "Imagenes/espalda2.png",
+      "titulo": "Remo pecho apoyado"
+    },{
+      "foto": "Imagenes/espalda2.png",
+      "titulo": "Remo unilateral cruzado"
+    },{
+      "foto": "Imagenes/espalda2.png",
+      "titulo": "Remo tipo Meadows"
+    },{
+      "foto": "Imagenes/espalda2.png",
+      "titulo": "Remo invertido en barra"
+    },{
+      "foto": "Imagenes/espalda2.png",
+      "titulo": "Remo invertido con pausa al tocar pecho"
+    },{
+      "foto": "Imagenes/espalda2.png",
+      "titulo": "Remo invertido agarre ancho"
+    },{
+      "foto": "Imagenes/espalda2.png",
+      "titulo": "Remo invertido agarre medio"
+    },{
+      "foto": "Imagenes/espalda2.png",
+      "titulo": "Remo invertido agarre medio"
+    },{
+      "foto": "Imagenes/espalda2.png",
+      "titulo": "High row con mancuernas"
+    },{
+      "foto": "Imagenes/espalda2.png",
+      "titulo": "Rear-delt row con inclinación"
+    },{
+      "foto": "Imagenes/espalda2.png",
+      "titulo": "Face-pull"
+    },{
+      "foto": "Imagenes/espalda2.png",
+      "titulo": "Y-raise"
+    },{
+      "foto": "Imagenes/espalda2.png",
+      "titulo": "T-raise"
+    }
+  ] ,
+  "espaldaAlta": [
+    {
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Encogimiento escapular en barra"
+    },{
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Encogimiento escapular colgado en barra"
+    },{
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Dominada escapular lenta"
+    },{
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "High row con codos abiertos"
+    },{
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "High row con codos abiertos"
+    },{
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Reverse fly con pausa"
+    },{
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Trap-3 raise inclinado"
+    },{
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Trap-3 raise inclinado"
+    },{
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "T-raise con mancuernas"
+    },{
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "W-raise con mancuernas"
+    },{
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Remo invertido con codos abiertos"
+    },{
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Remo invertido al pecho alto"
+    },{
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Face pull improvisado tumbado"
+    },{
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Cuban raise con mancuernas ligeras"
+    },{
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Cuban raise con mancuernas ligeras"
+    },{
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Press escápular en pared con carga ligera"
+    },{
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Reverse snow angels boca abajo"
+    },{
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "sométrico de retracción escapular en barra"
+    },{
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Pull-up hold con pecho cerca de barra"
+    },{
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Pulldown escapular isométrico en barra"
+    }
+  ],
+   "lumbar": [
+    {
+      "foto": "Imagenes/espalda1.png",
+      "titulo": "Peso muerto rumano con mancuernas"
+    },{
+      "foto": "Imagenes/espalda1.png",
+      "titulo": "Peso muerto rumano a una pierna"
+    },{
+      "foto": "Imagenes/espalda1.png",
+      "titulo": "Buenos días con mancuerna al pecho"
+    },{
+      "foto": "Imagenes/espalda1.png",
+      "titulo": "Buenos días bilateral con dos mancuernas"
+    },{
+      "foto": "Imagenes/espalda1.png",
+      "titulo": "Buenos días bilateral con dos mancuernas"
+    },{
+      "foto": "Imagenes/espalda1.png",
+      "titulo": "Superman"
+    },{
+      "foto": "Imagenes/espalda1.png",
+      "titulo": "Superman con pausa"
+    },{
+      "foto": "Imagenes/espalda1.png",
+      "titulo": "Superman alterno"
+    },{
+      "foto": "Imagenes/espalda1.png",
+      "titulo": "Superman alterno"
+    },{
+      "foto": "Imagenes/espalda1.png",
+      "titulo": "Bird dog con mancuerna ligera"
+    },{
+      "foto": "Imagenes/espalda1.png",
+      "titulo": "Back extension en suelo"
+    },{
+      "foto": "Imagenes/espalda1.png",
+      "titulo": "Back extension isométrica"
+    },{
+      "foto": "Imagenes/espalda1.png",
+      "titulo": "Peso muerto estilo maleta unilateral"
+    },{
+      "foto": "Imagenes/espalda1.png",
+      "titulo": "Peso muerto sumo con mancuernas"
+    },{
+      "foto": "Imagenes/espalda1.png",
+      "titulo": "Romanian deadlift lento"
+    },{
+      "foto": "Imagenes/espalda1.png",
+      "titulo": "Romanian deadlift lento"
+    },{
+      "foto": "Imagenes/espalda1.png",
+      "titulo": "Hip extension boca abajo"
+    },{
+      "foto": "Imagenes/espalda1.png",
+      "titulo": "Hip extension boca abajo"
+    },{
+      "foto": "Imagenes/espalda1.png",
+      "titulo": "Good morning sentado con mancuerna"
+    },{
+      "foto": "Imagenes/espalda1.png",
+      "titulo": "Deadlift desde déficit improvisado"
+    }
+  ],
+   "hombroFrontal": [
+    {
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Press militar con mancuernas"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Press militar alternado"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Press militar alternado"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Press Arnold"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Press sentado con mancuernas"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Press con pausa abajo"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Press con pausa abajo"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Press a 1.5 reps"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Elevación frontal con mancuernas"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Press desde suelo con mancuernas"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Elevación frontal alternada"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Elevación frontal martillo"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Elevación frontal unilateral"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Elevación frontal con pausa arriba"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Front raise sentado"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Front raise inclinado hacia atrás"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Z-press con mancuernas"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Pike push ups"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Pike push ups"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Handstand lean push up asistida en pared"
+    }
+  ],
+   "hombroLateral": [
+    {
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Elevaciones laterales de pie"
+    },{
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Elevaciones laterales sentado"
+    },{
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Elevaciones laterales alternadas"
+    },{
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Elevaciones laterales unilaterales"
+    },{
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Elevaciones laterales con pausa arriba"
+    },{
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Elevaciones laterales lentas"
+    },{
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Elevaciones laterales inclinadas"
+    },{
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Lean-away lateral raise sujetándote de algo"
+    },{
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Elevaciones laterales parciales"
+    },{
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Elevaciones laterales 1.5 reps"
+    },{
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Lateral raise en plano escapular"
+    },{
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Press amplio con mancuernas"
+    },{
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Upright row con mancuernas moderado"
+    },{
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Upright row unilateral"
+    },{
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "High pull con mancuernas ligero"
+    },{
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Press Arnold con énfasis lateral"
+    },{
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Lateral raise tumbado de lado"
+    },{
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Isométrico lateral a 90°"
+    },{
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Mecánicas laterales: completo + parciales"
+    },{
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Remo alto abierto ligero"
+    }
+  ],
+   "hombroPosterior": [
+    {
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Pájaros inclinados con mancuernas"
+    },{
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Pájaros sentado inclinado"
+    },{
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Pájaros con pausa arriba"
+    },{
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Pájaros alternados"
+    },{
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Reverse fly pecho apoyado"
+    },{
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Rear delt row con codos abiertos"
+    },{
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Remo alto inclinado"
+    },{
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "W-raise inclinado"
+    },{
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "T-raise inclinado"
+    },{
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Reverse fly tumbado boca abajo"
+    },{
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Face pull improvisado tumbado"
+    },{
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Remo invertido con codos abiertos"
+    },{
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Remo invertido al pecho alto"
+    },{
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Dominada escapular con codos algo abiertos"
+    },{
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Cuban raise ligero"
+    },{
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Pull apart improvisado si tienes toalla con tensión manual"
+    },{
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Reverse snow angel"
+    },{
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Isométrico posterior inclinado"
+    },{
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "External rotation raise con mancuernas ligeras"
+    }
+  ],
+   "bicepLarga": [
+    {
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Curl inclinado con mancuernas"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Curl inclinado alternado"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Curl inclinado con supinación"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Curl de pie con mancuernas codos atrás"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Curl unilateral codo atrás"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Curl martillo cruzado"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Curl martillo alternado"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Curl martillo inclinado"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Drag curl con mancuernas"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Drag curl unilateral"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Chin ups cerradas"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Chin ups con pausa arriba"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Chin ups negativas"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Chin ups lentas"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Curl concentrado con hombro atrás"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Curl sentado inclinado parcial estirada"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Curl a 1.5 inclinado"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Isométrico a media flexión"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Curl en banco improvisado hacia atrás"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Curl supinado unilateral con estiramiento total"
+    }
+  ],
+   "bicepCorta": [
+    {
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Curl supino de pie"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Curl alternado clásico"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Curl bilateral estricto"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Curl concentrado"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Curl spider improvisado"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Curl preacher improvisado"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Curl preacher unilateral"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Curl con agarre amplio usando barra si tienes"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Curl con mancuerna y codo al frente"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Curl sentado estricto"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Curl con pausa arriba"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Curl 21s con mancuernas"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Curl a dos tiempos"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Curl unilateral cruzando hacia pecho"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Chin up supina media"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Chin up con agarre ancho supino"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Curl en pared evitando balanceo"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Curl alterno con giro fuerte"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Squeeze curl"
+    },{
+      "foto": "Imagenes/bicep.png",
+      "titulo": "Isométrico de curl a 90°"
+    }
+  ],
+  "braquial": [
+    {
+    "foto": "Imagenes/tricep3.png",
+    "titulo": "Curl martillo"
+    },{
+    "foto": "Imagenes/tricep3.png",
+    "titulo": "Curl martillo alternado"
+    },{
+    "foto": "Imagenes/tricep3.png",
+    "titulo": "Curl martillo cruzado"
+    },{
+    "foto": "Imagenes/tricep3.png",
+    "titulo": "Curl martillo sentado"
+    },{
+    "foto": "Imagenes/tricep3.png",
+    "titulo": "Curl martillo inclinado"
+    }, {
+    "foto": "Imagenes/tricep3.png",
+    "titulo": "Curl martillo con pausa"
+    }, {
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Curl reverso con mancuernas"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Curl reverso alternado"
+    }, {
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Zottman curl"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Zottman alternado"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Curl tipo pinwheel"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Curl neutro unilateral"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Remo invertido agarre neutro si tu barra lo permite"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Chin up con toalla si puedes colgarla seguro"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Dead hang en barra"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Hold isométrico de mancuerna tipo martillo"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Reverse curl lento"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Curl martillo 1.5 reps"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Curl reverso sentado"
+    },{
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Carry estático con mancuernas"
+    }
+  ],
+ "tricepLarga": [
+      {
+    "foto": "Imagenes/tricep3.png",
+    "titulo": "Extensión por encima de la cabeza con una mancuerna"
+    },{
+    "foto": "Imagenes/tricep3.png",
+    "titulo": "Extensión unilateral overhead"
+    },{
+    "foto": "Imagenes/tricep3.png",
+    "titulo": "Extensión sentado overhead"
+    },
+    {
+    "foto": "Imagenes/tricep3.png",
+    "titulo": "Extensión overhead con pausa abajo"
+    },
+    {
+    "foto": "Imagenes/tricep3.png",
+    "titulo": "Skull crusher con mancuernas"
+    },
+    {
+    "foto": "Imagenes/tricep3.png",
+    "titulo": "Skull crusher en suelo"
+    },
+    {
+    "foto": "Imagenes/tricep3.png",
+    "titulo": "Tate press"
+    },
+    {
+    "foto": "Imagenes/tricep3.png",
+    "titulo": "Press cerrado con mancuernas"
+    },
+    {
+    "foto": "Imagenes/tricep3.png",
+    "titulo": "Press cerrado en suelo"
+    },
+    {
+    "foto": "Imagenes/tricep3.png",
+    "titulo": "Press JM improvisado con mancuernas"
+    },
+    {
+    "foto": "Imagenes/tricep3.png",
+    "titulo": "Flexiones cerradas"
+    },
+    { 
+    "foto": "Imagenes/tricep3.png",
+    "titulo": "Flexiones diamante"
+    },
+    {
+    "foto": "Imagenes/tricep3.png",
+    "titulo": "Fondos entre sillas seguras"
+    },
+    {
+    "foto": "Imagenes/tricep3.png",
+    "titulo": "Fondos en banco/silla"
+    },
+    {
+    "foto": "Imagenes/tricep3.png",
+    "titulo": "Bodyweight triceps extensions en barra"
+    },
+      {
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Extensión de tríceps en barra inclinada"
+    },
+      {
+      "foto": "Imagenes/tricep3.png",
+      "titulo": "Kickback con hombro atrás"
+    },
+    {
+    "foto": "Imagenes/tricep3.png",
+    "titulo": "Kickback con pausa"
+    },
+    {
+    "foto": "Imagenes/tricep3.png",
+    "titulo": "Isométrico overhead"
+    }
+  ],
+
+"tricepLateral": [
+    {
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Press cerrado con mancuernas"
+    },
+    {
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Press neutro cerrado"
+    },
+    {
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Floor press cerrado"
+    },
+    {
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Flexiones diamante"
+    },
+    {
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Flexiones cerradas con pausa"
+    },
+    {
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Bodyweight triceps extension en barra"
+    },
+    {
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Extensión en barra con cuerpo inclinado"
+    },
+    {
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Fondos en silla"
+    },
+    {
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Fondos entre bancos seguros"
+    },
+    {
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Kickback clásico"
+    },
+    {
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Kickback cruzado"
+    },
+    {
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Skull crusher neutro"
+    },
+    {
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Tate press"
+    },
+    {
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "JM press con mancuernas"
+    },
+    {
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Press militar cerrado"
+    },
+    {
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Press en suelo al fallo parcial"
+    },
+    {
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Triceps push-up en barra baja"
+    },
+    {
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Flexiones pseudo diamante"
+    },
+    {
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Isométrico de bloqueo arriba"
+    },
+    {
+      "foto": "Imagenes/tricep2.png",
+      "titulo": "Press cerrado alternado"
+    }
+],
+
+"tricepMedial": [
+      {
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Press cerrado estricto"
+    },
+    {
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Floor press con pausa"
+    },
+    {
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Flexiones cerradas lentas"
+    },
+    {
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Flexiones diamante lentas"
+    },
+    {
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Bodyweight triceps extension lenta"
+    },
+    {
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Extensión overhead ligera alta repetición"
+    },
+    {
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Skull crusher con control"
+    },
+    {
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Tate press controlado"
+    },
+    {
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Kickback estricto"
+    },
+    {
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Press neutral grip"
+    },
+    {
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Press cerrado con mancuerna única"
+    },
+    {
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Fondos con bloqueo arriba"
+    },
+    {
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Push-up en barra con agarre estrecho"
+    },
+    {
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Extensión unilateral en suelo"
+    },
+    {
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "JM press ligero"
+    },
+    {
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Isométrico de extensión completa"
+    },
+    {
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Repeticiones parciales de bloqueo"
+    },
+    {
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Press cerrado sentado"
+    },
+    {
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Extensión tras nuca unilateral"
+    },
+    {
+      "foto": "Imagenes/tricep1.png",
+      "titulo": "Close-grip push-up con manos elevadas"
+    }
+],
+"antebrazoFlexores": [
+      {
+      "foto": "Imagenes/anteBrazo.png",
+      "titulo": "Curl de muñeca sentado con mancuernas"
+    },
+    {
+      "foto": "Imagenes/anteBrazo.png",
+      "titulo": "Curl de muñeca bilateral"
+    },
+    {
+      "foto": "Imagenes/anteBrazo.png",
+      "titulo": "Curl de muñeca unilateral"
+    },
+    {
+      "foto": "Imagenes/anteBrazo.png",
+      "titulo": "Curl de muñeca detrás de espalda"
+    },
+    {
+      "foto": "Imagenes/anteBrazo.png",
+      "titulo": "Wrist curl lento"
+    },
+    {
+      "foto": "Imagenes/anteBrazo.png",
+      "titulo": "Wrist curl con pausa arriba"
+    },
+    {
+      "foto": "Imagenes/anteBrazo.png",
+      "titulo": "Hold de mancuerna con dedos"
+    },
+    {
+      "foto": "Imagenes/anteBrazo.png",
+      "titulo": "Farmer hold con mancuernas"
+    },
+    {
+      "foto": "Imagenes/anteBrazo.png",
+      "titulo": "Farmer walk en sitio"
+    },
+    {
+      "foto": "Imagenes/anteBrazo.png",
+      "titulo": "Dead hang"
+    },
+    {
+      "foto": "Imagenes/anteBrazo.png",
+      "titulo": "Dead hang a una mano asistido"
+    },
+    {
+      "foto": "Imagenes/anteBrazo.png",
+      "titulo": "Hang con toalla"
+    },
+    {
+      "foto": "Imagenes/anteBrazo.png",
+      "titulo": "Sostén de disco/mancuerna por tiempo"
+    },
+    {
+      "foto": "Imagenes/anteBrazo.png",
+      "titulo": "Curl de dedos con mancuerna"
+    },
+    {
+      "foto": "Imagenes/anteBrazo.png",
+      "titulo": "Flexión de muñeca isométrica"
+    },
+    {
+      "foto": "Imagenes/anteBrazo.png",
+      "titulo": "Curl martillo hold"
+    },
+    {
+      "foto": "Imagenes/anteBrazo.png",
+      "titulo": "Chin up hold"
+    },
+    {
+      "foto": "Imagenes/anteBrazo.png",
+      "titulo": "Pull up hold"
+    },
+    {
+      "foto": "Imagenes/anteBrazo.png",
+      "titulo": "Remo invertido agarrando toalla"
+    },
+    {
+      "foto": "Imagenes/anteBrazo.png",
+      "titulo": "Carry unilateral tipo maleta"
+    }
+],
+ "antebrazoExtensores": [
+    {
+        "foto": "Imagenes/anteBrazo.png",
+        "titulo": "Curl reverso con mancuernas"
+      },
+      {
+        "foto": "Imagenes/anteBrazo.png",
+        "titulo": "Curl reverso alternado"
+      },
+      {
+        "foto": "Imagenes/anteBrazo.png",
+        "titulo": "Curl reverso sentado"
+      },
+      {
+        "foto": "Imagenes/anteBrazo.png",
+        "titulo": "Extensión de muñeca con mancuerna"
+      },
+      {
+        "foto": "Imagenes/anteBrazo.png",
+        "titulo": "Extensión de muñeca unilateral"
+      },
+      {
+        "foto": "Imagenes/anteBrazo.png",
+        "titulo": "Extensión de muñeca con antebrazo apoyado"
+      },
+      {
+        "foto": "Imagenes/anteBrazo.png",
+        "titulo": "Reverse wrist curl detrás de espalda"
+      },
+      {
+        "foto": "Imagenes/anteBrazo.png",
+        "titulo": "Zottman curl"
+      },
+      {
+        "foto": "Imagenes/anteBrazo.png",
+        "titulo": "Zottman lento"
+      },
+      {
+        "foto": "Imagenes/anteBrazo.png",
+        "titulo": "Pronación de muñeca con mancuerna"
+      },
+      {
+        "foto": "Imagenes/anteBrazo.png",
+        "titulo": "Supinación de muñeca con mancuerna"
+      },
+      {
+        "foto": "Imagenes/anteBrazo.png",
+        "titulo": "Radial deviation con mancuerna"
+      },
+      {
+        "foto": "Imagenes/anteBrazo.png",
+        "titulo": "Ulnar deviation con mancuerna"
+      },
+      {
+        "foto": "Imagenes/anteBrazo.png",
+        "titulo": "Hold pronado de mancuerna"
+      },
+      {
+        "foto": "Imagenes/anteBrazo.png",
+        "titulo": "Isométrico de extensión de muñeca"
+      },
+      {
+        "foto": "Imagenes/anteBrazo.png",
+        "titulo": "Finger extension manual contra resistencia"
+      },
+      {
+        "foto": "Imagenes/anteBrazo.png",
+        "titulo": "Curl martillo reverso"
+      },
+      {
+        "foto": "Imagenes/anteBrazo.png",
+        "titulo": "Reverse curl con pausa arriba"
+      },
+      {
+        "foto": "Imagenes/anteBrazo.png",
+        "titulo": "Sostén de mancuerna por extremo"
+      },
+      {
+        "foto": "Imagenes/anteBrazo.png",
+        "titulo": "Lever hold improvisado con mancuerna"
+      }
+],
+
+  "agarre": [
+    {
+      "foto": "Imagenes/anteBrazo.png",
+      "titulo": "Dead hang en barra"
+    },
+    {
+      "foto": "Imagenes/anteBrazo.png",
+      "titulo": "Dead hang con una mano asistida"
+    },
+    {
+      "foto": "Imagenes/anteBrazo.png",
+      "titulo": "Pull up hold"
+    },
+    {
+      "foto": "Imagenes/anteBrazo.png",
+      "titulo": "Chin up hold"
+    },
+    {
+      "foto": "Imagenes/anteBrazo.png",
+      "titulo": "Farmer hold con mancuernas pesadas"
+    },
+    {
+      "foto": "Imagenes/anteBrazo.png",
+      "titulo": "Farmer walk en sitio"
+    },
+    {
+      "foto": "Imagenes/anteBrazo.png",
+      "titulo": "Carry unilateral tipo maleta"
+    },
+    {
+      "foto": "Imagenes/anteBrazo.png",
+      "titulo": "Sostén de mancuerna por cabezal"
+    },
+    {
+      "foto": "Imagenes/anteBrazo.png",
+      "titulo": "Sostén por pinza si tu mancuerna lo permite"
+    },
+    {
+      "foto": "Imagenes/anteBrazo.png",
+      "titulo": "Hang con toalla"
+    },
+    {
+      "foto": "Imagenes/anteBrazo.png",
+      "titulo": "Remo invertido con toalla"
+    },
+    {
+      "foto": "Imagenes/anteBrazo.png",
+      "titulo": "Curl martillo isométrico"
+    },
+    {
+      "foto": "Imagenes/anteBrazo.png",
+      "titulo": "Peso muerto con mancuerna y agarre sin straps"
+    },
+    {
+      "foto": "Imagenes/anteBrazo.png",
+      "titulo": "RDL pesado por tiempo"
+    },
+    {
+      "foto": "Imagenes/anteBrazo.png",
+      "titulo": "Encogimientos con mancuerna pesada por tiempo"
+    },
+    {
+      "foto": "Imagenes/anteBrazo.png",
+      "titulo": "Pull up de repeticiones bajas con agarre fuerte"
+    },
+    {
+      "foto": "Imagenes/anteBrazo.png",
+      "titulo": "Aguante arriba en dominada"
+    },
+    {
+      "foto": "Imagenes/anteBrazo.png",
+      "titulo": "Aguante abajo activo en barra"
+    },
+    {
+      "foto": "Imagenes/anteBrazo.png",
+      "titulo": "Plate pinch improvisado"
+    },
+    {
+      "foto": "Imagenes/anteBrazo.png",
+      "titulo": "Towel wring con toalla húmeda"
+    }
+],
+
+
+  "abdomenSuperior": [
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Crunch en suelo"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Crunch con mancuerna al pecho"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Crunch con pausa arriba"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Crunch lento"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Crunch con piernas a 90°"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Crunch con brazos extendidos"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Sit up"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Sit up con mancuerna"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Sit up con pausa"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Sit up parcial controlado"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Toe touches"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Toe touches con mancuerna ligera"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Crunch bicicleta lento"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Crunch en V parcial"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Hollow crunch"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Reverse crunch corto con énfasis en flexión de tronco"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Dead bug crunch"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Isométrico de crunch arriba"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Pullover crunch con mancuerna"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Jackknife parcial"
+    }
+],
+
+  "abdomenInferior": [
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Elevaciones de piernas acostado"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Elevaciones de piernas con pausa abajo sin tocar suelo"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Elevaciones de piernas lentas"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Reverse crunch"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Reverse crunch con pausa arriba"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Reverse crunch con cadera elevada"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Knee raises acostado"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Leg raises en barra"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Knee raises en barra"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Hanging knee raises con pausa"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Hanging leg raises parciales"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Toes to bar parciales"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Flutter kicks"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Scissor kicks"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Hollow body leg lowers"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Mountain climbers lentos"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Mountain climbers rápidos"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "V-ups con énfasis abajo"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Candlestick roll up"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "L-sit tuck hold en barras o soportes"
+    }
+],
+
+  "oblicuos": [
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Russian twists"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Russian twists con mancuerna"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Side crunch"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Side crunch con pausa"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Heel touches"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Bicicleta abdominal"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Windshield wipers acostado"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Windshield wipers en barra parciales"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Side plank"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Side plank con elevación de cadera"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Side plank reach through"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Woodchopper con mancuerna"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Woodchopper de abajo arriba"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Woodchopper de arriba abajo"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Suitcase carry en sitio con mancuerna"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Side bend con mancuerna"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Side bend unilateral lento"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Hanging knee raises hacia un lado"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Toe touch cruzado"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Isométrico oblicuo en side plank"
+    }
+],
+
+  "coreProfundo": [
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Plancha frontal"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Plancha con pausa larga"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Plancha con arrastre de mancuerna"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Plancha con toque de hombro"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Plancha con antebrazos"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "RKC plank"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Hollow hold"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Hollow rock"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Dead bug"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Dead bug con mancuerna"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Bird dog"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Bird dog lento"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Bear plank"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Bear crawl en sitio"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Mountain climber controlado"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Plancha lateral"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Carry unilateral tipo maleta"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Overhead hold con mancuerna unilateral"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "Turkish get up parcial"
+    },
+    {
+      "foto": "Imagenes/abdomen.png",
+      "titulo": "L-sit tuck hold"
+    }
+],
+  "cuadriceps": [
+    {
+      "foto": "Imagenes/cuadriceps.png",
+      "titulo": "Sentadilla goblet con mancuerna"
+    },
+    {
+      "foto": "Imagenes/cuadriceps.png",
+      "titulo": "Sentadilla goblet con pausa abajo"
+    },
+    {
+      "foto": "Imagenes/cuadriceps.png",
+      "titulo": "Sentadilla goblet lenta"
+    },
+    {
+      "foto": "Imagenes/cuadriceps.png",
+      "titulo": "Sentadilla talones elevados con mancuerna"
+    },
+    {
+      "foto": "Imagenes/cuadriceps.png",
+      "titulo": "Sentadilla estrecha con mancuerna"
+    },
+    {
+      "foto": "Imagenes/cuadriceps.png",
+      "titulo": "Sentadilla ciclista con mancuerna"
+    },
+    {
+      "foto": "Imagenes/cuadriceps.png",
+      "titulo": "Sentadilla frontal con dos mancuernas"
+    },
+    {
+      "foto": "Imagenes/cuadriceps.png",
+      "titulo": "Sentadilla 1.5 reps"
+    },
+    {
+      "foto": "Imagenes/cuadriceps.png",
+      "titulo": "Sentadilla al cajón lenta"
+    },
+    {
+      "foto": "Imagenes/cuadriceps.png",
+      "titulo": "Wall sit con mancuerna"
+    },
+    {
+      "foto": "Imagenes/cuadriceps.png",
+      "titulo": "Zancadas al frente con mancuernas"
+    },
+    {
+      "foto": "Imagenes/cuadriceps.png",
+      "titulo": "Zancadas caminando en sitio"
+    },
+    {
+      "foto": "Imagenes/cuadriceps.png",
+      "titulo": "Split squat con mancuernas"
+    },
+    {
+      "foto": "Imagenes/cuadriceps.png",
+      "titulo": "Bulgarian split squat"
+    },
+    {
+      "foto": "Imagenes/cuadriceps.png",
+      "titulo": "Bulgarian split squat con pausa"
+    },
+    {
+      "foto": "Imagenes/cuadriceps.png",
+      "titulo": "Step up con mancuerna"
+    },
+    {
+      "foto": "Imagenes/cuadriceps.png",
+      "titulo": "Step up alto"
+    },
+    {
+      "foto": "Imagenes/cuadriceps.png",
+      "titulo": "Sissy squat asistida"
+    },
+    {
+      "foto": "Imagenes/cuadriceps.png",
+      "titulo": "Sissy squat asistida con mancuerna al pecho"
+    },
+    {
+      "foto": "Imagenes/cuadriceps.png",
+      "titulo": "Spanish squat improvisada"
+    }
+],
+  "femorales": [
+    {
+      "foto": "Imagenes/esquicios.png",
+      "titulo": "Peso muerto rumano con mancuernas"
+    },
+    {
+      "foto": "Imagenes/esquicios.png",
+      "titulo": "Peso muerto rumano unilateral"
+    },
+    {
+      "foto": "Imagenes/esquicios.png",
+      "titulo": "Peso muerto rumano con pausa abajo"
+    },
+    {
+      "foto": "Imagenes/esquicios.png",
+      "titulo": "RDL lento"
+    },
+    {
+      "foto": "Imagenes/esquicios.png",
+      "titulo": "Buenos días con mancuerna"
+    },
+    {
+      "foto": "Imagenes/esquicios.png",
+      "titulo": "Buenos días sentado"
+    },
+    {
+      "foto": "Imagenes/esquicios.png",
+      "titulo": "Hip hinge isométrico"
+    },
+    {
+      "foto": "Imagenes/esquicios.png",
+      "titulo": "Curl femoral deslizante en suelo con toallas"
+    },
+    {
+      "foto": "Imagenes/esquicios.png",
+      "titulo": "Curl femoral deslizante unilateral"
+    },
+    {
+      "foto": "Imagenes/esquicios.png",
+      "titulo": "Curl femoral deslizante con pausa"
+    },
+    {
+      "foto": "Imagenes/esquicios.png",
+      "titulo": "Puente de glúteo con pies lejos"
+    },
+    {
+      "foto": "Imagenes/esquicios.png",
+      "titulo": "Hip thrust con pies adelantados"
+    },
+    {
+      "foto": "Imagenes/esquicios.png",
+      "titulo": "Nordic curl asistido si puedes anclarte"
+    },
+    {
+      "foto": "Imagenes/esquicios.png",
+      "titulo": "Nordic negativo asistido"
+    },
+    {
+      "foto": "Imagenes/esquicios.png",
+      "titulo": "Buenos días a una pierna"
+    },
+    {
+      "foto": "Imagenes/esquicios.png",
+      "titulo": "Deadlift sumo con mancuernas"
+    },
+    {
+      "foto": "Imagenes/esquicios.png",
+      "titulo": "Staggered RDL"
+    },
+    {
+      "foto": "Imagenes/esquicios.png",
+      "titulo": "Back extension en suelo"
+    },
+    {
+      "foto": "Imagenes/esquicios.png",
+      "titulo": "Swing con mancuerna controlado"
+    },
+    {
+      "foto": "Imagenes/esquicios.png",
+      "titulo": "Hamstring walkouts desde puente"
+    }
+],
+  "gluteoMayor": [
+    {
+      "foto": "Imagenes/gluteo.png",
+      "titulo": "Hip thrust con mancuerna"
+    },
+    {
+      "foto": "Imagenes/gluteo.png",
+      "titulo": "Hip thrust con pausa arriba"
+    },
+    {
+      "foto": "Imagenes/gluteo.png",
+      "titulo": "Hip thrust unilateral"
+    },
+    {
+      "foto": "Imagenes/gluteo.png",
+      "titulo": "Puente de glúteo con mancuerna"
+    },
+    {
+      "foto": "Imagenes/gluteo.png",
+      "titulo": "Puente de glúteo unilateral"
+    },
+    {
+      "foto": "Imagenes/gluteo.png",
+      "titulo": "Frog pumps"
+    },
+    {
+      "foto": "Imagenes/gluteo.png",
+      "titulo": "Frog pumps con mancuerna"
+    },
+    {
+      "foto": "Imagenes/gluteo.png",
+      "titulo": "Sentadilla profunda goblet"
+    },
+    {
+      "foto": "Imagenes/gluteo.png",
+      "titulo": "Bulgarian split squat inclinando torso"
+    },
+    {
+      "foto": "Imagenes/gluteo.png",
+      "titulo": "Zancada atrás larga con mancuernas"
+    },
+    {
+      "foto": "Imagenes/gluteo.png",
+      "titulo": "Step up alto"
+    },
+    {
+      "foto": "Imagenes/gluteo.png",
+      "titulo": "Peso muerto rumano"
+    },
+    {
+      "foto": "Imagenes/gluteo.png",
+      "titulo": "Peso muerto sumo con mancuernas"
+    },
+    {
+      "foto": "Imagenes/gluteo.png",
+      "titulo": "Buenos días con mancuerna"
+    },
+    {
+      "foto": "Imagenes/gluteo.png",
+      "titulo": "Pull through improvisado con toalla/carga si puedes"
+    },
+    {
+      "foto": "Imagenes/gluteo.png",
+      "titulo": "Donkey kicks"
+    },
+    {
+      "foto": "Imagenes/gluteo.png",
+      "titulo": "Donkey kicks con mancuerna detrás de rodilla"
+    },
+    {
+      "foto": "Imagenes/gluteo.png",
+      "titulo": "Fire hydrants"
+    },
+    {
+      "foto": "Imagenes/gluteo.png",
+      "titulo": "Glute bridge march"
+    },
+    {
+      "foto": "Imagenes/gluteo.png",
+      "titulo": "Hip thrust 1.5 reps"
+    }
+],
+  "gluteoMedio": [
+    {
+      "foto": "Imagenes/gluteo.png",
+      "titulo": "Abducción de cadera acostado de lado"
+    },
+    {
+      "foto": "Imagenes/gluteo.png",
+      "titulo": "Abducción de cadera con mancuerna sobre muslo"
+    },
+    {
+      "foto": "Imagenes/gluteo.png",
+      "titulo": "Clamshell sin banda"
+    },
+    {
+      "foto": "Imagenes/gluteo.png",
+      "titulo": "Clamshell con isométrico"
+    },
+    {
+      "foto": "Imagenes/gluteo.png",
+      "titulo": "Fire hydrants"
+    },
+    {
+      "foto": "Imagenes/gluteo.png",
+      "titulo": "Fire hydrants con pausa"
+    },
+    {
+      "foto": "Imagenes/gluteo.png",
+      "titulo": "Monster walk improvisado sin banda en semisentadilla"
+    },
+    {
+      "foto": "Imagenes/gluteo.png",
+      "titulo": "Lateral leg raises de pie"
+    },
+    {
+      "foto": "Imagenes/gluteo.png",
+      "titulo": "Lateral leg raises acostado"
+    },
+    {
+      "foto": "Imagenes/gluteo.png",
+      "titulo": "Curtsy lunge"
+    },
+    {
+      "foto": "Imagenes/gluteo.png",
+      "titulo": "Curtsy lunge con mancuerna"
+    },
+    {
+      "foto": "Imagenes/gluteo.png",
+      "titulo": "Step down lateral controlado"
+    },
+    {
+      "foto": "Imagenes/gluteo.png",
+      "titulo": "Single leg squat a banco"
+    },
+    {
+      "foto": "Imagenes/gluteo.png",
+      "titulo": "Hip airplane asistido"
+    },
+    {
+      "foto": "Imagenes/gluteo.png",
+      "titulo": "Side plank con abducción de pierna"
+    },
+    {
+      "foto": "Imagenes/gluteo.png",
+      "titulo": "Skater squat asistida"
+    },
+    {
+      "foto": "Imagenes/gluteo.png",
+      "titulo": "Bulgarian split squat estabilizando cadera"
+    },
+    {
+      "foto": "Imagenes/gluteo.png",
+      "titulo": "Cossack squat"
+    },
+    {
+      "foto": "Imagenes/gluteo.png",
+      "titulo": "Cossack squat con mancuerna"
+    },
+    {
+      "foto": "Imagenes/gluteo.png",
+      "titulo": "Isométrico de abducción lateral"
+    }
+],
+  "Abductores": [
+    {
+      "foto": "Imagenes/cuadriceps.png",
+      "titulo": "Sentadilla sumo con mancuerna"
+    },
+    {
+      "foto": "Imagenes/cuadriceps.png",
+      "titulo": "Sentadilla sumo con pausa"
+    },
+    {
+      "foto": "Imagenes/cuadriceps.png",
+      "titulo": "Peso muerto sumo con mancuernas"
+    },
+    {
+      "foto": "Imagenes/cuadriceps.png",
+      "titulo": "Cossack squat"
+    },
+    {
+      "foto": "Imagenes/cuadriceps.png",
+      "titulo": "Cossack squat con mancuerna"
+    },
+    {
+      "foto": "Imagenes/cuadriceps.png",
+      "titulo": "Zancada lateral"
+    },
+    {
+      "foto": "Imagenes/cuadriceps.png",
+      "titulo": "Zancada lateral con mancuerna"
+    },
+    {
+      "foto": "Imagenes/cuadriceps.png",
+      "titulo": "Copenhagen plank con apoyo de rodilla"
+    },
+    {
+      "foto": "Imagenes/cuadriceps.png",
+      "titulo": "Copenhagen plank completa si puedes"
+    },
+    {
+      "foto": "Imagenes/cuadriceps.png",
+      "titulo": "Aductor squeeze con mancuerna/objeto entre rodillas"
+    },
+    {
+      "foto": "Imagenes/cuadriceps.png",
+      "titulo": "Puente de glúteo apretando objeto entre rodillas"
+    },
+    {
+      "foto": "Imagenes/cuadriceps.png",
+      "titulo": "Sentadilla amplia lenta"
+    },
+    {
+      "foto": "Imagenes/cuadriceps.png",
+      "titulo": "Desplante lateral profundo"
+    },
+    {
+      "foto": "Imagenes/cuadriceps.png",
+      "titulo": "Side lunge to balance"
+    },
+    {
+      "foto": "Imagenes/cuadriceps.png",
+      "titulo": "Elevación de pierna inferior acostado de lado"
+    },
+    {
+      "foto": "Imagenes/cuadriceps.png",
+      "titulo": "Isométrico aductor en pared"
+    },
+    {
+      "foto": "Imagenes/cuadriceps.png",
+      "titulo": "Step out amplio controlado"
+    },
+    {
+      "foto": "Imagenes/cuadriceps.png",
+      "titulo": "Goblet squat amplia"
+    },
+    {
+      "foto": "Imagenes/cuadriceps.png",
+      "titulo": "Sumo squat 1.5 reps"
+    },
+    {
+      "foto": "Imagenes/cuadriceps.png",
+      "titulo": "Wall sit con squeeze entre rodillas"
+    }
+],
+  "pantorrillaGastrocnemio": [
+    {
+      "foto": "Imagenes/pantorrilla.png",
+      "titulo": "Elevación de talones de pie"
+    },
+    {
+      "foto": "Imagenes/pantorrilla.png",
+      "titulo": "Elevación de talones de pie con mancuerna"
+    },
+    {
+      "foto": "Imagenes/pantorrilla.png",
+      "titulo": "Elevación unilateral de talón"
+    },
+    {
+      "foto": "Imagenes/pantorrilla.png",
+      "titulo": "Elevación unilateral con pausa arriba"
+    },
+    {
+      "foto": "Imagenes/pantorrilla.png",
+      "titulo": "Elevación unilateral lenta"
+    },
+    {
+      "foto": "Imagenes/pantorrilla.png",
+      "titulo": "Elevación en escalón con rango completo"
+    },
+    {
+      "foto": "Imagenes/pantorrilla.png",
+      "titulo": "Elevación en escalón unilateral"
+    },
+    {
+      "foto": "Imagenes/pantorrilla.png",
+      "titulo": "Donkey calf raises improvisadas"
+    },
+    {
+      "foto": "Imagenes/pantorrilla.png",
+      "titulo": "Calf raises con pies rectos"
+    },
+    {
+      "foto": "Imagenes/pantorrilla.png",
+      "titulo": "Calf raises puntas hacia afuera"
+    },
+    {
+      "foto": "Imagenes/pantorrilla.png",
+      "titulo": "Calf raises puntas hacia adentro"
+    },
+    {
+      "foto": "Imagenes/pantorrilla.png",
+      "titulo": "Calf raises explosivas"
+    },
+    {
+      "foto": "Imagenes/pantorrilla.png",
+      "titulo": "Calf raises 1.5 reps"
+    },
+    {
+      "foto": "Imagenes/pantorrilla.png",
+      "titulo": "Isométrico arriba de puntas"
+    },
+    {
+      "foto": "Imagenes/pantorrilla.png",
+      "titulo": "Saltos suaves de pantorrilla"
+    },
+    {
+      "foto": "Imagenes/pantorrilla.png",
+      "titulo": "Pogos"
+    },
+    {
+      "foto": "Imagenes/pantorrilla.png",
+      "titulo": "Farmer hold en puntas"
+    },
+    {
+      "foto": "Imagenes/pantorrilla.png",
+      "titulo": "Marcha en puntas con mancuerna"
+    },
+    {
+      "foto": "Imagenes/pantorrilla.png",
+      "titulo": "Step hold en puntas"
+    },
+    {
+      "foto": "Imagenes/pantorrilla.png",
+      "titulo": "Jump rope sin cuerda"
+    }
+],
+  "pantorrillaSoleo": [
+    {
+      "foto": "Imagenes/pantorrilla.png",
+      "titulo": "Elevación de talones sentado"
+    },
+    {
+      "foto": "Imagenes/pantorrilla.png",
+      "titulo": "Elevación sentado con mancuerna sobre rodillas"
+    },
+    {
+      "foto": "Imagenes/pantorrilla.png",
+      "titulo": "Elevación sentado unilateral"
+    },
+    {
+      "foto": "Imagenes/pantorrilla.png",
+      "titulo": "Elevación sentado con pausa arriba"
+    },
+    {
+      "foto": "Imagenes/pantorrilla.png",
+      "titulo": "Elevación sentado lenta"
+    },
+    {
+      "foto": "Imagenes/pantorrilla.png",
+      "titulo": "Seated calf raise 1.5 reps"
+    },
+    {
+      "foto": "Imagenes/pantorrilla.png",
+      "titulo": "Isométrico sentado arriba"
+    },
+    {
+      "foto": "Imagenes/pantorrilla.png",
+      "titulo": "Wall sit en puntas"
+    },
+    {
+      "foto": "Imagenes/pantorrilla.png",
+      "titulo": "Bent-knee calf raise de pie"
+    },
+    {
+      "foto": "Imagenes/pantorrilla.png",
+      "titulo": "Bent-knee calf raise unilateral"
+    },
+    {
+      "foto": "Imagenes/pantorrilla.png",
+      "titulo": "Bent-knee calf raise en escalón"
+    },
+    {
+      "foto": "Imagenes/pantorrilla.png",
+      "titulo": "Marcha con rodillas flexionadas en puntas"
+    },
+    {
+      "foto": "Imagenes/pantorrilla.png",
+      "titulo": "Donkey seated raise improvisada"
+    },
+    {
+      "foto": "Imagenes/pantorrilla.png",
+      "titulo": "Soleus raise apoyado en pared"
+    },
+    {
+      "foto": "Imagenes/pantorrilla.png",
+      "titulo": "Pulsos cortos con rodilla flexionada"
+    },
+    {
+      "foto": "Imagenes/pantorrilla.png",
+      "titulo": "Tibia adelantada calf raise"
+    },
+    {
+      "foto": "Imagenes/pantorrilla.png",
+      "titulo": "Farmer hold con rodillas flexionadas en puntas"
+    },
+    {
+      "foto": "Imagenes/pantorrilla.png",
+      "titulo": "Squat hold en puntas"
+    },
+    {
+      "foto": "Imagenes/pantorrilla.png",
+      "titulo": "Split squat calf raise"
+    },
+    {
+      "foto": "Imagenes/pantorrilla.png",
+      "titulo": "Seated raise con tempo lento"
+    }
+],
+  "trapecioSuperior": [
+    {
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Encogimientos con mancuernas"
+    },
+    {
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Encogimientos con pausa arriba"
+    },
+    {
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Encogimientos lentos"
+    },
+    {
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Encogimientos unilaterales"
+    },
+    {
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Farmer hold pesado"
+    },
+    {
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Farmer walk en sitio"
+    },
+    {
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Carry unilateral tipo maleta"
+    },
+    {
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Encogimiento inclinado"
+    },
+    {
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Encogimiento detrás del cuerpo con mancuernas"
+    },
+    {
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "High pull con mancuernas"
+    },
+    {
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Upright row moderado"
+    },
+    {
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Upright row unilateral"
+    },
+    {
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Dead hang activo"
+    },
+    {
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Pull up hold arriba"
+    },
+    {
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Chin up hold arriba"
+    },
+    {
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Overhead hold con mancuernas"
+    },
+    {
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Shrug isométrico"
+    },
+    {
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Jump shrugs con mancuernas ligeras"
+    },
+    {
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Scapular pull ups"
+    },
+    {
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Isométrico de elevación escapular"
+    }
+],
+  "trapecioMedio": [
+    {
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Y-raise inclinado"
+    },
+    {
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "T-raise inclinado"
+    },
+    {
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "W-raise inclinado"
+    },
+    {
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Trap-3 raise"
+    },
+    {
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Reverse fly inclinado"
+    },
+    {
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Reverse fly con pausa"
+    },
+    {
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Remo invertido al pecho"
+    },
+    {
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Remo invertido con codos abiertos"
+    },
+    {
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Dominada escapular"
+    },
+    {
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Colgado activo en barra"
+    },
+    {
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Face pull improvisado tumbado"
+    },
+    {
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Pulldown escapular en barra"
+    },
+    {
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Remo alto inclinado"
+    },
+    {
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Rear delt row"
+    },
+    {
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Superman Y raise"
+    },
+    {
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Prone snow angel"
+    },
+    {
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Isométrico de retracción escapular"
+    },
+    {
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Pull up pecho a barra parcial"
+    },
+    {
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Scapular wall slides"
+    },
+    {
+      "foto": "Imagenes/espalda3.png",
+      "titulo": "Hold en Y boca abajo"
+    }
+],
+  "cuello": [
+    {
+      "foto": "https://static.vecteezy.com/system/resources/previews/010/221/471/non_2x/neck-human-body-line-icon-illustration-vector.jpg",
+      "titulo": "Flexión cervical acostado"
+    },
+    {
+      "foto": "https://static.vecteezy.com/system/resources/previews/010/221/471/non_2x/neck-human-body-line-icon-illustration-vector.jpg",
+      "titulo": "Extensión cervical acostado boca abajo"
+    },
+    {
+      "foto": "https://static.vecteezy.com/system/resources/previews/010/221/471/non_2x/neck-human-body-line-icon-illustration-vector.jpg",
+      "titulo": "Inclinación lateral cervical"
+    },
+    {
+      "foto": "https://static.vecteezy.com/system/resources/previews/010/221/471/non_2x/neck-human-body-line-icon-illustration-vector.jpg",
+      "titulo": "Rotación cervical controlada"
+    },
+    {
+      "foto": "https://static.vecteezy.com/system/resources/previews/010/221/471/non_2x/neck-human-body-line-icon-illustration-vector.jpg",
+      "titulo": "Isométrico frontal con mano"
+    },
+    {
+      "foto": "https://static.vecteezy.com/system/resources/previews/010/221/471/non_2x/neck-human-body-line-icon-illustration-vector.jpg",
+      "titulo": "Isométrico posterior con mano"
+    },
+    {
+      "foto": "https://static.vecteezy.com/system/resources/previews/010/221/471/non_2x/neck-human-body-line-icon-illustration-vector.jpg",
+      "titulo": "Isométrico lateral con mano derecha"
+    },
+    {
+      "foto": "https://static.vecteezy.com/system/resources/previews/010/221/471/non_2x/neck-human-body-line-icon-illustration-vector.jpg",
+      "titulo": "Isométrico lateral con mano izquierda"
+    },
+    {
+      "foto": "https://static.vecteezy.com/system/resources/previews/010/221/471/non_2x/neck-human-body-line-icon-illustration-vector.jpg",
+      "titulo": "Isométrico diagonal frontal"
+    },
+    {
+      "foto": "https://static.vecteezy.com/system/resources/previews/010/221/471/non_2x/neck-human-body-line-icon-illustration-vector.jpg",
+      "titulo": "Isométrico diagonal posterior"
+    },
+    {
+      "foto": "https://static.vecteezy.com/system/resources/previews/010/221/471/non_2x/neck-human-body-line-icon-illustration-vector.jpg",
+      "titulo": "Chin tucks"
+    },
+    {
+      "foto": "https://static.vecteezy.com/system/resources/previews/010/221/471/non_2x/neck-human-body-line-icon-illustration-vector.jpg",
+      "titulo": "Chin tucks con pausa"
+    },
+    {
+      "foto": "https://static.vecteezy.com/system/resources/previews/010/221/471/non_2x/neck-human-body-line-icon-illustration-vector.jpg",
+      "titulo": "Neck nods suaves"
+    },
+    {
+      "foto": "https://static.vecteezy.com/system/resources/previews/010/221/471/non_2x/neck-human-body-line-icon-illustration-vector.jpg",
+      "titulo": "Extensión cervical con toalla ligera"
+    },
+    {
+      "foto": "https://static.vecteezy.com/system/resources/previews/010/221/471/non_2x/neck-human-body-line-icon-illustration-vector.jpg",
+      "titulo": "Flexión cervical con toalla ligera"
+    },
+    {
+      "foto": "https://static.vecteezy.com/system/resources/previews/010/221/471/non_2x/neck-human-body-line-icon-illustration-vector.jpg",
+      "titulo": "Lateral flexion con toalla"
+    },
+    {
+      "foto": "https://static.vecteezy.com/system/resources/previews/010/221/471/non_2x/neck-human-body-line-icon-illustration-vector.jpg",
+      "titulo": "Wall neck press frontal"
+    },
+    {
+      "foto": "https://static.vecteezy.com/system/resources/previews/010/221/471/non_2x/neck-human-body-line-icon-illustration-vector.jpg",
+      "titulo": "Wall neck press posterior"
+    },
+    {
+      "foto": "https://static.vecteezy.com/system/resources/previews/010/221/471/non_2x/neck-human-body-line-icon-illustration-vector.jpg",
+      "titulo": "Wall neck press lateral"
+    },
+    {
+      "foto": "https://static.vecteezy.com/system/resources/previews/010/221/471/non_2x/neck-human-body-line-icon-illustration-vector.jpg",
+      "titulo": "Control cervical en cuatro apoyos"
+    }
+]
+}

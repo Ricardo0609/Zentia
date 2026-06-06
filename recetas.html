@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Zentia — Recetas</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Gabarito:wght@400..900&family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <div id="overlay" class="overlay"></div>
+    <nav id="side-menu" class="side-menu">
+        <div class="close-btn" id="close-menu">&times;</div>
+        <a href="index.html">
+            <svg xmlns="http://www.w3.org/2000/svg" height="20px" viewBox="0 -960 960 960" width="20px" fill="currentColor"><path d="M240-200h120v-240h240v240h120v-360L480-740 240-560v360Zm-80 80v-480l320-240 320 240v480H520v-240h-80v240H160Zm320-350Z"/></svg>
+            Inicio
+        </a>
+        <a class="asel" href="recetas.html">
+            <svg xmlns="http://www.w3.org/2000/svg" height="20px" viewBox="0 -960 960 960" width="20px" fill="currentColor"><path d="M280-80v-366q-54-14-87-57t-33-97v-280h80v280h40v-280h80v280h40v-280h80v280q0 54-33 97t-87 57v366h-80Zm240 0v-320h-40v-280q0-83 58.5-141.5T680-880v800h-160Z"/></svg>
+            Recetas
+        </a>
+        <a href="index.html">
+            <svg xmlns="http://www.w3.org/2000/svg" height="20px" viewBox="0 -960 960 960" width="20px" fill="currentColor"><path d="m260-520 220-360 220 360H260ZM700-80q-75 0-127.5-52.5T520-260q0-75 52.5-127.5T700-440q75 0 127.5 52.5T880-260q0 75-52.5 127.5T700-80Zm-580-20v-320h320v320H120Zm580-60q42 0 71-29t29-71q0-42-29-71t-71-29q-42 0-71 29t-29 71q0 42 29 71t71 29Zm-500-20h160v-160H200v160Zm202-420h156l-78-126-78 126Zm78 0ZM360-340Zm340 80Z"/></svg>
+            Ejercicios
+        </a>
+    </nav>
+
+    <header>
+        <a href="index.html">
+            <svg xmlns="http://www.w3.org/2000/svg" height="28px" viewBox="0 -960 960 960" width="28px" fill="#252525">
+                <path d="m313-440 224 224-57 56-320-320 320-320 57 56-224 224h487v80H313Z"/>
+            </svg>
+        </a>
+        <svg id="menu" xmlns="http://www.w3.org/2000/svg" height="28px" viewBox="0 -960 960 960" width="28px" fill="#252525">
+            <path d="M120-240v-80h720v80H120Zm0-200v-80h720v80H120Zm0-200v-80h720v80H120Z"/>
+        </svg>
+    </header>
+
+    <!-- Categorías de comida -->
+    <div class="categorias-scroll" id="categorias-tab">
+        <!-- Generado por JS -->
+    </div>
+
+    <!-- Grid de recetas -->
+    <div class="recetas-grid" id="recetas-container">
+        <!-- Generado por JS -->
+    </div>
+
+    <!-- Modal de receta con macros -->
+    <div id="modal-receta" class="modal-overlay" style="display:none;">
+        <div class="modal-card">
+            <button class="modal-close" id="modal-close-btn">&times;</button>
+            <img id="modal-img" src="" alt="" class="modal-img">
+            <h2 id="modal-titulo" class="modal-titulo"></h2>
+            <div class="macros-grid" id="modal-macros">
+                <!-- Macros generados por JS -->
+            </div>
+            <p id="modal-desc" class="modal-desc"></p>
+        </div>
+    </div>
+
+    <script src="comida.js"></script>
+    <script src="js.js"></script>
+</body>
+</html>

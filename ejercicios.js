@@ -1,0 +1,401 @@
+/* ========================================
+   ZENTIA — ejercicios.js
+   Maneja toda la lógica de rutinas y ejercicios
+   ======================================== */
+
+// Estructura de la semana: qué grupos musculares van cada día
+const RUTINA_SEMANA = {
+    Lunes:     ["pechoSuperior","pechoMedio","pechoInferior","tricepLarga","tricepLateral","tricepMedial","hombroFrontal","hombroLateral","hombroPosterior"],
+    Martes:    ["dorsales","espaldaMedia","espaldaAlta","lumbar","bicepLarga","bicepCorta","braquial","antebrazoFlexores","antebrazoExtensores","agarre"],
+    Miercoles: null, // Descanso
+    Jueves:    ["hombroFrontal","hombroLateral","hombroPosterior","cuadriceps","femorales","gluteoMayor","gluteoMedio","Abductores","pantorrillaGastrocnemio","pantorrillaSoleo"],
+    Viernes:   ["pechoSuperior","pechoMedio","pechoInferior","tricepLarga","tricepLateral","tricepMedial","bicepLarga","bicepCorta","braquial","antebrazoFlexores","antebrazoExtensores","agarre"],
+    Sabado:    ["dorsales","espaldaMedia","espaldaAlta","lumbar","cuadriceps","femorales","gluteoMayor","gluteoMedio","Abductores","pantorrillaGastrocnemio","pantorrillaSoleo"],
+    Domingo:   null  // Descanso
+};
+
+// Nombres amigables para cada grupo muscular
+const NOMBRES_GRUPOS = {
+    pechoSuperior: "Pecho Superior",
+    pechoMedio: "Pecho Medio",
+    pechoInferior: "Pecho Inferior",
+    dorsales: "Dorsales",
+    espaldaMedia: "Espalda Media",
+    espaldaAlta: "Espalda Alta",
+    lumbar: "Lumbar",
+    hombroFrontal: "Hombro Frontal",
+    hombroLateral: "Hombro Lateral",
+    hombroPosterior: "Hombro Posterior",
+    bicepLarga: "Bícep (Cabeza Larga)",
+    bicepCorta: "Bícep (Cabeza Corta)",
+    braquial: "Braquial",
+    tricepLarga: "Trícep (Cabeza Larga)",
+    tricepLateral: "Trícep (Cabeza Lateral)",
+    tricepMedial: "Trícep (Cabeza Medial)",
+    antebrazoFlexores: "Antebrazo Flexores",
+    antebrazoExtensores: "Antebrazo Extensores",
+    agarre: "Agarre",
+    abdomenSuperior: "Abdomen Superior",
+    abdomenInferior: "Abdomen Inferior",
+    oblicuos: "Oblicuos",
+    coreProfundo: "Core Profundo",
+    cuadriceps: "Cuádriceps",
+    femorales: "Femorales",
+    gluteoMayor: "Glúteo Mayor",
+    gluteoMedio: "Glúteo Medio",
+    Abductores: "Abductores",
+    pantorrillaGastrocnemio: "Pantorrilla (Gastrocnemio)",
+    pantorrillaSoleo: "Pantorrilla (Sóleo)",
+    trapecioSuperior: "Trapecio Superior",
+    trapecioMedio: "Trapecio Medio",
+    cuello: "Cuello"
+};
+
+// Placeholder si no hay imagen
+const PLACEHOLDER_IMG = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='52' height='48' viewBox='0 0 52 48'%3E%3Crect fill='%235B6B86' width='52' height='48' rx='8'/%3E%3Cpath fill='%23A8B3C4' d='M16 32v-8l6-6 6 6 6-8 8 16H16zm6-14a4 4 0 100-8 4 4 0 000 8z'/%3E%3C/svg%3E";
+
+// Elige un ejercicio al azar de una categoría
+function elegirAleatorio(lista) {
+    if (!lista || lista.length === 0) return null;
+    return lista[Math.floor(Math.random() * lista.length)];
+}
+
+// Genera la rutina completa (1 ejercicio por grupo)
+function generarRutina(data) {
+    const rutina = {};
+    for (const dia in RUTINA_SEMANA) {
+        const grupos = RUTINA_SEMANA[dia];
+        if (!grupos) { rutina[dia] = null; continue; }
+        rutina[dia] = {};
+        grupos.forEach(grupo => {
+            if (data[grupo] && data[grupo].length > 0) {
+                rutina[dia][grupo] = elegirAleatorio(data[grupo]);
+            }
+        });
+    }
+    return rutina;
+}
+
+// Guarda la rutina en localStorage
+function guardarRutina(rutina) {
+    localStorage.setItem('zentia_rutina', JSON.stringify(rutina));
+    localStorage.setItem('zentia_rutina_fecha', Date.now().toString());
+}
+
+// Carga la rutina guardada o genera una nueva
+function cargarOGenerarRutina(data) {
+    const guardada = localStorage.getItem('zentia_rutina');
+    if (guardada) {
+        try { return JSON.parse(guardada); } catch(e) {}
+    }
+    const nueva = generarRutina(data);
+    guardarRutina(nueva);
+    return nueva;
+}
+
+// Nombre del día actual
+function getDiaActual() {
+    const dias = ["Domingo","Lunes","Martes","Miercoles","Jueves","Viernes","Sabado"];
+    return dias[new Date().getDay()];
+}
+
+// Fecha en que se generó la rutina -> días restantes
+function diasParaCambio() {
+    const saved = localStorage.getItem('zentia_rutina_fecha');
+    if (!saved) return 0;
+    const diasPasados = Math.floor((Date.now() - parseInt(saved)) / 86400000);
+    return Math.max(0, 5 - diasPasados);
+}
+
+// ========================================
+//  PANTALLA: INDEX — Lista de días
+// ========================================
+function renderDias(rutina) {
+    const container = document.getElementById('dias-container');
+    if (!container) return;
+
+    const diaHoy = getDiaActual();
+
+    Object.keys(rutina).forEach(dia => {
+        const info = rutina[dia];
+        const esHoy = dia === diaHoy;
+        const esDescanso = !info;
+
+        const el = document.createElement('a');
+        el.href = `mirutina.html?dia=${encodeURIComponent(dia)}`;
+        el.classList.add('dia-item', esHoy ? 'hoy' : (esDescanso ? 'descanso' : 'otro'));
+
+        // Nombre del día
+        const nombre = document.createElement('span');
+        nombre.classList.add('dia-nombre');
+        nombre.textContent = dia;
+        el.appendChild(nombre);
+
+        if (esDescanso) {
+            const descansoTxt = document.createElement('span');
+            descansoTxt.classList.add('dia-grupos');
+            descansoTxt.textContent = '💤 Descanso';
+            el.appendChild(descansoTxt);
+        } else {
+            // Grupos del día (nombres compactos)
+            const grupos = RUTINA_SEMANA[dia];
+            const gruposUnicos = [...new Set(grupos.map(g => {
+                const nombre = NOMBRES_GRUPOS[g] || g;
+                // Simplificar: solo la primera palabra del grupo
+                return nombre.split(' ')[0];
+            }))];
+
+            const gruposTxt = document.createElement('span');
+            gruposTxt.classList.add('dia-grupos');
+            gruposTxt.textContent = gruposUnicos.slice(0, 5).join(' · ');
+            el.appendChild(gruposTxt);
+        }
+
+        // Flecha
+        const arrow = document.createElement('span');
+        arrow.classList.add('dia-icon');
+        arrow.innerHTML = esDescanso ? '' : `<svg xmlns="http://www.w3.org/2000/svg" height="20px" viewBox="0 -960 960 960" width="20px" fill="rgba(255,255,255,.7)"><path d="M504-480 320-664l56-56 240 240-240 240-56-56 184-184Z"/></svg>`;
+        el.appendChild(arrow);
+
+        container.appendChild(el);
+    });
+
+    // Contador de días
+    const countdown = document.getElementById('countdown-display');
+    if (countdown) countdown.textContent = `${diasParaCambio()} días`;
+}
+
+// ========================================
+//  PANTALLA: MIRUTINA — Detalle del día
+// ========================================
+function renderDiaDetalle(data, rutina) {
+    const container = document.getElementById('ejercicios-dia-container');
+    const tituloEl = document.getElementById('dia-titulo');
+    if (!container) return;
+
+    // Leer el día del URL param, si no poner el de hoy
+    const params = new URLSearchParams(window.location.search);
+    const dia = params.get('dia') || getDiaActual();
+
+    if (tituloEl) tituloEl.textContent = dia;
+
+    const ejerciciosDia = rutina[dia];
+    if (!ejerciciosDia) {
+        container.innerHTML = `<div style="text-align:center;padding:40px;color:var(--gris3);font-family:var(--Gabarito);font-size:20px;">💤 Día de descanso.<br>El cuerpo también necesita recuperarse.</div>`;
+        return;
+    }
+
+    // Agrupar por categoría principal
+    const agrupado = {};
+    RUTINA_SEMANA[dia].forEach(grupo => {
+        if (!ejerciciosDia[grupo]) return;
+        const ejAleatorio = ejerciciosDia[grupo];
+        if (!agrupado[grupo]) agrupado[grupo] = [];
+        agrupado[grupo].push(ejAleatorio);
+    });
+
+    Object.keys(agrupado).forEach(grupo => {
+        const card = document.createElement('div');
+        card.classList.add('grupo-card');
+
+        // Header del grupo
+        const header = document.createElement('div');
+        header.classList.add('grupo-header');
+        header.innerHTML = `<span class="grupo-nombre">${NOMBRES_GRUPOS[grupo] || grupo}</span>`;
+        card.appendChild(header);
+
+        // Lista de ejercicios
+        const lista = document.createElement('div');
+        lista.classList.add('grupo-lista');
+
+        agrupado[grupo].forEach(ej => {
+            const item = document.createElement('div');
+            item.classList.add('ejercicio-item');
+
+            const img = document.createElement('img');
+            img.src = ej.foto || PLACEHOLDER_IMG;
+            img.alt = ej.titulo;
+            img.onerror = () => { img.src = PLACEHOLDER_IMG; };
+
+            const txt = document.createElement('span');
+            txt.textContent = ej.titulo;
+
+            const check = document.createElement('div');
+            check.classList.add('check-icon');
+            check.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" height="14px" viewBox="0 -960 960 960" width="14px" fill="white"><path d="M382-240 154-468l57-57 171 171 367-367 57 57-424 424Z"/></svg>`;
+
+            item.appendChild(img);
+            item.appendChild(txt);
+            item.appendChild(check);
+
+            // Toggle completado
+            item.addEventListener('click', () => {
+                item.classList.toggle('completado');
+            });
+
+            lista.appendChild(item);
+        });
+
+        card.appendChild(lista);
+        container.appendChild(card);
+    });
+
+    // Countdown
+    const countdown = document.getElementById('countdown-display');
+    if (countdown) countdown.textContent = `${diasParaCambio()} días`;
+}
+
+// ========================================
+//  PANTALLA: EJERCICIOS — Grid de músculos
+// ========================================
+const MUSCULOS_CONFIG = [
+    { key: 'pechoSuperior',          label: 'Pecho Superior',   img: 'Imagenes/pechosuperior.png', href: 'pecho.html' },
+    { key: 'pechoMedio',             label: 'Pecho Medio',      img: 'Imagenes/pecho.png',         href: 'pecho.html' },
+    { key: 'pechoInferior',          label: 'Pecho Inferior',   img: 'Imagenes/pecho.png',         href: 'pecho.html' },
+    { key: 'dorsales',               label: 'Dorsales',         img: 'Imagenes/espalda4.png',      href: 'dorsales.html' },
+    { key: 'espaldaMedia',           label: 'Espalda Media',    img: 'Imagenes/espalda2.png',      href: 'espaldamedia.html' },
+    { key: 'espaldaAlta',            label: 'Espalda Alta',     img: 'Imagenes/espalda3.png',      href: 'espaldaAlta.html' },
+    { key: 'lumbar',                 label: 'Lumbar',           img: 'Imagenes/espalda.png',       href: 'lumbar.html' },
+    { key: 'hombroFrontal',          label: 'Hombro Frontal',   img: 'Imagenes/hombro.png',        href: 'hombro.html' },
+    { key: 'hombroLateral',          label: 'Hombro Lateral',   img: 'Imagenes/hombro.png',        href: 'hombro.html' },
+    { key: 'hombroPosterior',        label: 'Hombro Post.',     img: 'Imagenes/hombro.png',        href: 'hombro.html' },
+    { key: 'bicepLarga',             label: 'Bícep Larga',      img: 'Imagenes/bicep.png',         href: 'bicep.html' },
+    { key: 'bicepCorta',             label: 'Bícep Corta',      img: 'Imagenes/bicep.png',         href: 'bicep.html' },
+    { key: 'braquial',               label: 'Braquial',         img: 'Imagenes/bicep.png',         href: 'bicep.html' },
+    { key: 'tricepLarga',            label: 'Trícep Larga',     img: 'Imagenes/tricep.png',        href: 'tricep.html' },
+    { key: 'tricepLateral',          label: 'Trícep Lateral',   img: 'Imagenes/tricep.png',        href: 'tricep.html' },
+    { key: 'tricepMedial',           label: 'Trícep Medial',    img: 'Imagenes/tricep.png',        href: 'tricep.html' },
+    { key: 'antebrazoFlexores',      label: 'Antebrazo Flex.',  img: 'Imagenes/antebrazo.png',     href: 'antebrazo.html' },
+    { key: 'antebrazoExtensores',    label: 'Antebrazo Ext.',   img: 'Imagenes/antebrazo.png',     href: 'antebrazo.html' },
+    { key: 'agarre',                 label: 'Agarre',           img: 'Imagenes/agarre.png',        href: 'antebrazo.html' },
+    { key: 'abdomenSuperior',        label: 'Abdomen Sup.',     img: 'Imagenes/abdomen.png',       href: 'abdomen.html' },
+    { key: 'abdomenInferior',        label: 'Abdomen Inf.',     img: 'Imagenes/abdomen.png',       href: 'abdomen.html' },
+    { key: 'oblicuos',               label: 'Oblicuos',         img: 'Imagenes/abdomen.png',       href: 'abdomen.html' },
+    { key: 'coreProfundo',           label: 'Core Profundo',    img: 'Imagenes/abdomen.png',       href: 'abdomen.html' },
+    { key: 'cuadriceps',             label: 'Cuádriceps',       img: 'Imagenes/cuad.png',          href: 'piernas.html' },
+    { key: 'femorales',              label: 'Femorales',        img: 'Imagenes/femoral.png',       href: 'piernas.html' },
+    { key: 'gluteoMayor',            label: 'Glúteo Mayor',     img: 'Imagenes/gluteo.png',        href: 'piernas.html' },
+    { key: 'gluteoMedio',            label: 'Glúteo Medio',     img: 'Imagenes/gluteo.png',        href: 'piernas.html' },
+    { key: 'Abductores',             label: 'Abductores',       img: 'Imagenes/gluteo.png',        href: 'piernas.html' },
+    { key: 'pantorrillaGastrocnemio',label: 'Pantorrilla G.',   img: 'Imagenes/pantorrilla.png',   href: 'pantorrilla.html' },
+    { key: 'pantorrillaSoleo',       label: 'Pantorrilla S.',   img: 'Imagenes/pantorrilla.png',   href: 'pantorrilla.html' },
+    { key: 'trapecioSuperior',       label: 'Trapecio Sup.',    img: 'Imagenes/trapecio.png',      href: 'trapecio.html' },
+    { key: 'trapecioMedio',          label: 'Trapecio Medio',   img: 'Imagenes/trapecio.png',      href: 'trapecio.html' },
+    { key: 'cuello',                 label: 'Cuello',           img: 'https://static.vecteezy.com/system/resources/previews/010/221/471/non_2x/neck-human-body-line-icon-illustration-vector.jpg', href: 'cuello.html' },
+];
+
+function renderMusculosGrid(data) {
+    const container = document.getElementById('musculos-container');
+    if (!container) return;
+
+    MUSCULOS_CONFIG.forEach(musculo => {
+        if (!data[musculo.key]) return;
+
+        const card = document.createElement('a');
+        card.href = `${musculo.href}?grupo=${encodeURIComponent(musculo.key)}`;
+        card.classList.add('musculo-card');
+
+        const img = document.createElement('img');
+        img.src = musculo.img;
+        img.alt = musculo.label;
+        img.onerror = () => { img.src = PLACEHOLDER_IMG; };
+
+        const lbl = document.createElement('span');
+        lbl.textContent = musculo.label;
+
+        card.appendChild(img);
+        card.appendChild(lbl);
+        container.appendChild(card);
+    });
+}
+
+// ========================================
+//  PÁGINAS DE GRUPO INDIVIDUAL (ej. dorsales.html)
+// ========================================
+function renderGrupoIndividual(data) {
+    // Detectar el contenedor y la key del grupo
+    const params = new URLSearchParams(window.location.search);
+    let grupoKey = params.get('grupo');
+
+    // Fallback: intentar inferir del ID del contenedor
+    if (!grupoKey) {
+        const ids = ['espAlt','espMed','cuello','dorsales','lumbar'];
+        const keyMap = { espAlt: 'espaldaAlta', espMed: 'espaldaMedia', cuello: 'cuello', dorsales: 'dorsales', lumbar: 'lumbar' };
+        for (const id of ids) {
+            if (document.getElementById(id)) {
+                grupoKey = keyMap[id] || id;
+                break;
+            }
+        }
+    }
+
+    if (!grupoKey || !data[grupoKey]) return;
+
+    // Intentar encontrar el contenedor con el ID mapeado del código viejo
+    const idsMapeados = {
+        espaldaAlta: 'espAlt', espaldaMedia: 'espMed', cuello: 'cuello',
+        dorsales: 'dorsales', lumbar: 'lumbar'
+    };
+    const containerId = idsMapeados[grupoKey] || grupoKey;
+    const container = document.getElementById(containerId);
+    if (!container) return;
+
+    data[grupoKey].forEach(ej => {
+        const item = document.createElement('div');
+        item.classList.add('ejercicio-item', 'grisClaro');
+
+        const img = document.createElement('img');
+        img.src = ej.foto || PLACEHOLDER_IMG;
+        img.alt = ej.titulo;
+        img.onerror = () => { img.src = PLACEHOLDER_IMG; };
+        img.style.cssText = 'width:52px;height:48px;border-radius:8px;object-fit:cover;flex-shrink:0;';
+
+        const txt = document.createElement('span');
+        txt.classList.add('texto2');
+        txt.textContent = ej.titulo;
+
+        item.appendChild(img);
+        item.appendChild(txt);
+
+        item.addEventListener('click', () => item.classList.toggle('completado'));
+
+        container.appendChild(item);
+    });
+}
+
+// ========================================
+//  REGENERAR RUTINA (botón Cambiar rutina)
+// ========================================
+window.regenerarRutina = function() {
+    localStorage.removeItem('zentia_rutina');
+    localStorage.removeItem('zentia_rutina_fecha');
+    location.reload();
+};
+
+// ========================================
+//  INIT PRINCIPAL
+// ========================================
+fetch('ejercicios.txt')
+    .then(r => r.json())
+    .then(data => {
+        const rutina = cargarOGenerarRutina(data);
+
+        // Index: días list
+        if (document.getElementById('dias-container')) {
+            renderDias(rutina);
+        }
+
+        // Mi Rutina: detalle del día
+        if (document.getElementById('ejercicios-dia-container')) {
+            renderDiaDetalle(data, rutina);
+        }
+
+        // Grid de músculos
+        if (document.getElementById('musculos-container')) {
+            renderMusculosGrid(data);
+        }
+
+        // Páginas individuales de grupo (espaldaAlta.html etc.)
+        renderGrupoIndividual(data);
+    })
+    .catch(err => console.error('Error cargando ejercicios:', err));

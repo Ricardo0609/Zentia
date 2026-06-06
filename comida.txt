@@ -1,0 +1,199 @@
+{
+  "pollo": [
+    {
+      "foto": "https://d2j9trpqxd6hrn.cloudfront.net/uploads/recipe/picture/215/IMG_9530-500.jpg",
+      "titulo": "Tinga"
+    },
+    {
+      "foto": "https://s-api.qcart.app/images/comoquiero-uploads/images/recipes/originals/3379.jpg?s=716x600&fit=cover&ext=webp",
+      "titulo": "Con arroz"
+    },{
+      "foto": "https://i.ytimg.com/vi/5r3iAtOrR1U/mqdefault.jpg",
+      "titulo": "Molletes de frijol,queso,pollo y aguacate"
+    },{
+      "foto": "https://www.lechedeflorida.com/file/267/Fluffy-Egg-Tacos-web.png",
+      "titulo": "tacos de pollo y huevo"
+    },{
+      "foto": "https://storage.googleapis.com/avena-recipes-v2/agtzfmF2ZW5hLWJvdHIZCxIMSW50ZXJjb21Vc2VyGICAgICa8YQKDA/25-05-2024/cHZu09O7xx3akR04Q3aN1716663780225.jpeg",
+      "titulo": "Tostadas de pollo con queso cottage"
+    },{
+      "foto": "https://storage.googleapis.com/avena-recipes-v2/2019/10/1571783429613.jpeg",
+      "titulo": "Pechuga de pollo con arroz y frijoles"
+    },{
+      "foto": "https://www.goya.com/wp-content/uploads/2023/10/grilled-chicken-and-veggie-pasta-salad.jpg",
+      "titulo": "Pollo con pasta y verduras"
+    },{
+      "foto": "https://www.maricruzavalos.com/wp-content/uploads/2023/07/fajitas-de-pollo-recipe.jpg",
+      "titulo": "Fajitas de pollo con frijoles"
+    },{
+      "foto": "https://salroche.com/cdn/shop/articles/SAM2044_1200x1200.jpg?v=1600900246",
+      "titulo": "Enchiladas"
+    },{
+      "foto": "https://i.blogs.es/1c1a6c/lentejas-con-pollo-en-escabeche/840_560.jpg",
+      "titulo": "Pechuga de pollo con lentejas"
+    }
+  ], 
+  "huevo": [
+    {
+      "foto": "https://app.nutrium.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTM0ODgyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--5fd4e89cf2fe479bbd3b5bf19aa6b8ba912e47a0/omelette%20pollo%20crema.jpg",
+      "titulo": "Omelette de pollo"
+    },
+    {
+      "foto": "https://www.lacostena.com.mx/media/thumbnail/uploads/Recipes/desayuno/73-burrito-de-huevo-con-frijol_receta.jpg.1920x800_q85_center.jpg",
+      "titulo": "Quesadillas de panela,huevo y frijoles"
+    },
+    {
+      "foto": "https://cdn0.recetasgratis.net/es/posts/2/9/7/huevos_con_jamon_y_frijoles_76792_600_square.jpg",
+      "titulo": "Con jamón"
+    },{
+      "foto": "https://storage.googleapis.com/avena-recipes-v2/2019/10/1571780221642.jpeg",
+      "titulo": "Burritos de huevo con frijoles y queso"
+    },{
+      "foto": "https://www.ungatoenlacocina.com/wp-content/uploads/2020/04/2020-04-12-13-59-18-753.jpg",
+      "titulo": "Ensalada de huevo"
+    },{
+      "foto": "https://www.lechedeflorida.com/file/267/Fluffy-Egg-Tacos-web.png",
+      "titulo": "tacos de pollo y huevo"
+    },
+    {
+      "foto": "https://www.cocinavital.mx/wp-content/uploads/2022/06/tostadas-de-atun-con-cilantro-1.jpg",
+      "titulo": "Tostadas de atún y huevo"
+    },
+    {
+      "foto": "https://delination.com/wp-content/uploads/2022/02/Omelette-de-espinacas-con-queso-oaxaca-1-850x550.jpg",
+      "titulo": "Omelette queso Oaxaca"
+    },
+    {
+      "foto": "https://cdn3.myrealfood.app/recipes%2F0DS2IZJ7uwIT4xRZ2FhX%2Fmain.jpg?alt=media&token=da57c8c0-bc95-4d1d-b564-4af11ce61378",
+      "titulo": "Huevos con requesón y pan integral"
+    }
+  ],
+  "verduras": [
+    {
+      "foto": "",
+      "titulo": ""
+    }
+  ],
+  "frutas": [
+    {
+      "foto": "",
+      "titulo": ""
+    }
+  ], 
+  "pan": [
+    {
+      "foto": "https://cdn0.recetasgratis.net/es/posts/7/2/0/sandwich_de_pavo_y_queso_55027_paso_2_600.jpg",
+      "titulo": "Sándwich de pechuga de pavo con queso cottage"
+    },
+     {
+      "foto": "https://i.blogs.es/58e3a2/hot-cakes/1200_900.jpg",
+      "titulo": "Hotcakes de avena"
+    },
+     {
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ5vUgkWhOMMVt_RxITBDL1GvzHFyEypuSxw&s",
+      "titulo": "Mollete con requesón y pechuga de pavo"
+    }
+  ] ,
+  "arroz": [
+    {
+      "foto": "",
+      "titulo": ""
+    }
+  ],
+   "atun": [
+    {
+      "foto": "https://storage.googleapis.com/avena-recipes-v2/agtzfmF2ZW5hLWJvdHIZCxIMSW50ZXJjb21Vc2VyGICAgMW2rJ8LDA/08-05-2023/K3W9d4K6hXJ9wA7fEu8H1683525487544.jpeg",
+      "titulo": "Tostadas de atún y aguacate"
+    },
+    {
+      "foto": "https://www.cocinavital.mx/wp-content/uploads/2022/06/tostadas-de-atun-con-cilantro-1.jpg",
+      "titulo": "Tostadas de atún y huevo"
+    },
+    {
+      "foto": "https://www.iberiamexico.com/-/media/Project/Upfield/MultiBrand/Iberia/Assets/Recipes/Recipe-sync/20492f39-805a-4d6d-b323-7644b41ebaf4.jpg?rev=54a2061339ca46a28cdfcff76ef44c3f&w=520",
+      "titulo": "Tortitas de atún al comal con arroz"
+    }
+  ],
+   "res": [
+    {
+      "foto": "https://www.comiendoenla.com/wp-content/uploads/2020/03/bistec-a-la-plancha.jpg",
+      "titulo": "Bistec con papa cocida y verduras"
+    },{
+      "foto": "https://recetinas.com/wp-content/uploads/2020/03/albondigas-de-carne-con-arroz.jpg",
+      "titulo": "Albóndigas con arroz"
+    },{
+      "foto": "https://imag.bonviveur.com/picadillo-con-arroz.jpg",
+      "titulo": "Picadillo de res con arroz"
+    }
+  ],
+   "puerco": [
+    {
+      "foto": "",
+      "titulo": ""
+    }
+  ],
+   "lacteos": [
+    {
+      "foto": "https://sergiocalderon.com/wp-content/uploads/2025/06/Porridge-de-avena-con-yogur.jpg",
+      "titulo": "Yogur,frutas y semillas"
+    },
+    {
+      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2015/08/peanut_butter_shake.jpeg",
+      "titulo": "Licuado de avena con leche, yogur y crema de cacahuate"
+    }, {
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuBwMIBSFZETmDzNLbJlWMgUsbUdc-lxUTdQ&s",
+      "titulo": "Yogur griego con avena, manzana y semillas"
+    }, {
+      "foto": "",
+      "titulo": ""
+    }
+  ],
+   "cereales": [
+    {
+      "foto": "",
+      "titulo": ""
+    }
+  ],
+   "Pescado": [
+    {
+      "foto": "https://s-api.qcart.app/images/comoquiero-uploads/images/recipes/originals/575.jpg?s=716x600&fit=cover&ext=webp",
+      "titulo": "Filete de pescado con puré de papa"
+    }
+  ],
+   "postres": [
+    {
+      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
+      "titulo": "Brownie"
+    }
+  ],
+  "Jugos": [
+    {
+      "foto": "https://www.clarin.com/2025/01/07/WP619n_8v_720x0__1.jpg",
+      "titulo": "Betabel, zanahoria y naranja"
+    },{
+      "foto": "https://postressaludables.com/wp-content/uploads/2014/03/batidoverdeconespinacas.png",
+      "titulo": "Espinaca, manzana verde, apio y jengibre"
+    },{
+      "foto": "https://editorialtelevisa.brightspotcdn.com/dims4/default/1d9997b/2147483647/strip/true/crop/995x560+3+0/resize/1000x563!/quality/90/?url=https%3A%2F%2Fk2-prod-editorial-televisa.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fwp-content%2Fuploads%2F2020%2F02%2Fjugo-toronja.jpg",
+      "titulo": "Toronja, piña"
+    },{
+      "foto": "https://www.cocinavital.mx/wp-content/uploads/2025/06/agua-de-mango-y-coco.jpg",
+      "titulo": "Agua de coco, mango y semillas de chía"
+    },{
+      "foto": "https://kalter.cl/wp-content/uploads/2019/12/jugo-apio-pepino-perejil.jpg",
+      "titulo": "Pepino, apio, limón y perejil"
+    },{
+      "foto": "https://primicia.com.ve/wp-content/uploads/2020/02/Untitled-1-25.jpg",
+      "titulo": "Zanahoria, manzana y cúrcuma"
+    },{
+      "foto": "https://www.pompadour.es/modules/ph_simpleblog/featured/151.jpg",
+      "titulo": "Arándanos, fresas y agua o infusión de hibisco"
+    },{
+      "foto": "https://poniendoenpractica.com/wp-content/uploads/2025/07/kiwi-y-guayaba.webp",
+      "titulo": "Naranja, guayaba y kiwi"
+    },{
+      "foto": "https://www.mylatinatable.com/wp-content/uploads/2016/01/foto-heore.jpg",
+      "titulo": "Col rizada (kale), pepino, manzana roja y limón"
+    }
+  ]
+}

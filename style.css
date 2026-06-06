@@ -1,0 +1,667 @@
+/* ========================================
+   ZENTIA — CSS Mobile First
+   ======================================== */
+
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    /* Paleta original */
+    --rojo1: #F99A9A;
+    --rojo2: #F66D6D;
+    --rojo3: #F23939;
+    --rojo4: #DD0E0E;
+    --rojo5: #7D0808;
+    --gris1: #A8B3C4;
+    --gris2: #8292AA;
+    --gris3: #5B6B86;
+    --gris4: #384252;
+    --gris5: #242B35;
+    --verde1: #34E678;
+    --verde2: #0EDD9B;
+    --negro: #252525;
+    --blanco: #ffffff;
+    --bg: #F4F5F7;
+
+    /* Tipografías */
+    --Gabarito: "Gabarito", sans-serif;
+    --RobotoFlex: "Roboto Flex", sans-serif;
+
+    /* Spacing base */
+    --gap: 12px;
+    --radius: 12px;
+    --pad: 16px;
+}
+
+html, body {
+    width: 100%;
+    min-height: 100vh;
+    background-color: var(--bg);
+    font-family: var(--RobotoFlex);
+    color: var(--negro);
+    overflow-x: hidden;
+}
+
+a { text-decoration: none; color: inherit; }
+
+/* ========================================
+   HEADER
+   ======================================== */
+header {
+    width: 100%;
+    padding: 12px var(--pad);
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: space-between;
+    background: var(--blanco);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    box-shadow: 0 2px 8px rgba(0,0,0,.08);
+}
+
+header svg { cursor: pointer; }
+header a svg { display: block; }
+
+.logo {
+    font-family: var(--Gabarito);
+    font-size: 22px;
+    color: var(--rojo3);
+    font-weight: 700;
+    letter-spacing: -0.5px;
+}
+
+/* ========================================
+   SIDE MENU
+   ======================================== */
+.side-menu {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 72%;
+    max-width: 280px;
+    height: 100%;
+    background: var(--gris4);
+    z-index: 1000;
+    transform: translateX(100%);
+    transition: transform 0.28s ease;
+    padding: 60px 0 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.side-menu.active { transform: translateX(0); }
+
+.side-menu a {
+    padding: 16px 24px;
+    font-size: 17px;
+    color: var(--blanco);
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    transition: background .2s;
+    font-family: var(--Gabarito);
+}
+
+.side-menu a:hover,
+.side-menu a.asel {
+    background: rgba(255,255,255,.1);
+    color: var(--rojo1);
+}
+
+.close-btn {
+    position: absolute;
+    top: 12px;
+    left: 20px;
+    font-size: 34px;
+    color: var(--gris1);
+    cursor: pointer;
+}
+
+.overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,.65);
+    display: none;
+    z-index: 999;
+}
+.overlay.active { display: block; }
+
+/* ========================================
+   TAB SWITCHER (index)
+   ======================================== */
+.tab-row {
+    display: flex;
+    gap: 10px;
+    padding: var(--pad);
+    background: var(--blanco);
+    border-bottom: 1px solid rgba(0,0,0,.06);
+}
+
+.tab-btn {
+    flex: 1;
+    padding: 10px;
+    border-radius: var(--radius);
+    border: none;
+    font-family: var(--Gabarito);
+    font-size: 16px;
+    cursor: pointer;
+    transition: all .2s;
+}
+
+.tab-btn.active {
+    background: var(--rojo3);
+    color: var(--blanco);
+    box-shadow: 0 3px 10px rgba(242,57,57,.35);
+}
+
+.tab-btn.inactive {
+    background: var(--gris2);
+    color: var(--blanco);
+}
+
+/* ========================================
+   MAIN PANES
+   ======================================== */
+.main-pane { display: none; }
+.main-pane.active { display: block; }
+
+/* ========================================
+   DÍAS (Mi Rutina)
+   ======================================== */
+.dias-list {
+    padding: var(--pad);
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding-bottom: 90px;
+}
+
+.dia-item {
+    width: 100%;
+    padding: 14px 20px;
+    border-radius: var(--radius);
+    border: 3px solid transparent;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+    transition: transform .15s, box-shadow .15s;
+    text-decoration: none;
+}
+
+.dia-item:active { transform: scale(.98); }
+
+.dia-item.hoy {
+    background: var(--rojo3);
+    border-color: var(--rojo4);
+    box-shadow: 0 4px 16px rgba(242,57,57,.3);
+}
+
+.dia-item.otro {
+    background: var(--rojo1);
+    border-color: var(--rojo2);
+}
+
+.dia-item.descanso {
+    background: var(--gris2);
+    border-color: var(--gris3);
+}
+
+.dia-nombre {
+    font-family: var(--Gabarito);
+    font-size: 28px;
+    color: var(--blanco);
+    font-weight: 600;
+}
+
+.dia-grupos {
+    font-family: var(--RobotoFlex);
+    font-size: 12px;
+    color: rgba(255,255,255,.85);
+    text-align: right;
+    max-width: 55%;
+    line-height: 1.4;
+}
+
+.dia-icon {
+    display: flex;
+    align-items: center;
+    opacity: .8;
+}
+
+/* ========================================
+   PAGE HEADER (mirutina.html)
+   ======================================== */
+.page-header {
+    padding: var(--pad);
+    display: flex;
+    justify-content: center;
+}
+
+.dia-badge-active {
+    background: var(--rojo3);
+    border: 3px solid var(--rojo4);
+    color: var(--blanco);
+    font-family: var(--Gabarito);
+    font-size: 36px;
+    padding: 10px 40px;
+    border-radius: var(--radius);
+    box-shadow: 0 4px 16px rgba(242,57,57,.3);
+}
+
+/* ========================================
+   EJERCICIOS DEL DÍA
+   ======================================== */
+.ejercicios-dia {
+    padding: 0 var(--pad) 100px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.grupo-card {
+    background: var(--blanco);
+    border-radius: var(--radius);
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0,0,0,.08);
+}
+
+.grupo-header {
+    background: var(--gris2);
+    border-bottom: 3px solid var(--gris3);
+    padding: 10px 16px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.grupo-nombre {
+    font-family: var(--Gabarito);
+    font-size: 20px;
+    color: var(--blanco);
+}
+
+.grupo-lista {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.ejercicio-item {
+    background: var(--gris1);
+    border: 2.5px solid var(--gris2);
+    border-radius: 10px;
+    padding: 8px 12px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+    transition: all .2s;
+}
+
+.ejercicio-item.completado {
+    background: var(--verde1);
+    border-color: var(--verde2);
+}
+
+.ejercicio-item img {
+    width: 52px;
+    height: 48px;
+    border-radius: 8px;
+    object-fit: cover;
+    flex-shrink: 0;
+}
+
+.ejercicio-item span {
+    font-family: var(--RobotoFlex);
+    font-size: 15px;
+    color: var(--blanco);
+    line-height: 1.3;
+}
+
+/* Check icon */
+.check-icon {
+    margin-left: auto;
+    flex-shrink: 0;
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+    border: 2px solid rgba(255,255,255,.6);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all .2s;
+}
+
+.ejercicio-item.completado .check-icon {
+    background: var(--verde2);
+    border-color: var(--verde2);
+}
+
+/* ========================================
+   GRID DE MÚSCULOS (Ejercicios)
+   ======================================== */
+.musculos-grid {
+    padding: var(--pad);
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    padding-bottom: 30px;
+}
+
+.musculo-card {
+    background: var(--blanco);
+    border: 2.5px solid var(--gris1);
+    border-radius: var(--radius);
+    padding: 12px 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 6px;
+    cursor: pointer;
+    text-decoration: none;
+    transition: transform .15s, box-shadow .15s;
+}
+
+.musculo-card:active { transform: scale(.96); }
+
+.musculo-card img {
+    width: 64px;
+    height: 60px;
+    object-fit: contain;
+}
+
+.musculo-card span {
+    font-family: var(--RobotoFlex);
+    font-size: 11px;
+    color: var(--gris4);
+    text-align: center;
+    line-height: 1.3;
+    font-weight: 600;
+}
+
+/* ========================================
+   LISTA DE EJERCICIOS (ejercicio-grupo pages)
+   ======================================== */
+.lista-header {
+    padding: var(--pad);
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.lista-header img {
+    width: 60px;
+    height: 56px;
+    border-radius: 10px;
+    object-fit: contain;
+}
+
+.lista-header h2 {
+    font-family: var(--Gabarito);
+    font-size: 26px;
+    color: var(--rojo3);
+}
+
+.ejercicios-lista {
+    padding: 0 var(--pad) 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+/* ========================================
+   BOTTOM BAR
+   ======================================== */
+.bottom-bar {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 12px var(--pad);
+    background: var(--blanco);
+    box-shadow: 0 -2px 12px rgba(0,0,0,.1);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    z-index: 50;
+}
+
+.info-chip {
+    flex: 1;
+    background: var(--gris2);
+    border: 2px solid var(--gris3);
+    border-radius: 20px;
+    padding: 8px 14px;
+    font-family: var(--Gabarito);
+    font-size: 13px;
+    color: var(--blanco);
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.btn-cambiar {
+    background: var(--gris4);
+    color: var(--blanco);
+    border: none;
+    border-radius: var(--radius);
+    padding: 10px 16px;
+    font-family: var(--RobotoFlex);
+    font-size: 14px;
+    cursor: pointer;
+    white-space: nowrap;
+    transition: background .2s;
+}
+
+.btn-cambiar:active { background: var(--gris5); }
+
+/* ========================================
+   RECETAS
+   ======================================== */
+.categorias-scroll {
+    display: flex;
+    gap: 8px;
+    padding: 12px var(--pad);
+    overflow-x: auto;
+    scrollbar-width: none;
+    background: var(--blanco);
+    border-bottom: 1px solid rgba(0,0,0,.06);
+    position: sticky;
+    top: 57px;
+    z-index: 90;
+}
+
+.categorias-scroll::-webkit-scrollbar { display: none; }
+
+.cat-pill {
+    padding: 7px 16px;
+    border-radius: 20px;
+    border: 2px solid transparent;
+    font-family: var(--Gabarito);
+    font-size: 14px;
+    white-space: nowrap;
+    cursor: pointer;
+    transition: all .2s;
+    flex-shrink: 0;
+}
+
+.cat-pill.active {
+    background: var(--rojo3);
+    border-color: var(--rojo4);
+    color: var(--blanco);
+    box-shadow: 0 3px 10px rgba(242,57,57,.3);
+}
+
+.cat-pill.inactive {
+    background: var(--gris1);
+    border-color: var(--gris2);
+    color: var(--blanco);
+}
+
+.recetas-grid {
+    padding: var(--pad);
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
+    padding-bottom: 30px;
+}
+
+.receta-card {
+    background: var(--blanco);
+    border-radius: var(--radius);
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0,0,0,.07);
+    cursor: pointer;
+    transition: transform .15s;
+}
+
+.receta-card:active { transform: scale(.97); }
+
+.receta-card img {
+    width: 100%;
+    aspect-ratio: 4/3;
+    object-fit: cover;
+    display: block;
+}
+
+.receta-card .receta-info {
+    padding: 10px;
+}
+
+.receta-card .receta-titulo {
+    font-family: var(--Gabarito);
+    font-size: 13px;
+    color: var(--negro);
+    line-height: 1.3;
+    margin-bottom: 6px;
+}
+
+.macros-mini {
+    display: flex;
+    gap: 4px;
+    flex-wrap: wrap;
+}
+
+.macro-badge {
+    font-size: 10px;
+    padding: 2px 6px;
+    border-radius: 6px;
+    font-weight: 600;
+    font-family: var(--RobotoFlex);
+}
+
+.macro-badge.prot { background: #E8F5E9; color: #2E7D32; }
+.macro-badge.carb { background: #FFF3E0; color: #E65100; }
+.macro-badge.fat  { background: #FCE4EC; color: #880E4F; }
+.macro-badge.cal  { background: #E3F2FD; color: #1565C0; }
+
+/* ========================================
+   MODAL RECETA
+   ======================================== */
+.modal-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,.7);
+    z-index: 2000;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.modal-card {
+    background: var(--blanco);
+    width: 100%;
+    max-width: 480px;
+    border-radius: 20px 20px 0 0;
+    padding: 20px;
+    max-height: 85vh;
+    overflow-y: auto;
+    position: relative;
+}
+
+.modal-close {
+    position: absolute;
+    top: 14px;
+    right: 18px;
+    background: none;
+    border: none;
+    font-size: 28px;
+    cursor: pointer;
+    color: var(--gris3);
+}
+
+.modal-img {
+    width: 100%;
+    aspect-ratio: 16/9;
+    object-fit: cover;
+    border-radius: var(--radius);
+    margin-bottom: 14px;
+}
+
+.modal-titulo {
+    font-family: var(--Gabarito);
+    font-size: 22px;
+    color: var(--negro);
+    margin-bottom: 12px;
+}
+
+.macros-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 8px;
+    margin-bottom: 14px;
+}
+
+.macro-item {
+    background: var(--bg);
+    border-radius: 10px;
+    padding: 10px 6px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 3px;
+}
+
+.macro-item .macro-val {
+    font-family: var(--Gabarito);
+    font-size: 18px;
+    color: var(--rojo3);
+    font-weight: 700;
+}
+
+.macro-item .macro-lbl {
+    font-size: 10px;
+    color: var(--gris3);
+    text-align: center;
+    font-family: var(--RobotoFlex);
+}
+
+.modal-desc {
+    font-family: var(--RobotoFlex);
+    font-size: 14px;
+    color: var(--gris3);
+    line-height: 1.6;
+}
+
+/* ========================================
+   UTILIDADES
+   ======================================== */
+.oculto { display: none !important; }
+
+/* Texto de etiquetas */
+.texto1 { font-family: var(--Gabarito); color: var(--blanco); font-size: 22px; text-align: center; }
+.texto2 { font-family: var(--RobotoFlex); color: var(--blanco); font-size: 15px; }
+.texto3 { font-family: var(--RobotoFlex); color: var(--blanco); font-size: 13px; text-align: center; }
+
+/* Colores helpers */
+.rojoClaro  { background-color: var(--rojo1);  border: 2.5px solid var(--rojo2); }
+.rojoFuerte { background-color: var(--rojo3);  border: 2.5px solid var(--rojo4); }
+.grisClaro  { background-color: var(--gris1);  border: 2.5px solid var(--gris2); }
+.grisFuerte { background-color: var(--gris2);  border: 2.5px solid var(--gris3); }
