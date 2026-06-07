@@ -5,12 +5,12 @@
 
 // Estructura de la semana: qué grupos musculares van cada día
 const RUTINA_SEMANA = {
-    Lunes:     ["pechoSuperior","pechoMedio","pechoInferior","tricepLarga","tricepLateral","tricepMedial","hombroFrontal","hombroLateral","hombroPosterior"],
+    Lunes:     ["pechoSuperior","pechoMedio","pechoInferior","hombroFrontal","hombroLateral","hombroPosterior","tricepLarga","tricepLateral","tricepMedial"],
     Martes:    ["dorsales","espaldaMedia","espaldaAlta","lumbar","bicepLarga","bicepCorta","braquial","antebrazoFlexores","antebrazoExtensores","agarre"],
-    Miercoles: null, // Descanso
-    Jueves:    ["hombroFrontal","hombroLateral","hombroPosterior","cuadriceps","femorales","gluteoMayor","gluteoMedio","Abductores","pantorrillaGastrocnemio","pantorrillaSoleo"],
-    Viernes:   ["pechoSuperior","pechoMedio","pechoInferior","tricepLarga","tricepLateral","tricepMedial","bicepLarga","bicepCorta","braquial","antebrazoFlexores","antebrazoExtensores","agarre"],
-    Sabado:    ["dorsales","espaldaMedia","espaldaAlta","lumbar","cuadriceps","femorales","gluteoMayor","gluteoMedio","Abductores","pantorrillaGastrocnemio","pantorrillaSoleo"],
+    Miercoles: ["hombroFrontal","hombroLateral","hombroPosterior","pantorrillaGastrocnemio","pantorrillaSoleo","cuadriceps","femorales"],
+    Jueves:    ["pechoSuperior","pechoMedio","pechoInferior","bicepLarga","bicepCorta","braquial","tricepLarga","tricepLateral","tricepMedial"],
+    Viernes:   ["dorsales","espaldaMedia","espaldaAlta","lumbar","pantorrillaGastrocnemio","pantorrillaSoleo","cuadriceps","femorales"],
+    Sabado:    null, // Descanso
     Domingo:   null  // Descanso
 };
 
