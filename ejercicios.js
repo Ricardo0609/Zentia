@@ -7,7 +7,7 @@
 const RUTINA_SEMANA = {
     Lunes:     ["pechoSuperior","pechoMedio","pechoInferior","hombroFrontal","hombroLateral","hombroPosterior","tricepLarga","tricepLateral","tricepMedial"],
     Martes:    ["dorsales","espaldaMedia","espaldaAlta","lumbar","bicepLarga","bicepCorta","braquial","antebrazoFlexores","antebrazoExtensores","agarre"],
-    Miercoles: ["hombroFrontal","hombroLateral","hombroPosterior","pantorrillaGastrocnemio","pantorrillaSoleo","cuadriceps","femorales"],
+    Miercoles: ["hombroFrontal","hombroLateral","hombroPosterior","pantorrillaGastrocnemio","pantorrillaSoleo","cuadriceps","femorales","gluteoMayor","gluteoMedio"],
     Jueves:    ["pechoSuperior","pechoMedio","pechoInferior","bicepLarga","bicepCorta","braquial","tricepLarga","tricepLateral","tricepMedial"],
     Viernes:   ["dorsales","espaldaMedia","espaldaAlta","lumbar","pantorrillaGastrocnemio","pantorrillaSoleo","cuadriceps","femorales"],
     Sabado:    null, // Descanso
