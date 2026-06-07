@@ -45,7 +45,7 @@
       "titulo": "Pechuga a la plancha con camote"
     },
     {
-      "foto": "https://i.ytimg.com/vi/z3nROkTHlwU/maxresdefault.jpg",
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/36611/46206.jpg",
       "titulo": "Bowl de pollo con quinoa y espinaca"
     },
     {
@@ -65,7 +65,7 @@
       "titulo": "Milanesa de pollo al horno con puré de papa"
     },
     {
-      "foto": "https://i.ytimg.com/vi/g5N_L_7WwP4/maxresdefault.jpg",
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/28414/27848.jpg",
       "titulo": "Wrap de pollo con aguacate y verduras"
     },
     {
@@ -73,7 +73,7 @@
       "titulo": "Sopa de pollo con pasta y verduras"
     },
     {
-      "foto": "https://imag.bonviveur.com/pechuga-de-pollo-en-salsa-verde.jpg",
+      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/75949a2636b0cb5499f57fae1da32924.jpg",
       "titulo": "Pechuga en salsa verde con frijoles"
     },
     {
@@ -85,7 +85,7 @@
       "titulo": "Tazón de pollo con garbanzos y espinaca"
     },
     {
-      "foto": "https://cdn7.recetasderechupete.com/wp-content/uploads/2022/09/Pollo_con_vegetales_al_horno.jpg",
+      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/93478ffbf458f3ee8ee60d4ffb9ef77b.jpg",
       "titulo": "Pollo con vegetales al horno"
     },
     {
@@ -93,7 +93,7 @@
       "titulo": "Caldo de pollo con verduras y fideos"
     },
     {
-      "foto": "https://i.ytimg.com/vi/5RujAeVlXuc/maxresdefault.jpg",
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/35058/38804.jpg",
       "titulo": "Pollo asado con ensalada de garbanzos"
     },
     {
@@ -128,7 +128,7 @@
     },
     {
       "foto": "https://www.cocinavital.mx/wp-content/uploads/2022/06/tostadas-de-atun-con-cilantro-1.jpg",
-      "titulo": "Tostadas de atún y huevo"
+      "titulo": "Tostadas de atun y huevo"
     },
     {
       "foto": "https://delination.com/wp-content/uploads/2022/02/Omelette-de-espinacas-con-queso-oaxaca-1-850x550.jpg",
@@ -139,7 +139,7 @@
       "titulo": "Huevos con requesón y pan integral"
     },
     {
-      "foto": "https://i.ytimg.com/vi/3OLkBOxdlRM/maxresdefault.jpg",
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/24584/640x426/20067.jpg.jpg",
       "titulo": "Omelette de claras con espinaca y champiñones"
     },
     {
@@ -147,7 +147,7 @@
       "titulo": "Huevos revueltos con avena y plátano"
     },
     {
-      "foto": "https://imag.bonviveur.com/huevos-rancheros.jpg",
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/33945/38173.jpg",
       "titulo": "Huevos rancheros con frijoles"
     },
     {
@@ -159,11 +159,11 @@
       "titulo": "Frittata de verduras y queso panela"
     },
     {
-      "foto": "https://i.ytimg.com/vi/g8o7SXQT3yk/maxresdefault.jpg",
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/13003/9960.jpg",
       "titulo": "Huevos a la mexicana con tortilla y frijoles"
     },
     {
-      "foto": "https://imag.bonviveur.com/tortilla-de-patata-espanola.jpg",
+      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/586395b00b73be5fa1e6bc7c37466989.jpg",
       "titulo": "Tortilla española con papa y cebolla"
     },
     {
@@ -175,7 +175,7 @@
       "titulo": "Huevos benedictinos con jamón de pavo"
     },
     {
-      "foto": "https://i.ytimg.com/vi/5YD5iW9CZWI/maxresdefault.jpg",
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/39108/49520.jpg",
       "titulo": "Tazón proteico de huevo, arroz y brócoli"
     }
   ],
@@ -193,7 +193,7 @@
       "titulo": "Tortitas de atún al comal con arroz"
     },
     {
-      "foto": "https://i.ytimg.com/vi/sT_q5E3_sUk/maxresdefault.jpg",
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/30206/31333.jpg",
       "titulo": "Bowl de atún con quinoa, pepino y limón"
     },
     {
@@ -205,7 +205,7 @@
       "titulo": "Sándwich de atún con aguacate en pan integral"
     },
     {
-      "foto": "https://imag.bonviveur.com/ensalada-de-atun.jpg",
+      "foto": "https://www.recetasgratis.net/imghow/0/0/0/ensalada_de_atun_con_garbanzos_74000_600.jpg",
       "titulo": "Ensalada de atún con garbanzo y jitomate"
     },
     {
@@ -213,7 +213,7 @@
       "titulo": "Arroz con atún y verduras salteadas"
     },
     {
-      "foto": "https://i.ytimg.com/vi/hq0r2Dz56zM/maxresdefault.jpg",
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/1551/10444.jpg",
       "titulo": "Atún con papa cocida y brócoli al vapor"
     },
     {
@@ -231,7 +231,7 @@
       "titulo": "Albóndigas con arroz"
     },
     {
-      "foto": "https://imag.bonviveur.com/picadillo-con-arroz.jpg",
+      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/ea72fa9900c43666d93b1ee65db3cc4a.jpg",
       "titulo": "Picadillo de res con arroz"
     },
     {
@@ -243,7 +243,7 @@
       "titulo": "Carne molida con verduras y arroz integral"
     },
     {
-      "foto": "https://imag.bonviveur.com/sopa-de-res.jpg",
+      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/df496033486c90fa7da702b8d0b284e3.jpg",
       "titulo": "Caldo de res con verduras y papa"
     },
     {
@@ -277,7 +277,7 @@
       "titulo": "Salmón a la plancha con espárrago y arroz"
     },
     {
-      "foto": "https://imag.bonviveur.com/salmon-al-horno.jpg",
+      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/6b68bfa9318a4740e5318dbcfcdb3a9f.jpg",
       "titulo": "Salmón al horno con limón y brócoli"
     },
     {
@@ -297,7 +297,7 @@
       "titulo": "Ceviche de camarón con tostadas"
     },
     {
-      "foto": "https://imag.bonviveur.com/camarones-a-la-plancha.jpg",
+      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/649d21cc41f7b0f699863c32daaa260a.jpg",
       "titulo": "Camarones a la plancha con arroz integral"
     },
     {
@@ -327,7 +327,7 @@
       "titulo": "Yogur griego con avena, manzana y semillas"
     },
     {
-      "foto": "https://i.ytimg.com/vi/Zs2TkT2-GKM/maxresdefault.jpg",
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/35539/38500.jpg",
       "titulo": "Parfait de yogur griego con granola y arándanos"
     },
     {
@@ -335,11 +335,11 @@
       "titulo": "Licuado proteico de leche, plátano y avena"
     },
     {
-      "foto": "https://imag.bonviveur.com/batido-de-proteinas.jpg",
+      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/a859424855075b376997cc0f56a655c6.jpg",
       "titulo": "Batido de chocolate con leche y creatina"
     },
     {
-      "foto": "https://i.ytimg.com/vi/5QmDhxT12Ac/maxresdefault.jpg",
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/26002/24057.jpg",
       "titulo": "Bowl de cottage cheese con piña y semillas"
     },
     {
@@ -351,11 +351,11 @@
       "titulo": "Requesón con frutos rojos y miel"
     },
     {
-      "foto": "https://i.ytimg.com/vi/OxWKbhLpGt4/maxresdefault.jpg",
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/31811/35092.jpg",
       "titulo": "Smoothie de mango, yogur y proteína de vainilla"
     },
     {
-      "foto": "https://imag.bonviveur.com/leche-con-cacao.jpg",
+      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/68798bfd469f697428ee0e94bb5df7b6.jpg",
       "titulo": "Leche con cacao amargo y avena en hojuelas"
     }
   ],
@@ -377,7 +377,7 @@
       "titulo": "Tostada integral con aguacate y huevo pochado"
     },
     {
-      "foto": "https://imag.bonviveur.com/sandwich-de-pollo.jpg",
+      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/9cb69e8038b34f8999be7f6f9661f03d.jpg",
       "titulo": "Sándwich de pollo a la plancha con jitomate"
     },
     {
@@ -403,11 +403,11 @@
   ],
   "leguminosas": [
     {
-      "foto": "https://imag.bonviveur.com/lentejas-con-verduras.jpg",
+      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/d003b0d2d386927a44f849cfd2df6b5c.jpg",
       "titulo": "Lentejas guisadas con zanahoria y tomate"
     },
     {
-      "foto": "https://i.ytimg.com/vi/RJcAEJV6cMw/maxresdefault.jpg",
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/19904/18318.jpg",
       "titulo": "Sopa de lenteja con espinaca y limón"
     },
     {
@@ -415,7 +415,7 @@
       "titulo": "Frijoles de olla con epazote y tortilla"
     },
     {
-      "foto": "https://imag.bonviveur.com/ensalada-de-garbanzos.jpg",
+      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/5863c3755fe09a0a4c9b8377d6150fe1.jpg",
       "titulo": "Ensalada de garbanzo con pepino y limón"
     },
     {
@@ -423,7 +423,7 @@
       "titulo": "Hummus casero con verduras crudas"
     },
     {
-      "foto": "https://i.ytimg.com/vi/VKmR3P7tH8Y/maxresdefault.jpg",
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/13768/10427.jpg",
       "titulo": "Garbanzo salteado con pollo y espinaca"
     },
     {
@@ -431,7 +431,7 @@
       "titulo": "Chili de frijol negro con res magra"
     },
     {
-      "foto": "https://imag.bonviveur.com/guisado-de-lenteja.jpg",
+      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/0b2b80a03002f236a0fb4ff38c6426eb.jpg",
       "titulo": "Lenteja con chorizo de pavo y papa"
     },
     {
@@ -439,7 +439,7 @@
       "titulo": "Bowl proteico de edamame con arroz y soya"
     },
     {
-      "foto": "https://i.ytimg.com/vi/4Kzp8mD3qXw/maxresdefault.jpg",
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/25895/23961.jpg",
       "titulo": "Habas cocidas con jitomate y cilantro"
     }
   ],
@@ -449,7 +449,7 @@
       "titulo": "Bowl de avena con plátano y crema de cacahuate"
     },
     {
-      "foto": "https://imag.bonviveur.com/porridge-de-avena.jpg",
+      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/e7e8b919d363b9fc988f6ea027c6b9bb.jpg",
       "titulo": "Porridge de avena con manzana y canela"
     },
     {
@@ -465,7 +465,7 @@
       "titulo": "Bowl de quinoa con frutas y miel"
     },
     {
-      "foto": "https://imag.bonviveur.com/arroz-integral-con-pollo.jpg",
+      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/d108eb9fb34f71fb1fe4443ffae69b58.jpg",
       "titulo": "Arroz integral con pollo y verduras"
     },
     {
@@ -481,17 +481,17 @@
       "titulo": "Pasta de trigo con atún y jitomate cherry"
     },
     {
-      "foto": "https://imag.bonviveur.com/muesli-con-leche.jpg",
+      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/6b68a86fa3a9aaef3a2283ccb8627e3d.jpg",
       "titulo": "Muesli con leche descremada y frutos rojos"
     }
   ],
   "verduras": [
     {
-      "foto": "https://imag.bonviveur.com/ensalada-verde.jpg",
+      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/729e8bc1a3a6b8ef3a4b83ca649d21ce.jpg",
       "titulo": "Ensalada verde con pollo y vinagreta"
     },
     {
-      "foto": "https://i.ytimg.com/vi/1a2b3c4d5e6f/maxresdefault.jpg",
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/35515/38473.jpg",
       "titulo": "Brócoli al vapor con ajo y aceite de oliva"
     },
     {
@@ -499,7 +499,7 @@
       "titulo": "Verduras asadas con queso panela"
     },
     {
-      "foto": "https://imag.bonviveur.com/espinacas-salteadas.jpg",
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/31731/35010.jpg",
       "titulo": "Espinaca salteada con ajo y limón"
     },
     {
@@ -507,7 +507,7 @@
       "titulo": "Bowl de calabaza con garbanzo y cúrcuma"
     },
     {
-      "foto": "https://i.ytimg.com/vi/7h8i9j0k1l2/maxresdefault.jpg",
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/29465/30412.jpg",
       "titulo": "Champiñones salteados con cebolla y chile"
     },
     {
@@ -515,7 +515,7 @@
       "titulo": "Pepinos rellenos de atún y aguacate"
     },
     {
-      "foto": "https://imag.bonviveur.com/aguacate-relleno.jpg",
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/2070/11059.jpg",
       "titulo": "Aguacate relleno de pollo con jitomate"
     },
     {
@@ -523,17 +523,17 @@
       "titulo": "Coliflor al horno con especias y limón"
     },
     {
-      "foto": "https://i.ytimg.com/vi/8i9j0k1l2m3/maxresdefault.jpg",
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/29486/30441.jpg",
       "titulo": "Ensalada de betabel con queso de cabra"
     }
   ],
   "puerco": [
     {
-      "foto": "https://imag.bonviveur.com/lomo-de-cerdo.jpg",
+      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/48a5db03a469f69428ee0e94bc54fa23.jpg",
       "titulo": "Lomo de cerdo a la plancha con camote"
     },
     {
-      "foto": "https://i.ytimg.com/vi/9j0k1l2m3n4/maxresdefault.jpg",
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/13018/10041.jpg",
       "titulo": "Costilla de cerdo al horno con brócoli"
     },
     {
@@ -551,11 +551,11 @@
   ],
   "snacks": [
     {
-      "foto": "https://i.ytimg.com/vi/0k1l2m3n4o5/maxresdefault.jpg",
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/36262/45084.jpg",
       "titulo": "Manzana con mantequilla de almendra"
     },
     {
-      "foto": "https://imag.bonviveur.com/mix-de-nueces.jpg",
+      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/5863c3755fe09a0a4c9b8377d6150fe1.jpg",
       "titulo": "Mix de nueces, almendras y arándanos"
     },
     {
@@ -567,7 +567,7 @@
       "titulo": "Edamame con sal de mar"
     },
     {
-      "foto": "https://i.ytimg.com/vi/1l2m3n4o5p6/maxresdefault.jpg",
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/35294/39097.jpg",
       "titulo": "Yogur griego con miel y nuez"
     },
     {
@@ -575,7 +575,7 @@
       "titulo": "Queso cottage con piña y chía"
     },
     {
-      "foto": "https://imag.bonviveur.com/tostadas-de-arroz.jpg",
+      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/6b68ba5a3a78aaef3a2283ccb86256c3.jpg",
       "titulo": "Galletas de arroz con aguacate"
     },
     {
@@ -583,11 +583,11 @@
       "titulo": "Celery con mantequilla de cacahuate natural"
     },
     {
-      "foto": "https://i.ytimg.com/vi/2m3n4o5p6q7/maxresdefault.jpg",
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/15312/11417.jpg",
       "titulo": "Barra proteica casera de avena y choco"
     },
     {
-      "foto": "https://imag.bonviveur.com/proteina-batido.jpg",
+      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/a859424855075b376997cc0f56a655c6.jpg",
       "titulo": "Batido de proteína de suero con leche"
     }
   ],
@@ -597,11 +597,11 @@
       "titulo": "Brownie de chocolate negro"
     },
     {
-      "foto": "https://i.ytimg.com/vi/3n4o5p6q7r8/maxresdefault.jpg",
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/38202/47942.jpg",
       "titulo": "Mug cake proteico de avena y choco"
     },
     {
-      "foto": "https://imag.bonviveur.com/mousse-de-chocolate.jpg",
+      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/3d4d5a6b7c8d9e0f1a2b3c4d5e6f7a8b.jpg",
       "titulo": "Mousse de chocolate negro con aquafaba"
     },
     {
@@ -613,11 +613,11 @@
       "titulo": "Panqu\u00e9 proteico de plátano y avena"
     },
     {
-      "foto": "https://i.ytimg.com/vi/4o5p6q7r8s9/maxresdefault.jpg",
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/32822/36613.jpg",
       "titulo": "Galletas de avena con chispas de chocolate"
     },
     {
-      "foto": "https://imag.bonviveur.com/flan-de-cafe.jpg",
+      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/586311b00b03be5fa1e6bc7c37411289.jpg",
       "titulo": "Flan de vainilla con poca az\u00facar"
     }
   ],
@@ -659,11 +659,11 @@
       "titulo": "Kale, pepino, manzana roja y lim\u00f3n"
     },
     {
-      "foto": "https://i.ytimg.com/vi/5p6q7r8s9t0/maxresdefault.jpg",
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/35212/38992.jpg",
       "titulo": "Pl\u00e1tano, leche de almendra y mantequilla de cacahuate"
     },
     {
-      "foto": "https://imag.bonviveur.com/zumo-de-naranja.jpg",
+      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/b1c4b33e4b0cf9c3de9b8f5cc3e09deb.jpg",
       "titulo": "Naranja, zanahoria y jengibre"
     },
     {
@@ -671,21 +671,21 @@
       "titulo": "Pi\u00f1a, coco y menta fresca"
     },
     {
-      "foto": "https://i.ytimg.com/vi/6q7r8s9t0u1/maxresdefault.jpg",
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/31201/33491.jpg",
       "titulo": "Sand\u00eda, lim\u00f3n y sal mineral"
     },
     {
-      "foto": "https://imag.bonviveur.com/smoothie-rojo.jpg",
+      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0.jpg",
       "titulo": "Fresa, betabel y leche de avena"
     }
   ],
   "frutas": [
     {
-      "foto": "https://i.ytimg.com/vi/7r8s9t0u1v2/maxresdefault.jpg",
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/37201/47091.jpg",
       "titulo": "Bowl de frutas tropicales con granola"
     },
     {
-      "foto": "https://imag.bonviveur.com/ensalada-de-frutas.jpg",
+      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/5863c3755fe09a0a4c9b8377d6150fe1.jpg",
       "titulo": "Ensalada de frutas con miel y ch\u00eda"
     },
     {
@@ -697,21 +697,21 @@
       "titulo": "Mango con taj\u00edn y lim\u00f3n"
     },
     {
-      "foto": "https://i.ytimg.com/vi/8s9t0u1v2w3/maxresdefault.jpg",
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/36262/45084.jpg",
       "titulo": "Manzana con canela y nuez"
     },
     {
-      "foto": "https://imag.bonviveur.com/papaya-con-limon.jpg",
+      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a.jpg",
       "titulo": "Papaya con lim\u00f3n y jengibre"
     }
   ],
   "arroz": [
     {
-      "foto": "https://imag.bonviveur.com/arroz-con-verduras.jpg",
+      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/6b68a86fa3a9aaef3a2283ccb8627e3d.jpg",
       "titulo": "Arroz integral salteado con huevo y verduras"
     },
     {
-      "foto": "https://i.ytimg.com/vi/9t0u1v2w3x4/maxresdefault.jpg",
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/15112/11202.jpg",
       "titulo": "Arroz con leche proteico y canela"
     },
     {
@@ -723,7 +723,7 @@
       "titulo": "Arroz frito con pollo, zanahoria y soya"
     },
     {
-      "foto": "https://i.ytimg.com/vi/0u1v2w3x4y5/maxresdefault.jpg",
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/35002/38491.jpg",
       "titulo": "Bowl de arroz negro con salm\u00f3n y edamame"
     }
   ]
