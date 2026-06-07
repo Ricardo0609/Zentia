@@ -609,8 +609,8 @@
       "titulo": "Helado de plátano con crema de cacahuate"
     },
     {
-      "foto": "https://cdn.kiwilimon.com/recetaimagen/panqué-proteico.jpg",
-      "titulo": "Panqué proteico de plátano y avena"
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/panqu\u00e9-proteico.jpg",
+      "titulo": "Panqu\u00e9 proteico de plátano y avena"
     },
     {
       "foto": "https://i.ytimg.com/vi/4o5p6q7r8s9/maxresdefault.jpg",
@@ -618,7 +618,7 @@
     },
     {
       "foto": "https://imag.bonviveur.com/flan-de-cafe.jpg",
-      "titulo": "Flan de vainilla con poca azúcar"
+      "titulo": "Flan de vainilla con poca az\u00facar"
     }
   ],
   "Jugos": [
@@ -636,19 +636,19 @@
     },
     {
       "foto": "https://www.cocinavital.mx/wp-content/uploads/2025/06/agua-de-mango-y-coco.jpg",
-      "titulo": "Agua de coco, mango y semillas de chía"
+      "titulo": "Agua de coco, mango y semillas de ch\u00eda"
     },
     {
       "foto": "https://kalter.cl/wp-content/uploads/2019/12/jugo-apio-pepino-perejil.jpg",
-      "titulo": "Pepino, apio, limón y perejil"
+      "titulo": "Pepino, apio, lim\u00f3n y perejil"
     },
     {
       "foto": "https://primicia.com.ve/wp-content/uploads/2020/02/Untitled-1-25.jpg",
-      "titulo": "Zanahoria, manzana y cúrcuma"
+      "titulo": "Zanahoria, manzana y c\u00farcuma"
     },
     {
       "foto": "https://www.pompadour.es/modules/ph_simpleblog/featured/151.jpg",
-      "titulo": "Arándanos, fresas y agua de hibisco"
+      "titulo": "Ar\u00e1ndanos, fresas y agua de hibisco"
     },
     {
       "foto": "https://poniendoenpractica.com/wp-content/uploads/2025/07/kiwi-y-guayaba.webp",
@@ -656,11 +656,11 @@
     },
     {
       "foto": "https://www.mylatinatable.com/wp-content/uploads/2016/01/foto-heore.jpg",
-      "titulo": "Kale, pepino, manzana roja y limón"
+      "titulo": "Kale, pepino, manzana roja y lim\u00f3n"
     },
     {
       "foto": "https://i.ytimg.com/vi/5p6q7r8s9t0/maxresdefault.jpg",
-      "titulo": "Plátano, leche de almendra y mantequilla de cacahuate"
+      "titulo": "Pl\u00e1tano, leche de almendra y mantequilla de cacahuate"
     },
     {
       "foto": "https://imag.bonviveur.com/zumo-de-naranja.jpg",
@@ -668,11 +668,11 @@
     },
     {
       "foto": "https://i.pinimg.com/originals/f6/a7/b8/f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1.jpg",
-      "titulo": "Piña, coco y menta fresca"
+      "titulo": "Pi\u00f1a, coco y menta fresca"
     },
     {
       "foto": "https://i.ytimg.com/vi/6q7r8s9t0u1/maxresdefault.jpg",
-      "titulo": "Sandía, limón y sal mineral"
+      "titulo": "Sand\u00eda, lim\u00f3n y sal mineral"
     },
     {
       "foto": "https://imag.bonviveur.com/smoothie-rojo.jpg",
@@ -686,15 +686,15 @@
     },
     {
       "foto": "https://imag.bonviveur.com/ensalada-de-frutas.jpg",
-      "titulo": "Ensalada de frutas con miel y chía"
+      "titulo": "Ensalada de frutas con miel y ch\u00eda"
     },
     {
       "foto": "https://i.pinimg.com/originals/a7/b8/c9/a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2.jpg",
-      "titulo": "Plátano con mantequilla de almendra"
+      "titulo": "Pl\u00e1tano con mantequilla de almendra"
     },
     {
       "foto": "https://cdn.kiwilimon.com/recetaimagen/mango-tajin.jpg",
-      "titulo": "Mango con tajín y limón"
+      "titulo": "Mango con taj\u00edn y lim\u00f3n"
     },
     {
       "foto": "https://i.ytimg.com/vi/8s9t0u1v2w3/maxresdefault.jpg",
@@ -702,7 +702,7 @@
     },
     {
       "foto": "https://imag.bonviveur.com/papaya-con-limon.jpg",
-      "titulo": "Papaya con limón y jengibre"
+      "titulo": "Papaya con lim\u00f3n y jengibre"
     }
   ],
   "arroz": [
@@ -716,7 +716,7 @@
     },
     {
       "foto": "https://cdn.kiwilimon.com/recetaimagen/sushi-casero.jpg",
-      "titulo": "Sushi casero de salmón y aguacate"
+      "titulo": "Sushi casero de salm\u00f3n y aguacate"
     },
     {
       "foto": "https://i.pinimg.com/originals/b8/c9/d0/b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3.jpg",
@@ -724,7 +724,7 @@
     },
     {
       "foto": "https://i.ytimg.com/vi/0u1v2w3x4y5/maxresdefault.jpg",
-      "titulo": "Bowl de arroz negro con salmón y edamame"
+      "titulo": "Bowl de arroz negro con salm\u00f3n y edamame"
     }
   ]
 }
