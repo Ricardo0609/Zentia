@@ -7,32 +7,100 @@
     {
       "foto": "https://s-api.qcart.app/images/comoquiero-uploads/images/recipes/originals/3379.jpg?s=716x600&fit=cover&ext=webp",
       "titulo": "Con arroz"
-    },{
+    },
+    {
       "foto": "https://i.ytimg.com/vi/5r3iAtOrR1U/mqdefault.jpg",
-      "titulo": "Molletes de frijol,queso,pollo y aguacate"
-    },{
+      "titulo": "Molletes de frijol, queso, pollo y aguacate"
+    },
+    {
       "foto": "https://www.lechedeflorida.com/file/267/Fluffy-Egg-Tacos-web.png",
-      "titulo": "tacos de pollo y huevo"
-    },{
+      "titulo": "Tacos de pollo y huevo"
+    },
+    {
       "foto": "https://storage.googleapis.com/avena-recipes-v2/agtzfmF2ZW5hLWJvdHIZCxIMSW50ZXJjb21Vc2VyGICAgICa8YQKDA/25-05-2024/cHZu09O7xx3akR04Q3aN1716663780225.jpeg",
       "titulo": "Tostadas de pollo con queso cottage"
-    },{
+    },
+    {
       "foto": "https://storage.googleapis.com/avena-recipes-v2/2019/10/1571783429613.jpeg",
       "titulo": "Pechuga de pollo con arroz y frijoles"
-    },{
+    },
+    {
       "foto": "https://www.goya.com/wp-content/uploads/2023/10/grilled-chicken-and-veggie-pasta-salad.jpg",
       "titulo": "Pollo con pasta y verduras"
-    },{
+    },
+    {
       "foto": "https://www.maricruzavalos.com/wp-content/uploads/2023/07/fajitas-de-pollo-recipe.jpg",
       "titulo": "Fajitas de pollo con frijoles"
-    },{
+    },
+    {
       "foto": "https://salroche.com/cdn/shop/articles/SAM2044_1200x1200.jpg?v=1600900246",
-      "titulo": "Enchiladas"
-    },{
+      "titulo": "Enchiladas de pollo"
+    },
+    {
       "foto": "https://i.blogs.es/1c1a6c/lentejas-con-pollo-en-escabeche/840_560.jpg",
       "titulo": "Pechuga de pollo con lentejas"
+    },
+    {
+      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/9e4ca16a3b11e14ad7a9e88af3df4e88.jpg",
+      "titulo": "Pechuga a la plancha con camote"
+    },
+    {
+      "foto": "https://i.ytimg.com/vi/z3nROkTHlwU/maxresdefault.jpg",
+      "titulo": "Bowl de pollo con quinoa y espinaca"
+    },
+    {
+      "foto": "https://www.recetasgratis.net/imghow/8/0/9/908.jpeg",
+      "titulo": "Pollo al horno con brócoli y papa"
+    },
+    {
+      "foto": "https://www.pequerecetas.com/wp-content/uploads/2013/03/Pollo-al-limon-receta.jpg",
+      "titulo": "Pollo al limón con arroz integral"
+    },
+    {
+      "foto": "https://img.freepik.com/fotos-premium/pollo-teriyaki-arroz-verduras_476612-2234.jpg",
+      "titulo": "Pollo teriyaki con arroz y edamame"
+    },
+    {
+      "foto": "https://www.cocinadelirante.com/sites/default/files/images/2020/05/milanesa-de-pollo-receta-facil.jpg",
+      "titulo": "Milanesa de pollo al horno con puré de papa"
+    },
+    {
+      "foto": "https://i.ytimg.com/vi/g5N_L_7WwP4/maxresdefault.jpg",
+      "titulo": "Wrap de pollo con aguacate y verduras"
+    },
+    {
+      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/c23a2b3f94acecb7e3d9fdcbc95e3d14.jpg",
+      "titulo": "Sopa de pollo con pasta y verduras"
+    },
+    {
+      "foto": "https://imag.bonviveur.com/pechuga-de-pollo-en-salsa-verde.jpg",
+      "titulo": "Pechuga en salsa verde con frijoles"
+    },
+    {
+      "foto": "https://www.recetasgratis.net/imghow/5/5/2/552.jpeg",
+      "titulo": "Pollo con champiñones y arroz"
+    },
+    {
+      "foto": "https://i.pinimg.com/originals/e2/b1/e8/e2b1e8c4c76ee5e28a2b9ab8e9b42d26.jpg",
+      "titulo": "Tazón de pollo con garbanzos y espinaca"
+    },
+    {
+      "foto": "https://cdn7.recetasderechupete.com/wp-content/uploads/2022/09/Pollo_con_vegetales_al_horno.jpg",
+      "titulo": "Pollo con vegetales al horno"
+    },
+    {
+      "foto": "https://www.recetasgratis.net/imghow/6/7/3/673.jpeg",
+      "titulo": "Caldo de pollo con verduras y fideos"
+    },
+    {
+      "foto": "https://i.ytimg.com/vi/5RujAeVlXuc/maxresdefault.jpg",
+      "titulo": "Pollo asado con ensalada de garbanzos"
+    },
+    {
+      "foto": "https://www.cocina-familiar.com/wp-content/uploads/2021/02/pollo-con-papas-al-horno.jpg",
+      "titulo": "Muslo de pollo al horno con papa y zanahoria"
     }
-  ], 
+  ],
   "huevo": [
     {
       "foto": "https://app.nutrium.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTM0ODgyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--5fd4e89cf2fe479bbd3b5bf19aa6b8ba912e47a0/omelette%20pollo%20crema.jpg",
@@ -40,20 +108,23 @@
     },
     {
       "foto": "https://www.lacostena.com.mx/media/thumbnail/uploads/Recipes/desayuno/73-burrito-de-huevo-con-frijol_receta.jpg.1920x800_q85_center.jpg",
-      "titulo": "Quesadillas de panela,huevo y frijoles"
+      "titulo": "Quesadillas de panela, huevo y frijoles"
     },
     {
       "foto": "https://cdn0.recetasgratis.net/es/posts/2/9/7/huevos_con_jamon_y_frijoles_76792_600_square.jpg",
-      "titulo": "Con jamón"
-    },{
+      "titulo": "Huevos con jamón"
+    },
+    {
       "foto": "https://storage.googleapis.com/avena-recipes-v2/2019/10/1571780221642.jpeg",
       "titulo": "Burritos de huevo con frijoles y queso"
-    },{
+    },
+    {
       "foto": "https://www.ungatoenlacocina.com/wp-content/uploads/2020/04/2020-04-12-13-59-18-753.jpg",
       "titulo": "Ensalada de huevo"
-    },{
+    },
+    {
       "foto": "https://www.lechedeflorida.com/file/267/Fluffy-Egg-Tacos-web.png",
-      "titulo": "tacos de pollo y huevo"
+      "titulo": "Tacos de pollo y huevo"
     },
     {
       "foto": "https://www.cocinavital.mx/wp-content/uploads/2022/06/tostadas-de-atun-con-cilantro-1.jpg",
@@ -66,41 +137,49 @@
     {
       "foto": "https://cdn3.myrealfood.app/recipes%2F0DS2IZJ7uwIT4xRZ2FhX%2Fmain.jpg?alt=media&token=da57c8c0-bc95-4d1d-b564-4af11ce61378",
       "titulo": "Huevos con requesón y pan integral"
-    }
-  ],
-  "verduras": [
-    {
-      "foto": "",
-      "titulo": ""
-    }
-  ],
-  "frutas": [
-    {
-      "foto": "",
-      "titulo": ""
-    }
-  ], 
-  "pan": [
-    {
-      "foto": "https://cdn0.recetasgratis.net/es/posts/7/2/0/sandwich_de_pavo_y_queso_55027_paso_2_600.jpg",
-      "titulo": "Sándwich de pechuga de pavo con queso cottage"
     },
-     {
-      "foto": "https://i.blogs.es/58e3a2/hot-cakes/1200_900.jpg",
-      "titulo": "Hotcakes de avena"
-    },
-     {
-      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ5vUgkWhOMMVt_RxITBDL1GvzHFyEypuSxw&s",
-      "titulo": "Mollete con requesón y pechuga de pavo"
-    }
-  ] ,
-  "arroz": [
     {
-      "foto": "",
-      "titulo": ""
+      "foto": "https://i.ytimg.com/vi/3OLkBOxdlRM/maxresdefault.jpg",
+      "titulo": "Omelette de claras con espinaca y champiñones"
+    },
+    {
+      "foto": "https://www.recetasgratis.net/imghow/9/5/8/958.jpeg",
+      "titulo": "Huevos revueltos con avena y plátano"
+    },
+    {
+      "foto": "https://imag.bonviveur.com/huevos-rancheros.jpg",
+      "titulo": "Huevos rancheros con frijoles"
+    },
+    {
+      "foto": "https://i.pinimg.com/originals/f3/d0/e4/f3d0e40cf9e4f62bd2e46b0e5c50d1e0.jpg",
+      "titulo": "Bowl de huevo poché con quinoa y aguacate"
+    },
+    {
+      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/frittata.jpg",
+      "titulo": "Frittata de verduras y queso panela"
+    },
+    {
+      "foto": "https://i.ytimg.com/vi/g8o7SXQT3yk/maxresdefault.jpg",
+      "titulo": "Huevos a la mexicana con tortilla y frijoles"
+    },
+    {
+      "foto": "https://imag.bonviveur.com/tortilla-de-patata-espanola.jpg",
+      "titulo": "Tortilla española con papa y cebolla"
+    },
+    {
+      "foto": "https://i.pinimg.com/originals/e6/0f/4d/e60f4da63e0e94e3f7e0fdf7b2346c3c.jpg",
+      "titulo": "Claras batidas con avena y miel"
+    },
+    {
+      "foto": "https://www.cocinavital.mx/wp-content/uploads/2021/03/huevos-benedictinos.jpg",
+      "titulo": "Huevos benedictinos con jamón de pavo"
+    },
+    {
+      "foto": "https://i.ytimg.com/vi/5YD5iW9CZWI/maxresdefault.jpg",
+      "titulo": "Tazón proteico de huevo, arroz y brócoli"
     }
   ],
-   "atun": [
+  "atun": [
     {
       "foto": "https://storage.googleapis.com/avena-recipes-v2/agtzfmF2ZW5hLWJvdHIZCxIMSW50ZXJjb21Vc2VyGICAgMW2rJ8LDA/08-05-2023/K3W9d4K6hXJ9wA7fEu8H1683525487544.jpeg",
       "titulo": "Tostadas de atún y aguacate"
@@ -112,88 +191,540 @@
     {
       "foto": "https://www.iberiamexico.com/-/media/Project/Upfield/MultiBrand/Iberia/Assets/Recipes/Recipe-sync/20492f39-805a-4d6d-b323-7644b41ebaf4.jpg?rev=54a2061339ca46a28cdfcff76ef44c3f&w=520",
       "titulo": "Tortitas de atún al comal con arroz"
+    },
+    {
+      "foto": "https://i.ytimg.com/vi/sT_q5E3_sUk/maxresdefault.jpg",
+      "titulo": "Bowl de atún con quinoa, pepino y limón"
+    },
+    {
+      "foto": "https://www.recetasgratis.net/imghow/3/5/4/354.jpeg",
+      "titulo": "Pasta con atún, aceite de oliva y tomate"
+    },
+    {
+      "foto": "https://i.pinimg.com/originals/1e/dc/69/1edc69f13f4b6a38b8ae01d6e1bfb7bd.jpg",
+      "titulo": "Sándwich de atún con aguacate en pan integral"
+    },
+    {
+      "foto": "https://imag.bonviveur.com/ensalada-de-atun.jpg",
+      "titulo": "Ensalada de atún con garbanzo y jitomate"
+    },
+    {
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/35003/optimized-640x426-35003.jpg",
+      "titulo": "Arroz con atún y verduras salteadas"
+    },
+    {
+      "foto": "https://i.ytimg.com/vi/hq0r2Dz56zM/maxresdefault.jpg",
+      "titulo": "Atún con papa cocida y brócoli al vapor"
+    },
+    {
+      "foto": "https://www.recetasgratis.net/imghow/5/6/2/562.jpeg",
+      "titulo": "Taco de atún con pico de gallo y aguacate"
     }
   ],
-   "res": [
+  "res": [
     {
       "foto": "https://www.comiendoenla.com/wp-content/uploads/2020/03/bistec-a-la-plancha.jpg",
       "titulo": "Bistec con papa cocida y verduras"
-    },{
+    },
+    {
       "foto": "https://recetinas.com/wp-content/uploads/2020/03/albondigas-de-carne-con-arroz.jpg",
       "titulo": "Albóndigas con arroz"
-    },{
+    },
+    {
       "foto": "https://imag.bonviveur.com/picadillo-con-arroz.jpg",
       "titulo": "Picadillo de res con arroz"
-    }
-  ],
-   "puerco": [
+    },
     {
-      "foto": "",
-      "titulo": ""
+      "foto": "https://i.ytimg.com/vi/lX1KGjVEdbw/maxresdefault.jpg",
+      "titulo": "Arrachera a la plancha con arroz y frijoles"
+    },
+    {
+      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/carne_molida.jpg",
+      "titulo": "Carne molida con verduras y arroz integral"
+    },
+    {
+      "foto": "https://imag.bonviveur.com/sopa-de-res.jpg",
+      "titulo": "Caldo de res con verduras y papa"
+    },
+    {
+      "foto": "https://i.pinimg.com/originals/3c/54/7a/3c547a06f1c9e1ccde9d39c72b756cf5.jpg",
+      "titulo": "Tiras de res con champiñones y papa"
+    },
+    {
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/30521/optimized-640x426-30521.jpg",
+      "titulo": "Bowl de res con arroz integral y guacamole"
+    },
+    {
+      "foto": "https://i.ytimg.com/vi/l4h_o-MHjVo/maxresdefault.jpg",
+      "titulo": "Hamburguesa de res magra con camote horneado"
+    },
+    {
+      "foto": "https://www.recetasgratis.net/imghow/7/6/9/769.jpeg",
+      "titulo": "Estofado de res con zanahoria y papa"
+    },
+    {
+      "foto": "https://i.pinimg.com/originals/a1/c4/b3/a1c4b33e4b0cf9c3de9b8f5cc3e09deb.jpg",
+      "titulo": "Milanesa de res al horno con ensalada"
     }
   ],
-   "lacteos": [
+  "Pescado": [
+    {
+      "foto": "https://s-api.qcart.app/images/comoquiero-uploads/images/recipes/originals/575.jpg?s=716x600&fit=cover&ext=webp",
+      "titulo": "Filete de pescado con puré de papa"
+    },
+    {
+      "foto": "https://i.ytimg.com/vi/w9jHr7TL-xo/maxresdefault.jpg",
+      "titulo": "Salmón a la plancha con espárrago y arroz"
+    },
+    {
+      "foto": "https://imag.bonviveur.com/salmon-al-horno.jpg",
+      "titulo": "Salmón al horno con limón y brócoli"
+    },
+    {
+      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/tilapia.jpg",
+      "titulo": "Tilapia al vapor con quinoa y espinaca"
+    },
+    {
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/tacos-de-pescado.jpg",
+      "titulo": "Tacos de pescado con col y pico de gallo"
+    },
+    {
+      "foto": "https://i.pinimg.com/originals/7b/d9/e1/7bd9e1e5c8f1e7d5d1ff9b65a34c7d67.jpg",
+      "titulo": "Filete de tilapia con arroz y ensalada"
+    },
+    {
+      "foto": "https://i.ytimg.com/vi/2bZkQmzyCJY/maxresdefault.jpg",
+      "titulo": "Ceviche de camarón con tostadas"
+    },
+    {
+      "foto": "https://imag.bonviveur.com/camarones-a-la-plancha.jpg",
+      "titulo": "Camarones a la plancha con arroz integral"
+    },
+    {
+      "foto": "https://www.recetasgratis.net/imghow/6/8/2/682.jpeg",
+      "titulo": "Sopa de mariscos con verduras"
+    },
+    {
+      "foto": "https://i.pinimg.com/originals/c2/f5/a3/c2f5a321d9e4e8c0dfc6e3a1f2b7d9e1.jpg",
+      "titulo": "Salmón con costra de ajonjolí y camote"
+    },
+    {
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/barra-proteica-pesacado.jpg",
+      "titulo": "Ensalada de salmón con garbanzos y pepino"
+    }
+  ],
+  "lacteos": [
     {
       "foto": "https://sergiocalderon.com/wp-content/uploads/2025/06/Porridge-de-avena-con-yogur.jpg",
-      "titulo": "Yogur,frutas y semillas"
+      "titulo": "Yogur, frutas y semillas"
     },
     {
       "foto": "https://images.cookforyourlife.org/wp-content/uploads/2015/08/peanut_butter_shake.jpeg",
       "titulo": "Licuado de avena con leche, yogur y crema de cacahuate"
-    }, {
+    },
+    {
       "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuBwMIBSFZETmDzNLbJlWMgUsbUdc-lxUTdQ&s",
       "titulo": "Yogur griego con avena, manzana y semillas"
-    }, {
-      "foto": "",
-      "titulo": ""
-    }
-  ],
-   "cereales": [
+    },
     {
-      "foto": "",
-      "titulo": ""
-    }
-  ],
-   "Pescado": [
+      "foto": "https://i.ytimg.com/vi/Zs2TkT2-GKM/maxresdefault.jpg",
+      "titulo": "Parfait de yogur griego con granola y arándanos"
+    },
     {
-      "foto": "https://s-api.qcart.app/images/comoquiero-uploads/images/recipes/originals/575.jpg?s=716x600&fit=cover&ext=webp",
-      "titulo": "Filete de pescado con puré de papa"
+      "foto": "https://i.pinimg.com/originals/ae/c8/f9/aec8f9b6e0a7c5d3f1e2b4c6a8d0e2f4.jpg",
+      "titulo": "Licuado proteico de leche, plátano y avena"
+    },
+    {
+      "foto": "https://imag.bonviveur.com/batido-de-proteinas.jpg",
+      "titulo": "Batido de chocolate con leche y creatina"
+    },
+    {
+      "foto": "https://i.ytimg.com/vi/5QmDhxT12Ac/maxresdefault.jpg",
+      "titulo": "Bowl de cottage cheese con piña y semillas"
+    },
+    {
+      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/licuado_verde.jpg",
+      "titulo": "Licuado verde con espinaca, leche y plátano"
+    },
+    {
+      "foto": "https://i.pinimg.com/originals/d2/e3/f4/d2e3f4a5b6c7d8e9f0a1b2c3d4e5f6a7.jpg",
+      "titulo": "Requesón con frutos rojos y miel"
+    },
+    {
+      "foto": "https://i.ytimg.com/vi/OxWKbhLpGt4/maxresdefault.jpg",
+      "titulo": "Smoothie de mango, yogur y proteína de vainilla"
+    },
+    {
+      "foto": "https://imag.bonviveur.com/leche-con-cacao.jpg",
+      "titulo": "Leche con cacao amargo y avena en hojuelas"
     }
   ],
-   "postres": [
+  "pan": [
+    {
+      "foto": "https://cdn0.recetasgratis.net/es/posts/7/2/0/sandwich_de_pavo_y_queso_55027_paso_2_600.jpg",
+      "titulo": "Sándwich de pechuga de pavo con queso cottage"
+    },
+    {
+      "foto": "https://i.blogs.es/58e3a2/hot-cakes/1200_900.jpg",
+      "titulo": "Hotcakes de avena"
+    },
+    {
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ5vUgkWhOMMVt_RxITBDL1GvzHFyEypuSxw&s",
+      "titulo": "Mollete con requesón y pechuga de pavo"
+    },
+    {
+      "foto": "https://i.ytimg.com/vi/sJh3_Z4t0Ps/maxresdefault.jpg",
+      "titulo": "Tostada integral con aguacate y huevo pochado"
+    },
+    {
+      "foto": "https://imag.bonviveur.com/sandwich-de-pollo.jpg",
+      "titulo": "Sándwich de pollo a la plancha con jitomate"
+    },
+    {
+      "foto": "https://i.pinimg.com/originals/b3/c4/d5/b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8.jpg",
+      "titulo": "Tostadas francesas proteicas con claras de huevo"
+    },
+    {
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/pan-proteico.jpg",
+      "titulo": "Pan integral con mantequilla de almendra y plátano"
+    },
+    {
+      "foto": "https://i.ytimg.com/vi/T3e8B9kPqaY/maxresdefault.jpg",
+      "titulo": "Wrap integral de pavo, lechuga y mostaza"
+    },
+    {
+      "foto": "https://www.recetasgratis.net/imghow/3/6/1/361.jpeg",
+      "titulo": "Molletes de frijol negro y queso panela"
+    },
+    {
+      "foto": "https://i.pinimg.com/originals/c5/d6/e7/c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0.jpg",
+      "titulo": "Bagel integral con salmón ahumado y requesón"
+    }
+  ],
+  "leguminosas": [
+    {
+      "foto": "https://imag.bonviveur.com/lentejas-con-verduras.jpg",
+      "titulo": "Lentejas guisadas con zanahoria y tomate"
+    },
+    {
+      "foto": "https://i.ytimg.com/vi/RJcAEJV6cMw/maxresdefault.jpg",
+      "titulo": "Sopa de lenteja con espinaca y limón"
+    },
+    {
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/frijoles-de-olla.jpg",
+      "titulo": "Frijoles de olla con epazote y tortilla"
+    },
+    {
+      "foto": "https://imag.bonviveur.com/ensalada-de-garbanzos.jpg",
+      "titulo": "Ensalada de garbanzo con pepino y limón"
+    },
+    {
+      "foto": "https://i.pinimg.com/originals/a6/b7/c8/a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d1.jpg",
+      "titulo": "Hummus casero con verduras crudas"
+    },
+    {
+      "foto": "https://i.ytimg.com/vi/VKmR3P7tH8Y/maxresdefault.jpg",
+      "titulo": "Garbanzo salteado con pollo y espinaca"
+    },
+    {
+      "foto": "https://www.recetasgratis.net/imghow/4/7/0/470.jpeg",
+      "titulo": "Chili de frijol negro con res magra"
+    },
+    {
+      "foto": "https://imag.bonviveur.com/guisado-de-lenteja.jpg",
+      "titulo": "Lenteja con chorizo de pavo y papa"
+    },
+    {
+      "foto": "https://i.pinimg.com/originals/b7/c8/d9/b7c8d9e0f1a2b3c4d5e6f7a8b9c0d1e2.jpg",
+      "titulo": "Bowl proteico de edamame con arroz y soya"
+    },
+    {
+      "foto": "https://i.ytimg.com/vi/4Kzp8mD3qXw/maxresdefault.jpg",
+      "titulo": "Habas cocidas con jitomate y cilantro"
+    }
+  ],
+  "cereales": [
+    {
+      "foto": "https://i.ytimg.com/vi/5I5kRMHnZb4/maxresdefault.jpg",
+      "titulo": "Bowl de avena con plátano y crema de cacahuate"
+    },
+    {
+      "foto": "https://imag.bonviveur.com/porridge-de-avena.jpg",
+      "titulo": "Porridge de avena con manzana y canela"
+    },
+    {
+      "foto": "https://i.pinimg.com/originals/d8/e9/f0/d8e9f0a1b2c3d4e5f6a7b8c9d0e1f2a3.jpg",
+      "titulo": "Avena proteica nocturna con yogur y chía"
+    },
+    {
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/granola-proteica.jpg",
+      "titulo": "Granola casera con nueces y semillas"
+    },
+    {
+      "foto": "https://i.ytimg.com/vi/q2w3e4r5t6y7/maxresdefault.jpg",
+      "titulo": "Bowl de quinoa con frutas y miel"
+    },
+    {
+      "foto": "https://imag.bonviveur.com/arroz-integral-con-pollo.jpg",
+      "titulo": "Arroz integral con pollo y verduras"
+    },
+    {
+      "foto": "https://i.pinimg.com/originals/e9/f0/a1/e9f0a1b2c3d4e5f6a7b8c9d0e1f2a3b4.jpg",
+      "titulo": "Tortillas de maíz con frijol y aguacate"
+    },
+    {
+      "foto": "https://www.recetasgratis.net/imghow/2/5/7/257.jpeg",
+      "titulo": "Tamal de rajas con queso y frijol"
+    },
+    {
+      "foto": "https://i.ytimg.com/vi/u7y8i9o0p1q/maxresdefault.jpg",
+      "titulo": "Pasta de trigo con atún y jitomate cherry"
+    },
+    {
+      "foto": "https://imag.bonviveur.com/muesli-con-leche.jpg",
+      "titulo": "Muesli con leche descremada y frutos rojos"
+    }
+  ],
+  "verduras": [
+    {
+      "foto": "https://imag.bonviveur.com/ensalada-verde.jpg",
+      "titulo": "Ensalada verde con pollo y vinagreta"
+    },
+    {
+      "foto": "https://i.ytimg.com/vi/1a2b3c4d5e6f/maxresdefault.jpg",
+      "titulo": "Brócoli al vapor con ajo y aceite de oliva"
+    },
+    {
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/verduras-asadas.jpg",
+      "titulo": "Verduras asadas con queso panela"
+    },
+    {
+      "foto": "https://imag.bonviveur.com/espinacas-salteadas.jpg",
+      "titulo": "Espinaca salteada con ajo y limón"
+    },
+    {
+      "foto": "https://i.pinimg.com/originals/f0/a1/b2/f0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5.jpg",
+      "titulo": "Bowl de calabaza con garbanzo y cúrcuma"
+    },
+    {
+      "foto": "https://i.ytimg.com/vi/7h8i9j0k1l2/maxresdefault.jpg",
+      "titulo": "Champiñones salteados con cebolla y chile"
+    },
+    {
+      "foto": "https://www.recetasgratis.net/imghow/1/4/6/146.jpeg",
+      "titulo": "Pepinos rellenos de atún y aguacate"
+    },
+    {
+      "foto": "https://imag.bonviveur.com/aguacate-relleno.jpg",
+      "titulo": "Aguacate relleno de pollo con jitomate"
+    },
+    {
+      "foto": "https://i.pinimg.com/originals/a1/b2/c3/a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6.jpg",
+      "titulo": "Coliflor al horno con especias y limón"
+    },
+    {
+      "foto": "https://i.ytimg.com/vi/8i9j0k1l2m3/maxresdefault.jpg",
+      "titulo": "Ensalada de betabel con queso de cabra"
+    }
+  ],
+  "puerco": [
+    {
+      "foto": "https://imag.bonviveur.com/lomo-de-cerdo.jpg",
+      "titulo": "Lomo de cerdo a la plancha con camote"
+    },
+    {
+      "foto": "https://i.ytimg.com/vi/9j0k1l2m3n4/maxresdefault.jpg",
+      "titulo": "Costilla de cerdo al horno con brócoli"
+    },
+    {
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/cochinita-pibil.jpg",
+      "titulo": "Cochinita pibil con arroz y frijoles"
+    },
+    {
+      "foto": "https://i.pinimg.com/originals/b2/c3/d4/b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7.jpg",
+      "titulo": "Lomo en salsa de chipotle con papa"
+    },
+    {
+      "foto": "https://www.recetasgratis.net/imghow/8/3/5/835.jpeg",
+      "titulo": "Chuleta de cerdo con ejotes y zanahoria"
+    }
+  ],
+  "snacks": [
+    {
+      "foto": "https://i.ytimg.com/vi/0k1l2m3n4o5/maxresdefault.jpg",
+      "titulo": "Manzana con mantequilla de almendra"
+    },
+    {
+      "foto": "https://imag.bonviveur.com/mix-de-nueces.jpg",
+      "titulo": "Mix de nueces, almendras y arándanos"
+    },
+    {
+      "foto": "https://i.pinimg.com/originals/c3/d4/e5/c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8.jpg",
+      "titulo": "Jícama con limón y chile en polvo"
+    },
+    {
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/edamame-sal.jpg",
+      "titulo": "Edamame con sal de mar"
+    },
+    {
+      "foto": "https://i.ytimg.com/vi/1l2m3n4o5p6/maxresdefault.jpg",
+      "titulo": "Yogur griego con miel y nuez"
+    },
+    {
+      "foto": "https://www.recetasgratis.net/imghow/9/4/6/946.jpeg",
+      "titulo": "Queso cottage con piña y chía"
+    },
+    {
+      "foto": "https://imag.bonviveur.com/tostadas-de-arroz.jpg",
+      "titulo": "Galletas de arroz con aguacate"
+    },
+    {
+      "foto": "https://i.pinimg.com/originals/d4/e5/f6/d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9.jpg",
+      "titulo": "Celery con mantequilla de cacahuate natural"
+    },
+    {
+      "foto": "https://i.ytimg.com/vi/2m3n4o5p6q7/maxresdefault.jpg",
+      "titulo": "Barra proteica casera de avena y choco"
+    },
+    {
+      "foto": "https://imag.bonviveur.com/proteina-batido.jpg",
+      "titulo": "Batido de proteína de suero con leche"
+    }
+  ],
+  "postres": [
     {
       "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
-      "titulo": "Brownie"
+      "titulo": "Brownie de chocolate negro"
+    },
+    {
+      "foto": "https://i.ytimg.com/vi/3n4o5p6q7r8/maxresdefault.jpg",
+      "titulo": "Mug cake proteico de avena y choco"
+    },
+    {
+      "foto": "https://imag.bonviveur.com/mousse-de-chocolate.jpg",
+      "titulo": "Mousse de chocolate negro con aquafaba"
+    },
+    {
+      "foto": "https://i.pinimg.com/originals/e5/f6/a7/e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0.jpg",
+      "titulo": "Helado de plátano con crema de cacahuate"
+    },
+    {
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/panqué-proteico.jpg",
+      "titulo": "Panqué proteico de plátano y avena"
+    },
+    {
+      "foto": "https://i.ytimg.com/vi/4o5p6q7r8s9/maxresdefault.jpg",
+      "titulo": "Galletas de avena con chispas de chocolate"
+    },
+    {
+      "foto": "https://imag.bonviveur.com/flan-de-cafe.jpg",
+      "titulo": "Flan de vainilla con poca azúcar"
     }
   ],
   "Jugos": [
     {
       "foto": "https://www.clarin.com/2025/01/07/WP619n_8v_720x0__1.jpg",
       "titulo": "Betabel, zanahoria y naranja"
-    },{
+    },
+    {
       "foto": "https://postressaludables.com/wp-content/uploads/2014/03/batidoverdeconespinacas.png",
       "titulo": "Espinaca, manzana verde, apio y jengibre"
-    },{
+    },
+    {
       "foto": "https://editorialtelevisa.brightspotcdn.com/dims4/default/1d9997b/2147483647/strip/true/crop/995x560+3+0/resize/1000x563!/quality/90/?url=https%3A%2F%2Fk2-prod-editorial-televisa.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fwp-content%2Fuploads%2F2020%2F02%2Fjugo-toronja.jpg",
-      "titulo": "Toronja, piña"
-    },{
+      "titulo": "Toronja y piña"
+    },
+    {
       "foto": "https://www.cocinavital.mx/wp-content/uploads/2025/06/agua-de-mango-y-coco.jpg",
       "titulo": "Agua de coco, mango y semillas de chía"
-    },{
+    },
+    {
       "foto": "https://kalter.cl/wp-content/uploads/2019/12/jugo-apio-pepino-perejil.jpg",
       "titulo": "Pepino, apio, limón y perejil"
-    },{
+    },
+    {
       "foto": "https://primicia.com.ve/wp-content/uploads/2020/02/Untitled-1-25.jpg",
       "titulo": "Zanahoria, manzana y cúrcuma"
-    },{
+    },
+    {
       "foto": "https://www.pompadour.es/modules/ph_simpleblog/featured/151.jpg",
-      "titulo": "Arándanos, fresas y agua o infusión de hibisco"
-    },{
+      "titulo": "Arándanos, fresas y agua de hibisco"
+    },
+    {
       "foto": "https://poniendoenpractica.com/wp-content/uploads/2025/07/kiwi-y-guayaba.webp",
       "titulo": "Naranja, guayaba y kiwi"
-    },{
+    },
+    {
       "foto": "https://www.mylatinatable.com/wp-content/uploads/2016/01/foto-heore.jpg",
-      "titulo": "Col rizada (kale), pepino, manzana roja y limón"
+      "titulo": "Kale, pepino, manzana roja y limón"
+    },
+    {
+      "foto": "https://i.ytimg.com/vi/5p6q7r8s9t0/maxresdefault.jpg",
+      "titulo": "Plátano, leche de almendra y mantequilla de cacahuate"
+    },
+    {
+      "foto": "https://imag.bonviveur.com/zumo-de-naranja.jpg",
+      "titulo": "Naranja, zanahoria y jengibre"
+    },
+    {
+      "foto": "https://i.pinimg.com/originals/f6/a7/b8/f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1.jpg",
+      "titulo": "Piña, coco y menta fresca"
+    },
+    {
+      "foto": "https://i.ytimg.com/vi/6q7r8s9t0u1/maxresdefault.jpg",
+      "titulo": "Sandía, limón y sal mineral"
+    },
+    {
+      "foto": "https://imag.bonviveur.com/smoothie-rojo.jpg",
+      "titulo": "Fresa, betabel y leche de avena"
+    }
+  ],
+  "frutas": [
+    {
+      "foto": "https://i.ytimg.com/vi/7r8s9t0u1v2/maxresdefault.jpg",
+      "titulo": "Bowl de frutas tropicales con granola"
+    },
+    {
+      "foto": "https://imag.bonviveur.com/ensalada-de-frutas.jpg",
+      "titulo": "Ensalada de frutas con miel y chía"
+    },
+    {
+      "foto": "https://i.pinimg.com/originals/a7/b8/c9/a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2.jpg",
+      "titulo": "Plátano con mantequilla de almendra"
+    },
+    {
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/mango-tajin.jpg",
+      "titulo": "Mango con tajín y limón"
+    },
+    {
+      "foto": "https://i.ytimg.com/vi/8s9t0u1v2w3/maxresdefault.jpg",
+      "titulo": "Manzana con canela y nuez"
+    },
+    {
+      "foto": "https://imag.bonviveur.com/papaya-con-limon.jpg",
+      "titulo": "Papaya con limón y jengibre"
+    }
+  ],
+  "arroz": [
+    {
+      "foto": "https://imag.bonviveur.com/arroz-con-verduras.jpg",
+      "titulo": "Arroz integral salteado con huevo y verduras"
+    },
+    {
+      "foto": "https://i.ytimg.com/vi/9t0u1v2w3x4/maxresdefault.jpg",
+      "titulo": "Arroz con leche proteico y canela"
+    },
+    {
+      "foto": "https://cdn.kiwilimon.com/recetaimagen/sushi-casero.jpg",
+      "titulo": "Sushi casero de salmón y aguacate"
+    },
+    {
+      "foto": "https://i.pinimg.com/originals/b8/c9/d0/b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3.jpg",
+      "titulo": "Arroz frito con pollo, zanahoria y soya"
+    },
+    {
+      "foto": "https://i.ytimg.com/vi/0u1v2w3x4y5/maxresdefault.jpg",
+      "titulo": "Bowl de arroz negro con salmón y edamame"
     }
   ]
 }
