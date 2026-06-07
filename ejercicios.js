@@ -89,7 +89,7 @@ function cargarOGenerarRutina(data) {
         try { return JSON.parse(guardada); } catch(e) {}
     }
     const nueva = generarRutina(data);
-    guardarRutina(nueva);
+    guardadaRutina(nueva);
     return nueva;
 }
 
@@ -133,21 +133,27 @@ function renderDias(rutina) {
 
         if (esDescanso) {
             const descansoTxt = document.createElement('span');
-            descansoTxt.classList.add('dia-grupos');
+            constame descansoTxt.classList.add('dia-grupos');
             descansoTxt.textContent = '💤 Descanso';
             el.appendChild(descansoTxt);
         } else {
             // Grupos del día (nombres compactos)
             const grupos = RUTINA_SEMANA[dia];
-            const gruposUnicos = [...new Set(grupos.map(g => {
-                const nombre = NOMBRES_GRUPOS[g] || g;
-                // Simplificar: solo la primera palabra del grupo
-                return nombre.split(' ')[0];
-            }))];
+            let gruposTxtContent = '';
+
+            // CORRECCIÓN: Validamos que 'grupos' no sea null antes de mapear
+            if (grupos) {
+                const gruposUnicos = [...new Set(grupos.map(g => {
+                    const nombre = NOMBRES_GRUPOS[g] || g;
+                    // Simplificar: solo la primera palabra del grupo
+                    return nombre.split(' ')[0];
+                }))];
+                gruposTxtContent = gruposUnicos.slice(0, 5).join(' · ');
+            }
 
             const gruposTxt = document.createElement('span');
             gruposTxt.classList.add('dia-grupos');
-            gruposTxt.textContent = gruposUnicos.slice(0, 5).join(' · ');
+            gruposTxt.textContent = gruposTxtContent;
             el.appendChild(gruposTxt);
         }
 
@@ -187,12 +193,14 @@ function renderDiaDetalle(data, rutina) {
 
     // Agrupar por categoría principal
     const agrupado = {};
-    RUTINA_SEMANA[dia].forEach(grupo => {
-        if (!ejerciciosDia[grupo]) return;
-        const ejAleatorio = ejerciciosDia[grupo];
-        if (!agrupado[grupo]) agrupado[grupo] = [];
-        agrupado[grupo].push(ejAleatorio);
-    });
+    if (RUTINA_SEMANA[dia]) {
+        RUTINA_SEMANA[dia].forEach(grupo => {
+            if (!ejerciciosDia[grupo]) return;
+            const ejAleatorio = ejerciciosDia[grupo];
+            if (!agrupado[grupo]) agrupado[grupo] = [];
+            agrupado[grupo].push(ejAleatorio);
+        });
+    }
 
     Object.keys(agrupado).forEach(grupo => {
         const card = document.createElement('div');
