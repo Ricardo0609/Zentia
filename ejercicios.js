@@ -133,7 +133,7 @@ function renderDias(rutina) {
 
         if (esDescanso) {
             const descansoTxt = document.createElement('span');
-            constame descansoTxt.classList.add('dia-grupos');
+            descansoTxt.classList.add('dia-grupos'); // <-- CORREGIDO AQUÍ
             descansoTxt.textContent = '💤 Descanso';
             el.appendChild(descansoTxt);
         } else {
@@ -141,11 +141,9 @@ function renderDias(rutina) {
             const grupos = RUTINA_SEMANA[dia];
             let gruposTxtContent = '';
 
-            // CORRECCIÓN: Validamos que 'grupos' no sea null antes de mapear
             if (grupos) {
                 const gruposUnicos = [...new Set(grupos.map(g => {
                     const nombre = NOMBRES_GRUPOS[g] || g;
-                    // Simplificar: solo la primera palabra del grupo
                     return nombre.split(' ')[0];
                 }))];
                 gruposTxtContent = gruposUnicos.slice(0, 5).join(' · ');
