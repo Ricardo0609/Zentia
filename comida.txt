@@ -1,730 +1,605 @@
 {
   "pollo": [
     {
-      "foto": "https://d2j9trpqxd6hrn.cloudfront.net/uploads/recipe/picture/215/IMG_9530-500.jpg",
-      "titulo": "Tinga"
+      "foto": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?auto=format&fit=crop&q=80&w=500",
+      "titulo": "Tinga de pollo magra"
     },
     {
-      "foto": "https://s-api.qcart.app/images/comoquiero-uploads/images/recipes/originals/3379.jpg?s=716x600&fit=cover&ext=webp",
-      "titulo": "Con arroz"
+      "foto": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&q=80&w=500",
+      "titulo": "Pollo asado con arroz blanco"
     },
     {
-      "foto": "https://i.ytimg.com/vi/5r3iAtOrR1U/mqdefault.jpg",
+      "foto": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?auto=format&fit=crop&q=80&w=500",
       "titulo": "Molletes de frijol, queso, pollo y aguacate"
     },
     {
-      "foto": "https://www.lechedeflorida.com/file/267/Fluffy-Egg-Tacos-web.png",
+      "foto": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?auto=format&fit=crop&q=80&w=500",
       "titulo": "Tacos de pollo y huevo"
     },
     {
-      "foto": "https://storage.googleapis.com/avena-recipes-v2/agtzfmF2ZW5hLWJvdHIZCxIMSW50ZXJjb21Vc2VyGICAgICa8YQKDA/25-05-2024/cHZu09O7xx3akR04Q3aN1716663780225.jpeg",
+      "foto": "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?auto=format&fit=crop&q=80&w=500",
       "titulo": "Tostadas de pollo con queso cottage"
     },
     {
-      "foto": "https://storage.googleapis.com/avena-recipes-v2/2019/10/1571783429613.jpeg",
+      "foto": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=500",
       "titulo": "Pechuga de pollo con arroz y frijoles"
     },
     {
-      "foto": "https://www.goya.com/wp-content/uploads/2023/10/grilled-chicken-and-veggie-pasta-salad.jpg",
-      "titulo": "Pollo con pasta y verduras"
+      "foto": "https://images.unsplash.com/photo-1621510456681-23a23cfb5f57?auto=format&fit=crop&q=80&w=500",
+      "titulo": "Pollo con pasta integral y verduras"
     },
     {
-      "foto": "https://www.maricruzavalos.com/wp-content/uploads/2023/07/fajitas-de-pollo-recipe.jpg",
+      "foto": "https://images.unsplash.com/photo-1534939561126-855b8675edd7?auto=format&fit=crop&q=80&w=500",
       "titulo": "Fajitas de pollo con frijoles"
     },
     {
-      "foto": "https://salroche.com/cdn/shop/articles/SAM2044_1200x1200.jpg?v=1600900246",
-      "titulo": "Enchiladas de pollo"
+      "foto": "https://images.unsplash.com/photo-1599974579688-8dbdd335c77f?auto=format&fit=crop&q=80&w=500",
+      "titulo": "Enchiladas verdes de pollo"
     },
     {
-      "foto": "https://i.blogs.es/1c1a6c/lentejas-con-pollo-en-escabeche/840_560.jpg",
+      "foto": "https://images.unsplash.com/photo-1547592165-e1d17fed6005?auto=format&fit=crop&q=80&w=500",
       "titulo": "Pechuga de pollo con lentejas"
     },
     {
-      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/9e4ca16a3b11e14ad7a9e88af3df4e88.jpg",
+      "foto": "https://images.unsplash.com/photo-1585238342024-78d387f4a707?auto=format&fit=crop&q=80&w=500",
       "titulo": "Pechuga a la plancha con camote"
     },
     {
-      "foto": "https://cdn.kiwilimon.com/recetaimagen/36611/46206.jpg",
+      "foto": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=500",
       "titulo": "Bowl de pollo con quinoa y espinaca"
     },
     {
-      "foto": "https://www.recetasgratis.net/imghow/8/0/9/908.jpeg",
+      "foto": "https://images.unsplash.com/photo-1606787366850-de6330128bfc?auto=format&fit=crop&q=80&w=500",
       "titulo": "Pollo al horno con brócoli y papa"
     },
     {
-      "foto": "https://www.pequerecetas.com/wp-content/uploads/2013/03/Pollo-al-limon-receta.jpg",
+      "foto": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?auto=format&fit=crop&q=80&w=500",
       "titulo": "Pollo al limón con arroz integral"
     },
     {
-      "foto": "https://img.freepik.com/fotos-premium/pollo-teriyaki-arroz-verduras_476612-2234.jpg",
+      "foto": "https://images.unsplash.com/photo-1525755662778-989d0524087e?auto=format&fit=crop&q=80&w=500",
       "titulo": "Pollo teriyaki con arroz y edamame"
     },
     {
-      "foto": "https://www.cocinadelirante.com/sites/default/files/images/2020/05/milanesa-de-pollo-receta-facil.jpg",
+      "foto": "https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?auto=format&fit=crop&q=80&w=500",
       "titulo": "Milanesa de pollo al horno con puré de papa"
     },
     {
-      "foto": "https://cdn.kiwilimon.com/recetaimagen/28414/27848.jpg",
+      "foto": "https://images.unsplash.com/photo-1626700051175-6518c4793f4f?auto=format&fit=crop&q=80&w=500",
       "titulo": "Wrap de pollo con aguacate y verduras"
     },
     {
-      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/c23a2b3f94acecb7e3d9fdcbc95e3d14.jpg",
+      "foto": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&q=80&w=500",
       "titulo": "Sopa de pollo con pasta y verduras"
     },
     {
-      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/75949a2636b0cb5499f57fae1da32924.jpg",
+      "foto": "https://images.unsplash.com/photo-1560684352-8497838a2229?auto=format&fit=crop&q=80&w=500",
       "titulo": "Pechuga en salsa verde con frijoles"
     },
     {
-      "foto": "https://www.recetasgratis.net/imghow/5/5/2/552.jpeg",
+      "foto": "https://images.unsplash.com/photo-1603105037880-880cd4edfb0d?auto=format&fit=crop&q=80&w=500",
       "titulo": "Pollo con champiñones y arroz"
     },
     {
-      "foto": "https://i.pinimg.com/originals/e2/b1/e8/e2b1e8c4c76ee5e28a2b9ab8e9b42d26.jpg",
+      "foto": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&q=80&w=500",
       "titulo": "Tazón de pollo con garbanzos y espinaca"
     },
     {
-      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/93478ffbf458f3ee8ee60d4ffb9ef77b.jpg",
+      "foto": "https://images.unsplash.com/photo-1604503468506-a8da13d82791?auto=format&fit=crop&q=80&w=500",
       "titulo": "Pollo con vegetales al horno"
     },
     {
-      "foto": "https://www.recetasgratis.net/imghow/6/7/3/673.jpeg",
+      "foto": "https://images.unsplash.com/photo-1603105037880-880cd4edfb0d?auto=format&fit=crop&q=80&w=500",
       "titulo": "Caldo de pollo con verduras y fideos"
     },
     {
-      "foto": "https://cdn.kiwilimon.com/recetaimagen/35058/38804.jpg",
+      "foto": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=500",
       "titulo": "Pollo asado con ensalada de garbanzos"
     },
     {
-      "foto": "https://www.cocina-familiar.com/wp-content/uploads/2021/02/pollo-con-papas-al-horno.jpg",
+      "foto": "https://images.unsplash.com/photo-1518492104633-130d0cc84637?auto=format&fit=crop&q=80&w=500",
       "titulo": "Muslo de pollo al horno con papa y zanahoria"
     }
   ],
   "huevo": [
     {
-      "foto": "https://app.nutrium.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTM0ODgyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--5fd4e89cf2fe479bbd3b5bf19aa6b8ba912e47a0/omelette%20pollo%20crema.jpg",
+      "foto": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&q=80&w=500",
       "titulo": "Omelette de pollo"
     },
     {
-      "foto": "https://www.lacostena.com.mx/media/thumbnail/uploads/Recipes/desayuno/73-burrito-de-huevo-con-frijol_receta.jpg.1920x800_q85_center.jpg",
+      "foto": "https://images.unsplash.com/photo-1624462966581-bc6d768cbce5?auto=format&fit=crop&q=80&w=500",
       "titulo": "Quesadillas de panela, huevo y frijoles"
     },
     {
-      "foto": "https://cdn0.recetasgratis.net/es/posts/2/9/7/huevos_con_jamon_y_frijoles_76792_600_square.jpg",
-      "titulo": "Huevos con jamón"
+      "foto": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&q=80&w=500",
+      "titulo": "Huevos con jamón de pavo"
     },
     {
-      "foto": "https://storage.googleapis.com/avena-recipes-v2/2019/10/1571780221642.jpeg",
+      "foto": "https://images.unsplash.com/photo-1562059390-a761a084768e?auto=format&fit=crop&q=80&w=500",
       "titulo": "Burritos de huevo con frijoles y queso"
     },
     {
-      "foto": "https://www.ungatoenlacocina.com/wp-content/uploads/2020/04/2020-04-12-13-59-18-753.jpg",
-      "titulo": "Ensalada de huevo"
+      "foto": "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?auto=format&fit=crop&q=80&w=500",
+      "titulo": "Ensalada de huevo con aguacate"
     },
     {
-      "foto": "https://www.lechedeflorida.com/file/267/Fluffy-Egg-Tacos-web.png",
+      "foto": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?auto=format&fit=crop&q=80&w=500",
       "titulo": "Tacos de pollo y huevo"
     },
     {
-      "foto": "https://www.cocinavital.mx/wp-content/uploads/2022/06/tostadas-de-atun-con-cilantro-1.jpg",
-      "titulo": "Tostadas de atun y huevo"
+      "foto": "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?auto=format&fit=crop&q=80&w=500",
+      "titulo": "Tostadas de atún y huevo"
     },
     {
-      "foto": "https://delination.com/wp-content/uploads/2022/02/Omelette-de-espinacas-con-queso-oaxaca-1-850x550.jpg",
-      "titulo": "Omelette queso Oaxaca"
+      "foto": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&q=80&w=500",
+      "titulo": "Omelette con queso Oaxaca y espinacas"
     },
     {
-      "foto": "https://cdn3.myrealfood.app/recipes%2F0DS2IZJ7uwIT4xRZ2FhX%2Fmain.jpg?alt=media&token=da57c8c0-bc95-4d1d-b564-4af11ce61378",
+      "foto": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&q=80&w=500",
       "titulo": "Huevos con requesón y pan integral"
     },
     {
-      "foto": "https://cdn.kiwilimon.com/recetaimagen/24584/640x426/20067.jpg.jpg",
+      "foto": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&q=80&w=500",
       "titulo": "Omelette de claras con espinaca y champiñones"
     },
     {
-      "foto": "https://www.recetasgratis.net/imghow/9/5/8/958.jpeg",
+      "foto": "https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&q=80&w=500",
       "titulo": "Huevos revueltos con avena y plátano"
     },
     {
-      "foto": "https://cdn.kiwilimon.com/recetaimagen/33945/38173.jpg",
+      "foto": "https://images.unsplash.com/photo-1592417817098-8f3d6eb19675?auto=format&fit=crop&q=80&w=500",
       "titulo": "Huevos rancheros con frijoles"
     },
     {
-      "foto": "https://i.pinimg.com/originals/f3/d0/e4/f3d0e40cf9e4f62bd2e46b0e5c50d1e0.jpg",
+      "foto": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=500",
       "titulo": "Bowl de huevo poché con quinoa y aguacate"
     },
     {
-      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/frittata.jpg",
+      "foto": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&q=80&w=500",
       "titulo": "Frittata de verduras y queso panela"
     },
     {
-      "foto": "https://cdn.kiwilimon.com/recetaimagen/13003/9960.jpg",
+      "foto": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&q=80&w=500",
       "titulo": "Huevos a la mexicana con tortilla y frijoles"
     },
     {
-      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/586395b00b73be5fa1e6bc7c37466989.jpg",
+      "foto": "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?auto=format&fit=crop&q=80&w=500",
       "titulo": "Tortilla española con papa y cebolla"
     },
     {
-      "foto": "https://i.pinimg.com/originals/e6/0f/4d/e60f4da63e0e94e3f7e0fdf7b2346c3c.jpg",
+      "foto": "https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&q=80&w=500",
       "titulo": "Claras batidas con avena y miel"
     },
     {
-      "foto": "https://www.cocinavital.mx/wp-content/uploads/2021/03/huevos-benedictinos.jpg",
+      "foto": "https://images.unsplash.com/photo-1608039829572-78524f79c4c7?auto=format&fit=crop&q=80&w=500",
       "titulo": "Huevos benedictinos con jamón de pavo"
     },
     {
-      "foto": "https://cdn.kiwilimon.com/recetaimagen/39108/49520.jpg",
+      "foto": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=500",
       "titulo": "Tazón proteico de huevo, arroz y brócoli"
+    },
+    {
+      "foto": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&q=80&w=500",
+      "titulo": "Desayuno hiperproteico de 3 huevos con aguacate"
+    },
+    {
+      "foto": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?auto=format&fit=crop&q=80&w=500",
+      "titulo": "Waffles de avena y claras de huevo"
     }
   ],
   "atun": [
     {
-      "foto": "https://storage.googleapis.com/avena-recipes-v2/agtzfmF2ZW5hLWJvdHIZCxIMSW50ZXJjb21Vc2VyGICAgMW2rJ8LDA/08-05-2023/K3W9d4K6hXJ9wA7fEu8H1683525487544.jpeg",
+      "foto": "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?auto=format&fit=crop&q=80&w=500",
       "titulo": "Tostadas de atún y aguacate"
     },
     {
-      "foto": "https://www.cocinavital.mx/wp-content/uploads/2022/06/tostadas-de-atun-con-cilantro-1.jpg",
+      "foto": "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?auto=format&fit=crop&q=80&w=500",
       "titulo": "Tostadas de atún y huevo"
     },
     {
-      "foto": "https://www.iberiamexico.com/-/media/Project/Upfield/MultiBrand/Iberia/Assets/Recipes/Recipe-sync/20492f39-805a-4d6d-b323-7644b41ebaf4.jpg?rev=54a2061339ca46a28cdfcff76ef44c3f&w=520",
+      "foto": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&q=80&w=500",
       "titulo": "Tortitas de atún al comal con arroz"
     },
     {
-      "foto": "https://cdn.kiwilimon.com/recetaimagen/30206/31333.jpg",
+      "foto": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=500",
       "titulo": "Bowl de atún con quinoa, pepino y limón"
     },
     {
-      "foto": "https://www.recetasgratis.net/imghow/3/5/4/354.jpeg",
+      "foto": "https://images.unsplash.com/photo-1621510456681-23a23cfb5f57?auto=format&fit=crop&q=80&w=500",
       "titulo": "Pasta con atún, aceite de oliva y tomate"
     },
     {
-      "foto": "https://i.pinimg.com/originals/1e/dc/69/1edc69f13f4b6a38b8ae01d6e1bfb7bd.jpg",
+      "foto": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&q=80&w=500",
       "titulo": "Sándwich de atún con aguacate en pan integral"
     },
     {
-      "foto": "https://www.recetasgratis.net/imghow/0/0/0/ensalada_de_atun_con_garbanzos_74000_600.jpg",
+      "foto": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&q=80&w=500",
       "titulo": "Ensalada de atún con garbanzo y jitomate"
     },
     {
-      "foto": "https://cdn.kiwilimon.com/recetaimagen/35003/optimized-640x426-35003.jpg",
+      "foto": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&q=80&w=500",
       "titulo": "Arroz con atún y verduras salteadas"
     },
     {
-      "foto": "https://cdn.kiwilimon.com/recetaimagen/1551/10444.jpg",
+      "foto": "https://images.unsplash.com/photo-1606787366850-de6330128bfc?auto=format&fit=crop&q=80&w=500",
       "titulo": "Atún con papa cocida y brócoli al vapor"
     },
     {
-      "foto": "https://www.recetasgratis.net/imghow/5/6/2/562.jpeg",
+      "foto": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?auto=format&fit=crop&q=80&w=500",
       "titulo": "Taco de atún con pico de gallo y aguacate"
     }
   ],
   "res": [
     {
-      "foto": "https://www.comiendoenla.com/wp-content/uploads/2020/03/bistec-a-la-plancha.jpg",
+      "foto": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=500",
       "titulo": "Bistec con papa cocida y verduras"
     },
     {
-      "foto": "https://recetinas.com/wp-content/uploads/2020/03/albondigas-de-carne-con-arroz.jpg",
+      "foto": "https://images.unsplash.com/photo-1529042410759-befb1204b468?auto=format&fit=crop&q=80&w=500",
       "titulo": "Albóndigas con arroz"
     },
     {
-      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/ea72fa9900c43666d93b1ee65db3cc4a.jpg",
+      "foto": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=500",
       "titulo": "Picadillo de res con arroz"
     },
     {
-      "foto": "https://i.ytimg.com/vi/lX1KGjVEdbw/maxresdefault.jpg",
+      "foto": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=500",
       "titulo": "Arrachera a la plancha con arroz y frijoles"
     },
     {
-      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/carne_molida.jpg",
+      "foto": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&q=80&w=500",
       "titulo": "Carne molida con verduras y arroz integral"
     },
     {
-      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/df496033486c90fa7da702b8d0b284e3.jpg",
+      "foto": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&q=80&w=500",
       "titulo": "Caldo de res con verduras y papa"
     },
     {
-      "foto": "https://i.pinimg.com/originals/3c/54/7a/3c547a06f1c9e1ccde9d39c72b756cf5.jpg",
+      "foto": "https://images.unsplash.com/photo-1603105037880-880cd4edfb0d?auto=format&fit=crop&q=80&w=500",
       "titulo": "Tiras de res con champiñones y papa"
     },
     {
-      "foto": "https://cdn.kiwilimon.com/recetaimagen/30521/optimized-640x426-30521.jpg",
+      "foto": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=500",
       "titulo": "Bowl de res con arroz integral y guacamole"
     },
     {
-      "foto": "https://i.ytimg.com/vi/l4h_o-MHjVo/maxresdefault.jpg",
+      "foto": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&q=80&w=500",
       "titulo": "Hamburguesa de res magra con camote horneado"
     },
     {
-      "foto": "https://www.recetasgratis.net/imghow/7/6/9/769.jpeg",
+      "foto": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&q=80&w=500",
       "titulo": "Estofado de res con zanahoria y papa"
     },
     {
-      "foto": "https://i.pinimg.com/originals/a1/c4/b3/a1c4b33e4b0cf9c3de9b8f5cc3e09deb.jpg",
+      "foto": "https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?auto=format&fit=crop&q=80&w=500",
       "titulo": "Milanesa de res al horno con ensalada"
+    },
+    {
+      "foto": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=500",
+      "titulo": "Bistec asado hipercalórico con doble porción de arroz"
     }
   ],
   "Pescado": [
     {
-      "foto": "https://s-api.qcart.app/images/comoquiero-uploads/images/recipes/originals/575.jpg?s=716x600&fit=cover&ext=webp",
+      "foto": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&q=80&w=500",
       "titulo": "Filete de pescado con puré de papa"
     },
     {
-      "foto": "https://i.ytimg.com/vi/w9jHr7TL-xo/maxresdefault.jpg",
+      "foto": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&q=80&w=500",
       "titulo": "Salmón a la plancha con espárrago y arroz"
     },
     {
-      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/6b68bfa9318a4740e5318dbcfcdb3a9f.jpg",
+      "foto": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&q=80&w=500",
       "titulo": "Salmón al horno con limón y brócoli"
     },
     {
-      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/tilapia.jpg",
+      "foto": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&q=80&w=500",
       "titulo": "Tilapia al vapor con quinoa y espinaca"
     },
     {
-      "foto": "https://cdn.kiwilimon.com/recetaimagen/tacos-de-pescado.jpg",
+      "foto": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?auto=format&fit=crop&q=80&w=500",
       "titulo": "Tacos de pescado con col y pico de gallo"
     },
     {
-      "foto": "https://i.pinimg.com/originals/7b/d9/e1/7bd9e1e5c8f1e7d5d1ff9b65a34c7d67.jpg",
+      "foto": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&q=80&w=500",
       "titulo": "Filete de tilapia con arroz y ensalada"
     },
     {
-      "foto": "https://i.ytimg.com/vi/2bZkQmzyCJY/maxresdefault.jpg",
+      "foto": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&q=80&w=500",
       "titulo": "Ceviche de camarón con tostadas"
     },
     {
-      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/649d21cc41f7b0f699863c32daaa260a.jpg",
+      "foto": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&q=80&w=500",
       "titulo": "Camarones a la plancha con arroz integral"
     },
     {
-      "foto": "https://www.recetasgratis.net/imghow/6/8/2/682.jpeg",
+      "foto": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&q=80&w=500",
       "titulo": "Sopa de mariscos con verduras"
     },
     {
-      "foto": "https://i.pinimg.com/originals/c2/f5/a3/c2f5a321d9e4e8c0dfc6e3a1f2b7d9e1.jpg",
+      "foto": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&q=80&w=500",
       "titulo": "Salmón con costra de ajonjolí y camote"
     },
     {
-      "foto": "https://cdn.kiwilimon.com/recetaimagen/barra-proteica-pesacado.jpg",
+      "foto": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&q=80&w=500",
       "titulo": "Ensalada de salmón con garbanzos y pepino"
     }
   ],
   "lacteos": [
     {
-      "foto": "https://sergiocalderon.com/wp-content/uploads/2025/06/Porridge-de-avena-con-yogur.jpg",
+      "foto": "https://images.unsplash.com/photo-1488477181946-6428a0291777?auto=format&fit=crop&q=80&w=500",
       "titulo": "Yogur, frutas y semillas"
     },
     {
-      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2015/08/peanut_butter_shake.jpeg",
+      "foto": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?auto=format&fit=crop&q=80&w=500",
       "titulo": "Licuado de avena con leche, yogur y crema de cacahuate"
     },
     {
-      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuBwMIBSFZETmDzNLbJlWMgUsbUdc-lxUTdQ&s",
+      "foto": "https://images.unsplash.com/photo-1488477181946-6428a0291777?auto=format&fit=crop&q=80&w=500",
       "titulo": "Yogur griego con avena, manzana y semillas"
     },
     {
-      "foto": "https://cdn.kiwilimon.com/recetaimagen/35539/38500.jpg",
+      "foto": "https://images.unsplash.com/photo-1488477181946-6428a0291777?auto=format&fit=crop&q=80&w=500",
       "titulo": "Parfait de yogur griego con granola y arándanos"
     },
     {
-      "foto": "https://i.pinimg.com/originals/ae/c8/f9/aec8f9b6e0a7c5d3f1e2b4c6a8d0e2f4.jpg",
+      "foto": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?auto=format&fit=crop&q=80&w=500",
       "titulo": "Licuado proteico de leche, plátano y avena"
     },
     {
-      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/a859424855075b376997cc0f56a655c6.jpg",
+      "foto": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?auto=format&fit=crop&q=80&w=500",
       "titulo": "Batido de chocolate con leche y creatina"
     },
     {
-      "foto": "https://cdn.kiwilimon.com/recetaimagen/26002/24057.jpg",
+      "foto": "https://images.unsplash.com/photo-1488477181946-6428a0291777?auto=format&fit=crop&q=80&w=500",
       "titulo": "Bowl de cottage cheese con piña y semillas"
     },
     {
-      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/licuado_verde.jpg",
+      "foto": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?auto=format&fit=crop&q=80&w=500",
       "titulo": "Licuado verde con espinaca, leche y plátano"
     },
     {
-      "foto": "https://i.pinimg.com/originals/d2/e3/f4/d2e3f4a5b6c7d8e9f0a1b2c3d4e5f6a7.jpg",
+      "foto": "https://images.unsplash.com/photo-1488477181946-6428a0291777?auto=format&fit=crop&q=80&w=500",
       "titulo": "Requesón con frutos rojos y miel"
     },
     {
-      "foto": "https://cdn.kiwilimon.com/recetaimagen/31811/35092.jpg",
+      "foto": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?auto=format&fit=crop&q=80&w=500",
       "titulo": "Smoothie de mango, yogur y proteína de vainilla"
     },
     {
-      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/68798bfd469f697428ee0e94bb5df7b6.jpg",
+      "foto": "https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&q=80&w=500",
       "titulo": "Leche con cacao amargo y avena en hojuelas"
     }
   ],
   "pan": [
     {
-      "foto": "https://cdn0.recetasgratis.net/es/posts/7/2/0/sandwich_de_pavo_y_queso_55027_paso_2_600.jpg",
+      "foto": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&q=80&w=500",
       "titulo": "Sándwich de pechuga de pavo con queso cottage"
     },
     {
-      "foto": "https://i.blogs.es/58e3a2/hot-cakes/1200_900.jpg",
-      "titulo": "Hotcakes de avena"
+      "foto": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?auto=format&fit=crop&q=80&w=500",
+      "titulo": "Hotcakes proteicos de avena"
     },
     {
-      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ5vUgkWhOMMVt_RxITBDL1GvzHFyEypuSxw&s",
+      "foto": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&q=80&w=500",
       "titulo": "Mollete con requesón y pechuga de pavo"
     },
     {
-      "foto": "https://i.ytimg.com/vi/sJh3_Z4t0Ps/maxresdefault.jpg",
+      "foto": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&q=80&w=500",
       "titulo": "Tostada integral con aguacate y huevo pochado"
     },
     {
-      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/9cb69e8038b34f8999be7f6f9661f03d.jpg",
+      "foto": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&q=80&w=500",
       "titulo": "Sándwich de pollo a la plancha con jitomate"
     },
     {
-      "foto": "https://i.pinimg.com/originals/b3/c4/d5/b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8.jpg",
+      "foto": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&q=80&w=500",
       "titulo": "Tostadas francesas proteicas con claras de huevo"
     },
     {
-      "foto": "https://cdn.kiwilimon.com/recetaimagen/pan-proteico.jpg",
+      "foto": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&q=80&w=500",
       "titulo": "Pan integral con mantequilla de almendra y plátano"
     },
     {
-      "foto": "https://i.ytimg.com/vi/T3e8B9kPqaY/maxresdefault.jpg",
+      "foto": "https://images.unsplash.com/photo-1626700051175-6518c4793f4f?auto=format&fit=crop&q=80&w=500",
       "titulo": "Wrap integral de pavo, lechuga y mostaza"
     },
     {
-      "foto": "https://www.recetasgratis.net/imghow/3/6/1/361.jpeg",
+      "foto": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?auto=format&fit=crop&q=80&w=500",
       "titulo": "Molletes de frijol negro y queso panela"
     },
     {
-      "foto": "https://i.pinimg.com/originals/c5/d6/e7/c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0.jpg",
+      "foto": "https://images.unsplash.com/photo-1541532713592-79a0317b6b77?auto=format&fit=crop&q=80&w=500",
       "titulo": "Bagel integral con salmón ahumado y requesón"
     }
   ],
   "leguminosas": [
     {
-      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/d003b0d2d386927a44f849cfd2df6b5c.jpg",
+      "foto": "https://images.unsplash.com/photo-1547592165-e1d17fed6005?auto=format&fit=crop&q=80&w=500",
       "titulo": "Lentejas guisadas con zanahoria y tomate"
     },
     {
-      "foto": "https://cdn.kiwilimon.com/recetaimagen/19904/18318.jpg",
+      "foto": "https://images.unsplash.com/photo-1547592165-e1d17fed6005?auto=format&fit=crop&q=80&w=500",
       "titulo": "Sopa de lenteja con espinaca y limón"
     },
     {
-      "foto": "https://cdn.kiwilimon.com/recetaimagen/frijoles-de-olla.jpg",
+      "foto": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=500",
       "titulo": "Frijoles de olla con epazote y tortilla"
     },
     {
-      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/5863c3755fe09a0a4c9b8377d6150fe1.jpg",
+      "foto": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&q=80&w=500",
       "titulo": "Ensalada de garbanzo con pepino y limón"
     },
     {
-      "foto": "https://i.pinimg.com/originals/a6/b7/c8/a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d1.jpg",
+      "foto": "https://images.unsplash.com/photo-1577906096429-f73ae1831244?auto=format&fit=crop&q=80&w=500",
       "titulo": "Hummus casero con verduras crudas"
     },
     {
-      "foto": "https://cdn.kiwilimon.com/recetaimagen/13768/10427.jpg",
+      "foto": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&q=80&w=500",
       "titulo": "Garbanzo salteado con pollo y espinaca"
     },
     {
-      "foto": "https://www.recetasgratis.net/imghow/4/7/0/470.jpeg",
+      "foto": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=500",
       "titulo": "Chili de frijol negro con res magra"
     },
     {
-      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/0b2b80a03002f236a0fb4ff38c6426eb.jpg",
+      "foto": "https://images.unsplash.com/photo-1547592165-e1d17fed6005?auto=format&fit=crop&q=80&w=500",
       "titulo": "Lenteja con chorizo de pavo y papa"
     },
     {
-      "foto": "https://i.pinimg.com/originals/b7/c8/d9/b7c8d9e0f1a2b3c4d5e6f7a8b9c0d1e2.jpg",
+      "foto": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=500",
       "titulo": "Bowl proteico de edamame con arroz y soya"
     },
     {
-      "foto": "https://cdn.kiwilimon.com/recetaimagen/25895/23961.jpg",
+      "foto": "https://images.unsplash.com/photo-1547592165-e1d17fed6005?auto=format&fit=crop&q=80&w=500",
       "titulo": "Habas cocidas con jitomate y cilantro"
     }
   ],
   "cereales": [
     {
-      "foto": "https://i.ytimg.com/vi/5I5kRMHnZb4/maxresdefault.jpg",
+      "foto": "https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&q=80&w=500",
       "titulo": "Bowl de avena con plátano y crema de cacahuate"
     },
     {
-      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/e7e8b919d363b9fc988f6ea027c6b9bb.jpg",
+      "foto": "https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&q=80&w=500",
       "titulo": "Porridge de avena con manzana y canela"
     },
     {
-      "foto": "https://i.pinimg.com/originals/d8/e9/f0/d8e9f0a1b2c3d4e5f6a7b8c9d0e1f2a3.jpg",
+      "foto": "https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&q=80&w=500",
       "titulo": "Avena proteica nocturna con yogur y chía"
     },
     {
-      "foto": "https://cdn.kiwilimon.com/recetaimagen/granola-proteica.jpg",
+      "foto": "https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&q=80&w=500",
       "titulo": "Granola casera con nueces y semillas"
     },
     {
-      "foto": "https://i.ytimg.com/vi/q2w3e4r5t6y7/maxresdefault.jpg",
+      "foto": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=500",
       "titulo": "Bowl de quinoa con frutas y miel"
     },
     {
-      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/d108eb9fb34f71fb1fe4443ffae69b58.jpg",
+      "foto": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&q=80&w=500",
       "titulo": "Arroz integral con pollo y verduras"
     },
     {
-      "foto": "https://i.pinimg.com/originals/e9/f0/a1/e9f0a1b2c3d4e5f6a7b8c9d0e1f2a3b4.jpg",
+      "foto": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?auto=format&fit=crop&q=80&w=500",
       "titulo": "Tortillas de maíz con frijol y aguacate"
     },
     {
-      "foto": "https://www.recetasgratis.net/imghow/2/5/7/257.jpeg",
+      "foto": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?auto=format&fit=crop&q=80&w=500",
       "titulo": "Tamal de rajas con queso y frijol"
     },
     {
-      "foto": "https://i.ytimg.com/vi/u7y8i9o0p1q/maxresdefault.jpg",
+      "foto": "https://images.unsplash.com/photo-1621510456681-23a23cfb5f57?auto=format&fit=crop&q=80&w=500",
       "titulo": "Pasta de trigo con atún y jitomate cherry"
     },
     {
-      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/6b68a86fa3a9aaef3a2283ccb8627e3d.jpg",
+      "foto": "https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&q=80&w=500",
       "titulo": "Muesli con leche descremada y frutos rojos"
     }
   ],
   "verduras": [
     {
-      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/729e8bc1a3a6b8ef3a4b83ca649d21ce.jpg",
+      "foto": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&q=80&w=500",
       "titulo": "Ensalada verde con pollo y vinagreta"
     },
     {
-      "foto": "https://cdn.kiwilimon.com/recetaimagen/35515/38473.jpg",
+      "foto": "https://images.unsplash.com/photo-1606787366850-de6330128bfc?auto=format&fit=crop&q=80&w=500",
       "titulo": "Brócoli al vapor con ajo y aceite de oliva"
     },
     {
-      "foto": "https://cdn.kiwilimon.com/recetaimagen/verduras-asadas.jpg",
+      "foto": "https://images.unsplash.com/photo-1606787366850-de6330128bfc?auto=format&fit=crop&q=80&w=500",
       "titulo": "Verduras asadas con queso panela"
     },
     {
-      "foto": "https://cdn.kiwilimon.com/recetaimagen/31731/35010.jpg",
+      "foto": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&q=80&w=500",
       "titulo": "Espinaca salteada con ajo y limón"
     },
     {
-      "foto": "https://i.pinimg.com/originals/f0/a1/b2/f0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5.jpg",
+      "foto": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&q=80&w=500",
       "titulo": "Bowl de calabaza con garbanzo y cúrcuma"
     },
     {
-      "foto": "https://cdn.kiwilimon.com/recetaimagen/29465/30412.jpg",
+      "foto": "https://images.unsplash.com/photo-1603105037880-880cd4edfb0d?auto=format&fit=crop&q=80&w=500",
       "titulo": "Champiñones salteados con cebolla y chile"
     },
     {
-      "foto": "https://www.recetasgratis.net/imghow/1/4/6/146.jpeg",
+      "foto": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&q=80&w=500",
       "titulo": "Pepinos rellenos de atún y aguacate"
     },
     {
-      "foto": "https://cdn.kiwilimon.com/recetaimagen/2070/11059.jpg",
+      "foto": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&q=80&w=500",
       "titulo": "Aguacate relleno de pollo con jitomate"
     },
     {
-      "foto": "https://i.pinimg.com/originals/a1/b2/c3/a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6.jpg",
+      "foto": "https://images.unsplash.com/photo-1606787366850-de6330128bfc?auto=format&fit=crop&q=80&w=500",
       "titulo": "Coliflor al horno con especias y limón"
     },
     {
-      "foto": "https://cdn.kiwilimon.com/recetaimagen/29486/30441.jpg",
+      "foto": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&q=80&w=500",
       "titulo": "Ensalada de betabel con queso de cabra"
     }
   ],
   "puerco": [
     {
-      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/48a5db03a469f69428ee0e94bc54fa23.jpg",
+      "foto": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=500",
       "titulo": "Lomo de cerdo a la plancha con camote"
     },
     {
-      "foto": "https://cdn.kiwilimon.com/recetaimagen/13018/10041.jpg",
+      "foto": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=500",
       "titulo": "Costilla de cerdo al horno con brócoli"
     },
     {
-      "foto": "https://cdn.kiwilimon.com/recetaimagen/cochinita-pibil.jpg",
+      "foto": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=500",
       "titulo": "Cochinita pibil con arroz y frijoles"
     },
     {
-      "foto": "https://i.pinimg.com/originals/b2/c3/d4/b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7.jpg",
+      "foto": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=500",
       "titulo": "Lomo en salsa de chipotle con papa"
     },
     {
-      "foto": "https://www.recetasgratis.net/imghow/8/3/5/835.jpeg",
+      "foto": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=500",
       "titulo": "Chuleta de cerdo con ejotes y zanahoria"
     }
   ],
   "snacks": [
     {
-      "foto": "https://cdn.kiwilimon.com/recetaimagen/36262/45084.jpg",
+      "foto": "https://images.unsplash.com/photo-1619546813926-a78fa6372cd2?auto=format&fit=crop&q=80&w=500",
       "titulo": "Manzana con mantequilla de almendra"
     },
     {
-      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/5863c3755fe09a0a4c9b8377d6150fe1.jpg",
+      "foto": "https://images.unsplash.com/photo-1596560548464-f01068e3dc9d?auto=format&fit=crop&q=80&w=500",
       "titulo": "Mix de nueces, almendras y arándanos"
     },
     {
-      "foto": "https://i.pinimg.com/originals/c3/d4/e5/c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8.jpg",
+      "foto": "https://images.unsplash.com/photo-1592417817098-8f3d6eb19675?auto=format&fit=crop&q=80&w=500",
       "titulo": "Jícama con limón y chile en polvo"
     },
     {
-      "foto": "https://cdn.kiwilimon.com/recetaimagen/edamame-sal.jpg",
+      "foto": "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?auto=format&fit=crop&q=80&w=500",
       "titulo": "Edamame con sal de mar"
     },
     {
-      "foto": "https://cdn.kiwilimon.com/recetaimagen/35294/39097.jpg",
+      "foto": "https://images.unsplash.com/photo-1488477181946-6428a0291777?auto=format&fit=crop&q=80&w=500",
       "titulo": "Yogur griego con miel y nuez"
     },
     {
-      "foto": "https://www.recetasgratis.net/imghow/9/4/6/946.jpeg",
+      "foto": "https://images.unsplash.com/photo-1488477181946-6428a0291777?auto=format&fit=crop&q=80&w=500",
       "titulo": "Queso cottage con piña y chía"
     },
     {
-      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/6b68ba5a3a78aaef3a2283ccb86256c3.jpg",
+      "foto": "https://images.unsplash.com/photo-1599599810769-bcde5a160d32?auto=format&fit=crop&q=80&w=500",
       "titulo": "Galletas de arroz con aguacate"
     },
     {
-      "foto": "https://i.pinimg.com/originals/d4/e5/f6/d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9.jpg",
+      "foto": "https://images.unsplash.com/photo-1592417817098-8f3d6eb19675?auto=format&fit=crop&q=80&w=500",
       "titulo": "Celery con mantequilla de cacahuate natural"
     },
     {
-      "foto": "https://cdn.kiwilimon.com/recetaimagen/15312/11417.jpg",
+      "foto": "https://images.unsplash.com/photo-1599599810769-bcde5a160d32?auto=format&fit=crop&q=80&w=500",
       "titulo": "Barra proteica casera de avena y choco"
     },
     {
-      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/a859424855075b376997cc0f56a655c6.jpg",
+      "foto": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?auto=format&fit=crop&q=80&w=500",
       "titulo": "Batido de proteína de suero con leche"
     }
   ],
-  "postres": [
-    {
-      "foto": "https://images.cookforyourlife.org/wp-content/uploads/2020/06/Dark-Chocolate-Brownies-shutterstock_112430981.jpg",
-      "titulo": "Brownie de chocolate negro"
-    },
-    {
-      "foto": "https://cdn.kiwilimon.com/recetaimagen/38202/47942.jpg",
-      "titulo": "Mug cake proteico de avena y choco"
-    },
-    {
-      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/3d4d5a6b7c8d9e0f1a2b3c4d5e6f7a8b.jpg",
-      "titulo": "Mousse de chocolate negro con aquafaba"
-    },
-    {
-      "foto": "https://i.pinimg.com/originals/e5/f6/a7/e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0.jpg",
-      "titulo": "Helado de plátano con crema de cacahuate"
-    },
-    {
-      "foto": "https://cdn.kiwilimon.com/recetaimagen/panqu\u00e9-proteico.jpg",
-      "titulo": "Panqu\u00e9 proteico de plátano y avena"
-    },
-    {
-      "foto": "https://cdn.kiwilimon.com/recetaimagen/32822/36613.jpg",
-      "titulo": "Galletas de avena con chispas de chocolate"
-    },
-    {
-      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/586311b00b03be5fa1e6bc7c37411289.jpg",
-      "titulo": "Flan de vainilla con poca az\u00facar"
-    }
-  ],
-  "Jugos": [
-    {
-      "foto": "https://www.clarin.com/2025/01/07/WP619n_8v_720x0__1.jpg",
-      "titulo": "Betabel, zanahoria y naranja"
-    },
-    {
-      "foto": "https://postressaludables.com/wp-content/uploads/2014/03/batidoverdeconespinacas.png",
-      "titulo": "Espinaca, manzana verde, apio y jengibre"
-    },
-    {
-      "foto": "https://editorialtelevisa.brightspotcdn.com/dims4/default/1d9997b/2147483647/strip/true/crop/995x560+3+0/resize/1000x563!/quality/90/?url=https%3A%2F%2Fk2-prod-editorial-televisa.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fwp-content%2Fuploads%2F2020%2F02%2Fjugo-toronja.jpg",
-      "titulo": "Toronja y piña"
-    },
-    {
-      "foto": "https://www.cocinavital.mx/wp-content/uploads/2025/06/agua-de-mango-y-coco.jpg",
-      "titulo": "Agua de coco, mango y semillas de ch\u00eda"
-    },
-    {
-      "foto": "https://kalter.cl/wp-content/uploads/2019/12/jugo-apio-pepino-perejil.jpg",
-      "titulo": "Pepino, apio, lim\u00f3n y perejil"
-    },
-    {
-      "foto": "https://primicia.com.ve/wp-content/uploads/2020/02/Untitled-1-25.jpg",
-      "titulo": "Zanahoria, manzana y c\u00farcuma"
-    },
-    {
-      "foto": "https://www.pompadour.es/modules/ph_simpleblog/featured/151.jpg",
-      "titulo": "Ar\u00e1ndanos, fresas y agua de hibisco"
-    },
-    {
-      "foto": "https://poniendoenpractica.com/wp-content/uploads/2025/07/kiwi-y-guayaba.webp",
-      "titulo": "Naranja, guayaba y kiwi"
-    },
-    {
-      "foto": "https://www.mylatinatable.com/wp-content/uploads/2016/01/foto-heore.jpg",
-      "titulo": "Kale, pepino, manzana roja y lim\u00f3n"
-    },
-    {
-      "foto": "https://cdn.kiwilimon.com/recetaimagen/35212/38992.jpg",
-      "titulo": "Pl\u00e1tano, leche de almendra y mantequilla de cacahuate"
-    },
-    {
-      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/b1c4b33e4b0cf9c3de9b8f5cc3e09deb.jpg",
-      "titulo": "Naranja, zanahoria y jengibre"
-    },
-    {
-      "foto": "https://i.pinimg.com/originals/f6/a7/b8/f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1.jpg",
-      "titulo": "Pi\u00f1a, coco y menta fresca"
-    },
-    {
-      "foto": "https://cdn.kiwilimon.com/recetaimagen/31201/33491.jpg",
-      "titulo": "Sand\u00eda, lim\u00f3n y sal mineral"
-    },
-    {
-      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0.jpg",
-      "titulo": "Fresa, betabel y leche de avena"
-    }
-  ],
-  "frutas": [
-    {
-      "foto": "https://cdn.kiwilimon.com/recetaimagen/37201/47091.jpg",
-      "titulo": "Bowl de frutas tropicales con granola"
-    },
-    {
-      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/5863c3755fe09a0a4c9b8377d6150fe1.jpg",
-      "titulo": "Ensalada de frutas con miel y ch\u00eda"
-    },
-    {
-      "foto": "https://i.pinimg.com/originals/a7/b8/c9/a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2.jpg",
-      "titulo": "Pl\u00e1tano con mantequilla de almendra"
-    },
-    {
-      "foto": "https://cdn.kiwilimon.com/recetaimagen/mango-tajin.jpg",
-      "titulo": "Mango con taj\u00edn y lim\u00f3n"
-    },
-    {
-      "foto": "https://cdn.kiwilimon.com/recetaimagen/36262/45084.jpg",
-      "titulo": "Manzana con canela y nuez"
-    },
-    {
-      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a.jpg",
-      "titulo": "Papaya con lim\u00f3n y jengibre"
-    }
-  ],
-  "arroz": [
-    {
-      "foto": "https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/6b68a86fa3a9aaef3a2283ccb8627e3d.jpg",
-      "titulo": "Arroz integral salteado con huevo y verduras"
-    },
-    {
-      "foto": "https://cdn.kiwilimon.com/recetaimagen/15112/11202.jpg",
-      "titulo": "Arroz con leche proteico y canela"
-    },
-    {
-      "foto": "https://cdn.kiwilimon.com/recetaimagen/sushi-casero.jpg",
-      "titulo": "Sushi casero de salm\u00f3n y aguacate"
-    },
-    {
-      "foto": "https://i.pinimg.com/originals/b8/c9/d0/b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3.jpg",
-      "titulo": "Arroz frito con pollo, zanahoria y soya"
-    },
-    {
-      "foto": "https://cdn.kiwilimon.com/recetaimagen/35002/38491.jpg",
-      "titulo": "Bowl de arroz negro con salm\u00f3n y edamame"
-    }
-  ]
-}
