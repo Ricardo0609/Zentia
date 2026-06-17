@@ -251,7 +251,7 @@
       "titulo": "Carne molida con verduras y arroz integral"
     },
     {
-      "foto": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&q=80&w=500",
+      "foto": "https://images.unsplash.com/photo-1547592165-e1d17fed6005?auto=format&fit=crop&q=80&w=500",
       "titulo": "Caldo de res con verduras y papa"
     },
     {
@@ -337,6 +337,6 @@
     {
       "foto": "https://images.unsplash.com/photo-1488477181946-6428a0291777?auto=format&fit=crop&q=80&w=500",
       "titulo": "Yogur griego con avena, manzana y semillas"
-    },
-    {
-      "foto": "
+    }
+  ]
+}
