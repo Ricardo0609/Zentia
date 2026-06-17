@@ -1,342 +1,96 @@
 {
   "pollo": [
-    {
-      "foto": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Tinga de pollo magra"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Pollo asado con arroz blanco"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Molletes de frijol, queso, pollo y aguacate"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Tacos de pollo y huevo"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Tostadas de pollo con queso cottage"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Pechuga de pollo con arroz y frijoles"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1621510456681-23a23cfb5f57?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Pollo con pasta integral y verduras"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1534939561126-855b8675edd7?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Fajitas de pollo con frijoles"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1599974579688-8dbdd335c77f?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Enchiladas verdes de pollo"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1547592165-e1d17fed6005?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Pechuga de pollo con lentejas"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1585238342024-78d387f4a707?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Pechuga a la plancha con camote"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Bowl de pollo con quinoa y espinaca"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1606787366850-de6330128bfc?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Pollo al horno con brócoli y papa"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Pollo al limón con arroz integral"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1525755662778-989d0524087e?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Pollo teriyaki con arroz y edamame"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Milanesa de pollo al horno con puré de papa"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1626700051175-6518c4793f4f?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Wrap de pollo con aguacate y verduras"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Sopa de pollo con pasta y verduras"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1560684352-8497838a2229?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Pechuga en salsa verde con frijoles"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1603105037880-880cd4edfb0d?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Pollo con champiñones y arroz"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Tazón de pollo con garbanzos y espinaca"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1604503468506-a8da13d82791?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Pollo con vegetales al horno"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1603105037880-880cd4edfb0d?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Caldo de pollo con verduras y fideos"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Pollo asado con ensalada de garbanzos"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1518492104633-130d0cc84637?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Muslo de pollo al horno con papa y zanahoria"
-    }
+    {"foto": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?auto=format&fit=crop&q=80&w=500", "titulo": "Tinga de pollo magra"},
+    {"foto": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&q=80&w=500", "titulo": "Pollo asado con arroz blanco"},
+    {"foto": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?auto=format&fit=crop&q=80&w=500", "titulo": "Molletes de frijol, queso, pollo y aguacate"},
+    {"foto": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?auto=format&fit=crop&q=80&w=500", "titulo": "Tacos de pollo y huevo"},
+    {"foto": "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?auto=format&fit=crop&q=80&w=500", "titulo": "Tostadas de pollo con queso cottage"},
+    {"foto": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=500", "titulo": "Pechuga de pollo con arroz y frijoles"},
+    {"foto": "https://images.unsplash.com/photo-1621510456681-23a23cfb5f57?auto=format&fit=crop&q=80&w=500", "titulo": "Pollo con pasta integral y verduras"},
+    {"foto": "https://images.unsplash.com/photo-1534939561126-855b8675edd7?auto=format&fit=crop&q=80&w=500", "titulo": "Fajitas de pollo con frijoles"},
+    {"foto": "https://images.unsplash.com/photo-1599974579688-8dbdd335c77f?auto=format&fit=crop&q=80&w=500", "titulo": "Enchiladas verdes de pollo"},
+    {"foto": "https://images.unsplash.com/photo-1547592165-e1d17fed6005?auto=format&fit=crop&q=80&w=500", "titulo": "Pechuga de pollo con lentejas"},
+    {"foto": "https://images.unsplash.com/photo-1585238342024-78d387f4a707?auto=format&fit=crop&q=80&w=500", "titulo": "Pechuga a la plancha con camote"},
+    {"foto": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=500", "titulo": "Bowl de pollo con quinoa y espinaca"},
+    {"foto": "https://images.unsplash.com/photo-1606787366850-de6330128bfc?auto=format&fit=crop&q=80&w=500", "titulo": "Pollo al horno con brócoli y papa"},
+    {"foto": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?auto=format&fit=crop&q=80&w=500", "titulo": "Pollo al limón con arroz integral"},
+    {"foto": "https://images.unsplash.com/photo-1525755662778-989d0524087e?auto=format&fit=crop&q=80&w=500", "titulo": "Pollo teriyaki con arroz y edamame"},
+    {"foto": "https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?auto=format&fit=crop&q=80&w=500", "titulo": "Milanesa de pollo al horno con puré de papa"},
+    {"foto": "https://images.unsplash.com/photo-1626700051175-6518c4793f4f?auto=format&fit=crop&q=80&w=500", "titulo": "Wrap de pollo con aguacate y verduras"},
+    {"foto": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&q=80&w=500", "titulo": "Sopa de pollo con pasta y verduras"},
+    {"foto": "https://images.unsplash.com/photo-1560684352-8497838a2229?auto=format&fit=crop&q=80&w=500", "titulo": "Pechuga en salsa verde con frijoles"},
+    {"foto": "https://images.unsplash.com/photo-1603105037880-880cd4edfb0d?auto=format&fit=crop&q=80&w=500", "titulo": "Pollo con champiñones y arroz"},
+    {"foto": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&q=80&w=500", "titulo": "Tazón de pollo con garbanzos y espinaca"},
+    {"foto": "https://images.unsplash.com/photo-1604503468506-a8da13d82791?auto=format&fit=crop&q=80&w=500", "titulo": "Pollo con vegetales al horno"},
+    {"foto": "https://images.unsplash.com/photo-1603105037880-880cd4edfb0d?auto=format&fit=crop&q=80&w=500", "titulo": "Caldo de pollo con verduras y fideos"},
+    {"foto": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=500", "titulo": "Pollo asado con ensalada de garbanzos"},
+    {"foto": "https://images.unsplash.com/photo-1518492104633-130d0cc84637?auto=format&fit=crop&q=80&w=500", "titulo": "Muslo de pollo al horno con papa y zanahoria"}
   ],
   "huevo": [
-    {
-      "foto": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Omelette de pollo"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1624462966581-bc6d768cbce5?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Quesadillas de panela, huevo y frijoles"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Huevos con jamón de pavo"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1562059390-a761a084768e?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Burritos de huevo con frijoles y queso"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Ensalada de huevo con aguacate"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Tacos de pollo y huevo"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Tostadas de atún y huevo"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Omelette con queso Oaxaca y espinacas"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Huevos con requesón y pan integral"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Omelette de claras con espinaca y champiñones"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Huevos revueltos con avena y plátano"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1592417817098-8f3d6eb19675?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Huevos rancheros con frijoles"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Bowl de huevo poché con quinoa y aguacate"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Frittata de verduras y queso panela"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Huevos a la mexicana con tortilla y frijoles"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Tortilla española con papa y cebolla"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Claras batidas con avena y miel"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1608039829572-78524f79c4c7?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Huevos benedictinos con jamón de pavo"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Tazón proteico de huevo, arroz y brócoli"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Desayuno hiperproteico de 3 huevos con aguacate"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Waffles de avena y claras de huevo"
-    }
+    {"foto": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&q=80&w=500", "titulo": "Omelette de pollo"},
+    {"foto": "https://images.unsplash.com/photo-1624462966581-bc6d768cbce5?auto=format&fit=crop&q=80&w=500", "titulo": "Quesadillas de panela, huevo y frijoles"},
+    {"foto": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&q=80&w=500", "titulo": "Huevos con jamón de pavo"},
+    {"foto": "https://images.unsplash.com/photo-1562059390-a761a084768e?auto=format&fit=crop&q=80&w=500", "titulo": "Burritos de huevo con frijoles y queso"},
+    {"foto": "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?auto=format&fit=crop&q=80&w=500", "titulo": "Ensalada de huevo con aguacate"},
+    {"foto": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?auto=format&fit=crop&q=80&w=500", "titulo": "Tacos de pollo y huevo"},
+    {"foto": "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?auto=format&fit=crop&q=80&w=500", "titulo": "Tostadas de atún y huevo"},
+    {"foto": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&q=80&w=500", "titulo": "Omelette con queso Oaxaca y espinacas"},
+    {"foto": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&q=80&w=500", "titulo": "Huevos con requesón y pan integral"},
+    {"foto": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&q=80&w=500", "titulo": "Omelette de claras con espinaca y champiñones"},
+    {"foto": "https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&q=80&w=500", "titulo": "Huevos revueltos con avena y plátano"},
+    {"foto": "https://images.unsplash.com/photo-1592417817098-8f3d6eb19675?auto=format&fit=crop&q=80&w=500", "titulo": "Huevos rancheros con frijoles"},
+    {"foto": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=500", "titulo": "Bowl de huevo poché con quinoa y aguacate"},
+    {"foto": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&q=80&w=500", "titulo": "Frittata de verduras y queso panela"},
+    {"foto": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&q=80&w=500", "titulo": "Huevos a la mexicana con tortilla y frijoles"},
+    {"foto": "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?auto=format&fit=crop&q=80&w=500", "titulo": "Tortilla española con papa y cebolla"},
+    {"foto": "https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&q=80&w=500", "titulo": "Claras batidas con avena y miel"},
+    {"foto": "https://images.unsplash.com/photo-1608039829572-78524f79c4c7?auto=format&fit=crop&q=80&w=500", "titulo": "Huevos benedictinos con jamón de pavo"},
+    {"foto": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=500", "titulo": "Tazón proteico de huevo, arroz y brócoli"},
+    {"foto": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&q=80&w=500", "titulo": "Desayuno hiperproteico de 3 huevos con aguacate"},
+    {"foto": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?auto=format&fit=crop&q=80&w=500", "titulo": "Waffles de avena y claras de huevo"}
   ],
   "atun": [
-    {
-      "foto": "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Tostadas de atún y aguacate"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Tostadas de atún y huevo"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Tortitas de atún al comal con arroz"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Bowl de atún con quinoa, pepino y limón"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1621510456681-23a23cfb5f57?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Pasta con atún, aceite de oliva y tomate"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Sándwich de atún con aguacate en pan integral"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Ensalada de atún con garbanzo y jitomate"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Arroz con atún y verduras salteadas"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1606787366850-de6330128bfc?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Atún con papa cocida y brócoli al vapor"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Taco de atún con pico de gallo y aguacate"
-    }
+    {"foto": "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?auto=format&fit=crop&q=80&w=500", "titulo": "Tostadas de atún y aguacate"},
+    {"foto": "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?auto=format&fit=crop&q=80&w=500", "titulo": "Tostadas de atún y huevo"},
+    {"foto": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&q=80&w=500", "titulo": "Tortitas de atún al comal con arroz"},
+    {"foto": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=500", "titulo": "Bowl de atún con quinoa, pepino y limón"},
+    {"foto": "https://images.unsplash.com/photo-1621510456681-23a23cfb5f57?auto=format&fit=crop&q=80&w=500", "titulo": "Pasta con atún, aceite de oliva y tomate"},
+    {"foto": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&q=80&w=500", "titulo": "Sándwich de atún con aguacate en pan integral"},
+    {"foto": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&q=80&w=500", "titulo": "Ensalada de atún con garbanzo y jitomate"},
+    {"foto": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&q=80&w=500", "titulo": "Arroz con atún y verduras salteadas"},
+    {"foto": "https://images.unsplash.com/photo-1606787366850-de6330128bfc?auto=format&fit=crop&q=80&w=500", "titulo": "Atún con papa cocida y brócoli al vapor"},
+    {"foto": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?auto=format&fit=crop&q=80&w=500", "titulo": "Taco de atún con pico de gallo y aguacate"}
   ],
   "res": [
-    {
-      "foto": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Bistec con papa cocida y verduras"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1529042410759-befb1204b468?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Albóndigas con arroz"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Picadillo de res con arroz"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Arrachera a la plancha con arroz y frijoles"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Carne molida con verduras y arroz integral"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1547592165-e1d17fed6005?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Caldo de res con verduras y papa"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1603105037880-880cd4edfb0d?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Tiras de res con champiñones y papa"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Bowl de res con arroz integral y guacamole"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Hamburguesa de res magra con camote horneado"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Estofado de res con zanahoria y papa"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Milanesa de res al horno con ensalada"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Bistec asado hipercalórico con doble porción de arroz"
-    }
+    {"foto": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=500", "titulo": "Bistec con papa cocida y verduras"},
+    {"foto": "https://images.unsplash.com/photo-1529042410759-befb1204b468?auto=format&fit=crop&q=80&w=500", "titulo": "Albóndigas con arroz"},
+    {"foto": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=500", "titulo": "Picadillo de res con arroz"},
+    {"foto": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=500", "titulo": "Arrachera a la plancha con arroz y frijoles"},
+    {"foto": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&q=80&w=500", "titulo": "Carne molida con verduras y arroz integral"},
+    {"foto": "https://images.unsplash.com/photo-1547592165-e1d17fed6005?auto=format&fit=crop&q=80&w=500", "titulo": "Caldo de res con verduras y papa"},
+    {"foto": "https://images.unsplash.com/photo-1603105037880-880cd4edfb0d?auto=format&fit=crop&q=80&w=500", "titulo": "Tiras de res con champiñones y papa"},
+    {"foto": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=500", "titulo": "Bowl de res con arroz integral y guacamole"},
+    {"foto": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&q=80&w=500", "titulo": "Hamburguesa de res magra con camote horneado"},
+    {"foto": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&q=80&w=500", "titulo": "Estofado de res con zanahoria y papa"},
+    {"foto": "https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?auto=format&fit=crop&q=80&w=500", "titulo": "Milanesa de res al horno con ensalada"},
+    {"foto": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=500", "titulo": "Bistec asado hipercalórico con doble porción de arroz"}
   ],
-  "Pescado": [
-    {
-      "foto": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Filete de pescado con puré de papa"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Salmón a la plancha con espárrago y arroz"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Salmón al horno con limón y brócoli"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Tilapia al vapor con quinoa y espinaca"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Tacos de pescado con col y pico de gallo"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Filete de tilapia con arroz y ensalada"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Ceviche de camarón con tostadas"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Camarones a la plancha con arroz integral"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Sopa de mariscos con verduras"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Salmón con costra de ajonjolí y camote"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Ensalada de salmón con garbanzos y pepino"
-    }
+  "pescado": [
+    {"foto": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&q=80&w=500", "titulo": "Filete de pescado con puré de papa"},
+    {"foto": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&q=80&w=500", "titulo": "Salmón a la plancha con espárrago y arroz"},
+    {"foto": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&q=80&w=500", "titulo": "Salmón al horno con limón y brócoli"},
+    {"foto": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&q=80&w=500", "titulo": "Tilapia al vapor con quinoa y espinaca"},
+    {"foto": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?auto=format&fit=crop&q=80&w=500", "titulo": "Tacos de pescado con col y pico de gallo"},
+    {"foto": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&q=80&w=500", "titulo": "Filete de tilapia con arroz y ensalada"},
+    {"foto": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&q=80&w=500", "titulo": "Ceviche de camarón con tostadas"},
+    {"foto": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&q=80&w=500", "titulo": "Camarones a la plancha con arroz integral"},
+    {"foto": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&q=80&w=500", "titulo": "Sopa de mariscos con verduras"},
+    {"foto": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&q=80&w=500", "titulo": "Salmón con costra de ajonjolí y camote"},
+    {"foto": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&q=80&w=500", "titulo": "Ensalada de salmón con garbanzos y pepino"}
   ],
   "lacteos": [
-    {
-      "foto": "https://images.unsplash.com/photo-1488477181946-6428a0291777?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Yogur, frutas y semillas"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Licuado de avena con leche, yogur y crema de cacahuate"
-    },
-    {
-      "foto": "https://images.unsplash.com/photo-1488477181946-6428a0291777?auto=format&fit=crop&q=80&w=500",
-      "titulo": "Yogur griego con avena, manzana y semillas"
-    }
+    {"foto": "https://images.unsplash.com/photo-1488477181946-6428a0291777?auto=format&fit=crop&q=80&w=500", "titulo": "Yogur, frutas y semillas"},
+    {"foto": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?auto=format&fit=crop&q=80&w=500", "titulo": "Licuado de avena con leche, yogur y crema de cacahuate"},
+    {"foto": "https://images.unsplash.com/photo-1488477181946-6428a0291777?auto=format&fit=crop&q=80&w=500", "titulo": "Yogur griego con avena, manzana y semillas"}
   ]
 }
