@@ -665,3 +665,258 @@ header a svg { display: block; }
 .rojoFuerte { background-color: var(--rojo3);  border: 2.5px solid var(--rojo4); }
 .grisClaro  { background-color: var(--gris1);  border: 2.5px solid var(--gris2); }
 .grisFuerte { background-color: var(--gris2);  border: 2.5px solid var(--gris3); }
+/* ========================================
+   PLANIFICADOR DE COMIDAS
+   ======================================== */
+
+/* Botón añadir a la semana (en cada receta-card) */
+.btn-add-plan {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    margin-top: 8px;
+    padding: 6px 10px;
+    background: var(--rojo3);
+    color: var(--blanco);
+    border: none;
+    border-radius: 8px;
+    font-family: var(--Gabarito);
+    font-size: 12px;
+    cursor: pointer;
+    width: 100%;
+    justify-content: center;
+    transition: background .2s;
+}
+.btn-add-plan:active { background: var(--rojo4); }
+
+/* Header del planificador */
+.plan-header {
+    padding: 12px var(--pad);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    background: var(--blanco);
+    border-bottom: 1px solid rgba(0,0,0,.06);
+}
+.plan-subtitle {
+    font-family: var(--RobotoFlex);
+    font-size: 13px;
+    color: var(--gris3);
+    flex: 1;
+    line-height: 1.4;
+}
+.btn-limpiar-plan {
+    background: none;
+    border: 2px solid var(--gris2);
+    border-radius: 8px;
+    padding: 6px 10px;
+    font-size: 12px;
+    color: var(--gris3);
+    cursor: pointer;
+    white-space: nowrap;
+    font-family: var(--RobotoFlex);
+}
+
+/* Sección de cada día */
+.plan-dia {
+    margin: 12px var(--pad) 0;
+    background: var(--blanco);
+    border-radius: var(--radius);
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0,0,0,.06);
+    margin-bottom: 0;
+}
+
+.plan-dia-titulo {
+    background: var(--gris3);
+    color: var(--blanco);
+    font-family: var(--Gabarito);
+    font-size: 18px;
+    padding: 10px 16px;
+}
+
+/* Scroll horizontal de momentos */
+.plan-momentos {
+    display: flex;
+    gap: 1px;
+    overflow-x: auto;
+    scrollbar-width: none;
+    background: var(--gris1);
+}
+.plan-momentos::-webkit-scrollbar { display: none; }
+
+.plan-momento-col {
+    min-width: 130px;
+    flex-shrink: 0;
+    background: var(--blanco);
+    padding: 8px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.plan-momento-titulo {
+    font-family: var(--Gabarito);
+    font-size: 12px;
+    color: var(--gris3);
+    text-align: center;
+    padding-bottom: 4px;
+    border-bottom: 2px solid var(--rojo1);
+}
+
+.plan-empty {
+    font-size: 18px;
+    color: var(--gris1);
+    text-align: center;
+    padding: 10px 0;
+}
+
+/* Chip de receta dentro del planificador */
+.plan-chip {
+    background: var(--bg);
+    border: 1.5px solid var(--gris1);
+    border-radius: 8px;
+    padding: 6px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+    position: relative;
+}
+.plan-chip img {
+    width: 100%;
+    aspect-ratio: 4/3;
+    object-fit: cover;
+    border-radius: 6px;
+}
+.plan-chip span {
+    font-family: var(--RobotoFlex);
+    font-size: 10px;
+    color: var(--gris4);
+    text-align: center;
+    line-height: 1.3;
+}
+.plan-chip-remove {
+    position: absolute;
+    top: 3px;
+    right: 3px;
+    background: var(--rojo3);
+    color: var(--blanco);
+    border: none;
+    border-radius: 50%;
+    width: 16px;
+    height: 16px;
+    font-size: 11px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 1;
+}
+
+/* Totales del día */
+.plan-totales {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 12px;
+    background: var(--bg);
+    border-top: 1px solid rgba(0,0,0,.06);
+    flex-wrap: wrap;
+    font-family: var(--RobotoFlex);
+    font-size: 12px;
+    color: var(--gris3);
+}
+.tot-prot { color: #2E7D32; font-weight: 700; }
+.tot-carb { color: #E65100; font-weight: 700; }
+.tot-fat  { color: #880E4F; font-weight: 700; }
+.tot-cal  { color: #1565C0; font-weight: 700; }
+
+/* Modal selector plan */
+.modal-plan-card {
+    padding: 24px 20px 28px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.modal-plan-titulo {
+    font-family: var(--Gabarito);
+    font-size: 20px;
+    color: var(--negro);
+    margin-bottom: 2px;
+}
+.plan-receta-nombre {
+    font-family: var(--RobotoFlex);
+    font-size: 14px;
+    color: var(--rojo3);
+    font-weight: 600;
+    line-height: 1.4;
+    margin-bottom: 4px;
+}
+.plan-label {
+    font-family: var(--Gabarito);
+    font-size: 14px;
+    color: var(--gris3);
+    margin-top: 2px;
+}
+.plan-select {
+    width: 100%;
+    padding: 10px 12px;
+    border: 2px solid var(--gris1);
+    border-radius: var(--radius);
+    font-family: var(--RobotoFlex);
+    font-size: 15px;
+    color: var(--negro);
+    background: var(--blanco);
+    appearance: none;
+    -webkit-appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='20' viewBox='0 -960 960 960' width='20' fill='%235B6B86'%3E%3Cpath d='M480-344 240-584l56-56 184 184 184-184 56 56-240 240Z'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 12px center;
+}
+.plan-select:focus {
+    outline: none;
+    border-color: var(--rojo3);
+}
+.btn-confirmar-plan {
+    margin-top: 6px;
+    padding: 13px;
+    background: var(--rojo3);
+    color: var(--blanco);
+    border: none;
+    border-radius: var(--radius);
+    font-family: var(--Gabarito);
+    font-size: 17px;
+    cursor: pointer;
+    transition: background .2s;
+}
+.btn-confirmar-plan:active { background: var(--rojo4); }
+
+/* Toast */
+#zentia-toast {
+    position: fixed;
+    bottom: 80px;
+    left: 50%;
+    transform: translateX(-50%) translateY(20px);
+    background: var(--gris5);
+    color: var(--blanco);
+    padding: 10px 20px;
+    border-radius: 20px;
+    font-family: var(--Gabarito);
+    font-size: 14px;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity .25s, transform .25s;
+    z-index: 3000;
+    white-space: nowrap;
+}
+#zentia-toast.toast-visible {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+}
+
+/* Último día sin margin-bottom extra */
+#planificador-container .plan-dia:last-child {
+    margin-bottom: 30px;
+}
