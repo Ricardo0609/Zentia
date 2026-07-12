@@ -1,20 +1,17 @@
 /* ========================================
    ZENTIA — ejercicios.js
-   Maneja toda la lógica de rutinas y ejercicios
    ======================================== */
 
-// Estructura de la semana: qué grupos musculares van cada día
 const RUTINA_SEMANA = {
     Lunes:     ["pechoSuperior","pechoMedio","pechoInferior","hombroFrontal","hombroLateral","hombroPosterior","tricepLarga","tricepLateral","tricepMedial"],
     Martes:    ["dorsales","espaldaMedia","espaldaAlta","lumbar","bicepLarga","bicepCorta","braquial","antebrazoFlexores","antebrazoExtensores","agarre"],
     Miercoles: ["hombroFrontal","hombroLateral","hombroPosterior","pantorrillaGastrocnemio","pantorrillaSoleo","cuadriceps","femorales","gluteoMayor","gluteoMedio"],
     Jueves:    ["pechoSuperior","pechoMedio","pechoInferior","bicepLarga","bicepCorta","braquial","tricepLarga","tricepLateral","tricepMedial"],
     Viernes:   ["dorsales","espaldaMedia","espaldaAlta","lumbar","pantorrillaGastrocnemio","pantorrillaSoleo","cuadriceps","femorales"],
-    Sabado:    null, // Descanso
-    Domingo:   null  // Descanso
+    Sabado:    null,
+    Domingo:   null
 };
 
-// Nombres amigables para cada grupo muscular
 const NOMBRES_GRUPOS = {
     pechoSuperior: "Pecho Superior",
     pechoMedio: "Pecho Medio",
@@ -51,16 +48,13 @@ const NOMBRES_GRUPOS = {
     cuello: "Cuello"
 };
 
-// Placeholder si no hay imagen
 const PLACEHOLDER_IMG = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='52' height='48' viewBox='0 0 52 48'%3E%3Crect fill='%235B6B86' width='52' height='48' rx='8'/%3E%3Cpath fill='%23A8B3C4' d='M16 32v-8l6-6 6 6 6-8 8 16H16zm6-14a4 4 0 100-8 4 4 0 000 8z'/%3E%3C/svg%3E";
 
-// Elige un ejercicio al azar de una categoría
 function elegirAleatorio(lista) {
     if (!lista || lista.length === 0) return null;
     return lista[Math.floor(Math.random() * lista.length)];
 }
 
-// Genera la rutina completa (1 ejercicio por grupo)
 function generarRutina(data) {
     const rutina = {};
     for (const dia in RUTINA_SEMANA) {
@@ -76,30 +70,26 @@ function generarRutina(data) {
     return rutina;
 }
 
-// Guarda la rutina en localStorage
 function guardarRutina(rutina) {
     localStorage.setItem('zentia_rutina', JSON.stringify(rutina));
     localStorage.setItem('zentia_rutina_fecha', Date.now().toString());
 }
 
-// Carga la rutina guardada o genera una nueva
 function cargarOGenerarRutina(data) {
     const guardada = localStorage.getItem('zentia_rutina');
     if (guardada) {
         try { return JSON.parse(guardada); } catch(e) {}
     }
     const nueva = generarRutina(data);
-    guardadaRutina(nueva);
+    guardarRutina(nueva);
     return nueva;
 }
 
-// Nombre del día actual
 function getDiaActual() {
     const dias = ["Domingo","Lunes","Martes","Miercoles","Jueves","Viernes","Sabado"];
     return dias[new Date().getDay()];
 }
 
-// Fecha en que se generó la rutina -> días restantes
 function diasParaCambio() {
     const saved = localStorage.getItem('zentia_rutina_fecha');
     if (!saved) return 0;
@@ -108,7 +98,7 @@ function diasParaCambio() {
 }
 
 // ========================================
-//  PANTALLA: INDEX — Lista de días
+//  INDEX — Lista de días
 // ========================================
 function renderDias(rutina) {
     const container = document.getElementById('dias-container');
@@ -116,143 +106,120 @@ function renderDias(rutina) {
 
     const diaHoy = getDiaActual();
 
-    Object.keys(rutina).forEach(dia => {
-        const info = rutina[dia];
+    Object.keys(RUTINA_SEMANA).forEach(dia => {
+        // FIX: usar RUTINA_SEMANA como fuente de verdad, no rutina[dia]
+        const esDescanso = !RUTINA_SEMANA[dia];
         const esHoy = dia === diaHoy;
-        const esDescanso = !info;
 
         const el = document.createElement('a');
         el.href = `mirutina.html?dia=${encodeURIComponent(dia)}`;
         el.classList.add('dia-item', esHoy ? 'hoy' : (esDescanso ? 'descanso' : 'otro'));
 
-        // Nombre del día
         const nombre = document.createElement('span');
         nombre.classList.add('dia-nombre');
         nombre.textContent = dia;
         el.appendChild(nombre);
 
         if (esDescanso) {
-            const descansoTxt = document.createElement('span');
-            descansoTxt.classList.add('dia-grupos'); // <-- CORREGIDO AQUÍ
-            descansoTxt.textContent = '💤 Descanso';
-            el.appendChild(descansoTxt);
+            const txt = document.createElement('span');
+            txt.classList.add('dia-grupos');
+            txt.textContent = '💤 Descanso';
+            el.appendChild(txt);
         } else {
-            // Grupos del día (nombres compactos)
+            // FIX: siempre leer de RUTINA_SEMANA (nunca null aquí)
             const grupos = RUTINA_SEMANA[dia];
-            let gruposTxtContent = '';
-
-            if (grupos) {
-                const gruposUnicos = [...new Set(grupos.map(g => {
-                    const nombre = NOMBRES_GRUPOS[g] || g;
-                    return nombre.split(' ')[0];
-                }))];
-                gruposTxtContent = gruposUnicos.slice(0, 5).join(' · ');
-            }
+            const gruposUnicos = [...new Set(grupos.map(g => {
+                return (NOMBRES_GRUPOS[g] || g).split(' ')[0];
+            }))];
 
             const gruposTxt = document.createElement('span');
             gruposTxt.classList.add('dia-grupos');
-            gruposTxt.textContent = gruposTxtContent;
+            gruposTxt.textContent = gruposUnicos.slice(0, 5).join(' · ');
             el.appendChild(gruposTxt);
-        }
 
-        // Flecha
-        const arrow = document.createElement('span');
-        arrow.classList.add('dia-icon');
-        arrow.innerHTML = esDescanso ? '' : `<svg xmlns="http://www.w3.org/2000/svg" height="20px" viewBox="0 -960 960 960" width="20px" fill="rgba(255,255,255,.7)"><path d="M504-480 320-664l56-56 240 240-240 240-56-56 184-184Z"/></svg>`;
-        el.appendChild(arrow);
+            const arrow = document.createElement('span');
+            arrow.classList.add('dia-icon');
+            arrow.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" height="20px" viewBox="0 -960 960 960" width="20px" fill="rgba(255,255,255,.7)"><path d="M504-480 320-664l56-56 240 240-240 240-56-56 184-184Z"/></svg>`;
+            el.appendChild(arrow);
+        }
 
         container.appendChild(el);
     });
 
-    // Contador de días
     const countdown = document.getElementById('countdown-display');
     if (countdown) countdown.textContent = `${diasParaCambio()} días`;
 }
 
 // ========================================
-//  PANTALLA: MIRUTINA — Detalle del día
+//  MIRUTINA — Detalle del día
 // ========================================
 function renderDiaDetalle(data, rutina) {
     const container = document.getElementById('ejercicios-dia-container');
-    const tituloEl = document.getElementById('dia-titulo');
+    const tituloEl  = document.getElementById('dia-titulo');
     if (!container) return;
 
-    // Leer el día del URL param, si no poner el de hoy
     const params = new URLSearchParams(window.location.search);
     const dia = params.get('dia') || getDiaActual();
 
     if (tituloEl) tituloEl.textContent = dia;
 
-    const ejerciciosDia = rutina[dia];
-    if (!ejerciciosDia) {
+    // FIX: verificar contra RUTINA_SEMANA, no rutina[dia]
+    if (!RUTINA_SEMANA[dia]) {
         container.innerHTML = `<div style="text-align:center;padding:40px;color:var(--gris3);font-family:var(--Gabarito);font-size:20px;">💤 Día de descanso.<br>El cuerpo también necesita recuperarse.</div>`;
+        const countdown = document.getElementById('countdown-display');
+        if (countdown) countdown.textContent = `${diasParaCambio()} días`;
         return;
     }
 
-    // Agrupar por categoría principal
-    const agrupado = {};
-    if (RUTINA_SEMANA[dia]) {
-        RUTINA_SEMANA[dia].forEach(grupo => {
-            if (!ejerciciosDia[grupo]) return;
-            const ejAleatorio = ejerciciosDia[grupo];
-            if (!agrupado[grupo]) agrupado[grupo] = [];
-            agrupado[grupo].push(ejAleatorio);
-        });
-    }
+    // FIX: si rutina[dia] no existe o es null por algún motivo, regenerar ese día
+    const ejerciciosDia = rutina[dia] || generarRutina(data)[dia] || {};
 
-    Object.keys(agrupado).forEach(grupo => {
+    RUTINA_SEMANA[dia].forEach(grupo => {
+        const ej = ejerciciosDia[grupo];
+        if (!ej) return;
+
         const card = document.createElement('div');
         card.classList.add('grupo-card');
 
-        // Header del grupo
         const header = document.createElement('div');
         header.classList.add('grupo-header');
         header.innerHTML = `<span class="grupo-nombre">${NOMBRES_GRUPOS[grupo] || grupo}</span>`;
         card.appendChild(header);
 
-        // Lista de ejercicios
         const lista = document.createElement('div');
         lista.classList.add('grupo-lista');
 
-        agrupado[grupo].forEach(ej => {
-            const item = document.createElement('div');
-            item.classList.add('ejercicio-item');
+        const item = document.createElement('div');
+        item.classList.add('ejercicio-item');
 
-            const img = document.createElement('img');
-            img.src = ej.foto || PLACEHOLDER_IMG;
-            img.alt = ej.titulo;
-            img.onerror = () => { img.src = PLACEHOLDER_IMG; };
+        const img = document.createElement('img');
+        img.src = ej.foto || PLACEHOLDER_IMG;
+        img.alt = ej.titulo;
+        img.onerror = () => { img.src = PLACEHOLDER_IMG; };
 
-            const txt = document.createElement('span');
-            txt.textContent = ej.titulo;
+        const txt = document.createElement('span');
+        txt.textContent = ej.titulo;
 
-            const check = document.createElement('div');
-            check.classList.add('check-icon');
-            check.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" height="14px" viewBox="0 -960 960 960" width="14px" fill="white"><path d="M382-240 154-468l57-57 171 171 367-367 57 57-424 424Z"/></svg>`;
+        const check = document.createElement('div');
+        check.classList.add('check-icon');
+        check.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" height="14px" viewBox="0 -960 960 960" width="14px" fill="white"><path d="M382-240 154-468l57-57 171 171 367-367 57 57-424 424Z"/></svg>`;
 
-            item.appendChild(img);
-            item.appendChild(txt);
-            item.appendChild(check);
+        item.appendChild(img);
+        item.appendChild(txt);
+        item.appendChild(check);
+        item.addEventListener('click', () => item.classList.toggle('completado'));
 
-            // Toggle completado
-            item.addEventListener('click', () => {
-                item.classList.toggle('completado');
-            });
-
-            lista.appendChild(item);
-        });
-
+        lista.appendChild(item);
         card.appendChild(lista);
         container.appendChild(card);
     });
 
-    // Countdown
     const countdown = document.getElementById('countdown-display');
     if (countdown) countdown.textContent = `${diasParaCambio()} días`;
 }
 
 // ========================================
-//  PANTALLA: EJERCICIOS — Grid de músculos
+//  EJERCICIOS — Grid de músculos
 // ========================================
 const MUSCULOS_CONFIG = [
     { key: 'pechoSuperior',          label: 'Pecho Superior',   img: 'Imagenes/pechosuperior.png', href: 'pecho.html' },
@@ -294,20 +261,19 @@ function renderMusculosGrid(data) {
     const container = document.getElementById('musculos-container');
     if (!container) return;
 
-    MUSCULOS_CONFIG.forEach(musculo => {
-        if (!data[musculo.key]) return;
-
+    MUSCULOS_CONFIG.forEach(m => {
+        if (!data[m.key]) return;
         const card = document.createElement('a');
-        card.href = `${musculo.href}?grupo=${encodeURIComponent(musculo.key)}`;
+        card.href = `${m.href}?grupo=${encodeURIComponent(m.key)}`;
         card.classList.add('musculo-card');
 
         const img = document.createElement('img');
-        img.src = musculo.img;
-        img.alt = musculo.label;
+        img.src = m.img;
+        img.alt = m.label;
         img.onerror = () => { img.src = PLACEHOLDER_IMG; };
 
         const lbl = document.createElement('span');
-        lbl.textContent = musculo.label;
+        lbl.textContent = m.label;
 
         card.appendChild(img);
         card.appendChild(lbl);
@@ -316,45 +282,34 @@ function renderMusculosGrid(data) {
 }
 
 // ========================================
-//  PÁGINAS DE GRUPO INDIVIDUAL (ej. dorsales.html)
+//  GRUPO INDIVIDUAL (espaldaAlta.html etc.)
 // ========================================
 function renderGrupoIndividual(data) {
-    // Detectar el contenedor y la key del grupo
     const params = new URLSearchParams(window.location.search);
     let grupoKey = params.get('grupo');
 
-    // Fallback: intentar inferir del ID del contenedor
     if (!grupoKey) {
-        const ids = ['espAlt','espMed','cuello','dorsales','lumbar'];
-        const keyMap = { espAlt: 'espaldaAlta', espMed: 'espaldaMedia', cuello: 'cuello', dorsales: 'dorsales', lumbar: 'lumbar' };
-        for (const id of ids) {
-            if (document.getElementById(id)) {
-                grupoKey = keyMap[id] || id;
-                break;
-            }
+        const idsMapeados = { espAlt: 'espaldaAlta', espMed: 'espaldaMedia', cuello: 'cuello', dorsales: 'dorsales', lumbar: 'lumbar' };
+        for (const id in idsMapeados) {
+            if (document.getElementById(id)) { grupoKey = idsMapeados[id]; break; }
         }
     }
 
     if (!grupoKey || !data[grupoKey]) return;
 
-    // Intentar encontrar el contenedor con el ID mapeado del código viejo
-    const idsMapeados = {
-        espaldaAlta: 'espAlt', espaldaMedia: 'espMed', cuello: 'cuello',
-        dorsales: 'dorsales', lumbar: 'lumbar'
-    };
-    const containerId = idsMapeados[grupoKey] || grupoKey;
+    const contenedores = { espaldaAlta: 'espAlt', espaldaMedia: 'espMed', cuello: 'cuello', dorsales: 'dorsales', lumbar: 'lumbar' };
+    const containerId = contenedores[grupoKey] || grupoKey;
     const container = document.getElementById(containerId);
     if (!container) return;
 
     data[grupoKey].forEach(ej => {
         const item = document.createElement('div');
-        item.classList.add('ejercicio-item', 'grisClaro');
+        item.classList.add('ejercicio-item');
 
         const img = document.createElement('img');
         img.src = ej.foto || PLACEHOLDER_IMG;
         img.alt = ej.titulo;
         img.onerror = () => { img.src = PLACEHOLDER_IMG; };
-        img.style.cssText = 'width:52px;height:48px;border-radius:8px;object-fit:cover;flex-shrink:0;';
 
         const txt = document.createElement('span');
         txt.classList.add('texto2');
@@ -362,15 +317,13 @@ function renderGrupoIndividual(data) {
 
         item.appendChild(img);
         item.appendChild(txt);
-
         item.addEventListener('click', () => item.classList.toggle('completado'));
-
         container.appendChild(item);
     });
 }
 
 // ========================================
-//  REGENERAR RUTINA (botón Cambiar rutina)
+//  REGENERAR RUTINA
 // ========================================
 window.regenerarRutina = function() {
     localStorage.removeItem('zentia_rutina');
@@ -379,29 +332,15 @@ window.regenerarRutina = function() {
 };
 
 // ========================================
-//  INIT PRINCIPAL
+//  INIT
 // ========================================
 fetch('ejercicios.txt')
     .then(r => r.json())
     .then(data => {
         const rutina = cargarOGenerarRutina(data);
-
-        // Index: días list
-        if (document.getElementById('dias-container')) {
-            renderDias(rutina);
-        }
-
-        // Mi Rutina: detalle del día
-        if (document.getElementById('ejercicios-dia-container')) {
-            renderDiaDetalle(data, rutina);
-        }
-
-        // Grid de músculos
-        if (document.getElementById('musculos-container')) {
-            renderMusculosGrid(data);
-        }
-
-        // Páginas individuales de grupo (espaldaAlta.html etc.)
+        if (document.getElementById('dias-container'))          renderDias(rutina);
+        if (document.getElementById('ejercicios-dia-container')) renderDiaDetalle(data, rutina);
+        if (document.getElementById('musculos-container'))      renderMusculosGrid(data);
         renderGrupoIndividual(data);
     })
     .catch(err => console.error('Error cargando ejercicios:', err));
