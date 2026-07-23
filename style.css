@@ -391,28 +391,35 @@ header a svg { display: block; }
    ======================================== */
 .lista-header {
     padding: var(--pad);
+    margin: var(--pad);
     display: flex;
     align-items: center;
-    gap: 12px;
+    gap: 14px;
+    background: var(--rojo1);
+    border: 2.5px solid var(--rojo2);
+    border-radius: var(--radius);
 }
 
 .lista-header img {
-    width: 60px;
-    height: 56px;
-    border-radius: 10px;
+    width: 56px;
+    height: 52px;
+    border-radius: 8px;
     object-fit: contain;
+    background: rgba(255,255,255,.3);
+    padding: 4px;
 }
 
 .lista-header h2 {
     font-family: var(--Gabarito);
-    font-size: 26px;
-    color: var(--rojo3);
+    font-size: 24px;
+    color: var(--blanco);
 }
 
 .ejercicios-lista {
     padding: 0 var(--pad) 30px;
     display: flex;
     flex-direction: column;
+    gap: 6px;
     gap: 8px;
 }
 
@@ -924,4 +931,156 @@ header a svg { display: block; }
 /* Último día sin margin-bottom extra */
 #planificador-container .plan-dia:last-child {
     margin-bottom: 30px;
+}
+
+/* ========================================
+   ACORDEONES DE EJERCICIOS
+   ======================================== */
+
+.acordeones-wrap {
+    padding: var(--pad);
+    padding-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+/* Acordeón de ZONA (nivel 1) */
+.acord-zona {
+    background: var(--blanco);
+    border-radius: var(--radius);
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0,0,0,.07);
+}
+
+.acord-zona-btn {
+    width: 100%;
+    padding: 14px 16px;
+    background: var(--gris3);
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+    transition: background .2s;
+}
+
+.acord-zona-btn.acord-abierto {
+    background: var(--rojo3);
+}
+
+.acord-zona-label {
+    font-family: var(--Gabarito);
+    font-size: 17px;
+    color: var(--blanco);
+    text-align: left;
+}
+
+.acord-chevron {
+    color: var(--blanco);
+    flex-shrink: 0;
+    transition: transform .25s ease;
+}
+
+.acord-zona-btn.acord-abierto .acord-chevron {
+    transform: rotate(180deg);
+}
+
+/* Cuerpo de zona */
+.acord-zona-body {
+    display: flex;
+    flex-direction: column;
+}
+
+.acord-cerrado {
+    display: none;
+}
+
+/* Acordeón de MÚSCULO (nivel 2) */
+.acord-musculo {
+    border-top: 1px solid rgba(0,0,0,.06);
+}
+
+.acord-musculo-btn {
+    width: 100%;
+    padding: 12px 16px;
+    background: var(--blanco);
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+    gap: 8px;
+    transition: background .15s;
+}
+
+.acord-musculo-btn:active { background: var(--bg); }
+
+.acord-musculo-btn.acord-sub-abierto {
+    background: var(--bg);
+    border-left: 3px solid var(--rojo2);
+}
+
+.acord-musculo-btn span:first-child {
+    font-family: var(--Gabarito);
+    font-size: 15px;
+    color: var(--gris4);
+    text-align: left;
+    flex: 1;
+}
+
+.acord-count {
+    font-family: var(--RobotoFlex);
+    font-size: 11px;
+    color: var(--gris2);
+    white-space: nowrap;
+    background: var(--bg);
+    padding: 3px 8px;
+    border-radius: 10px;
+}
+
+/* Lista de ejercicios dentro del sub-acordeón */
+.acord-musculo-body {
+    background: var(--bg);
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+}
+
+/* Fila de ejercicio */
+.ej-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 8px 14px;
+    background: var(--blanco);
+    border-left: 3px solid var(--rojo1);
+    transition: background .15s;
+}
+
+.ej-row:active { background: var(--bg); }
+
+.ej-row-img {
+    width: 40px;
+    height: 38px;
+    border-radius: 6px;
+    object-fit: cover;
+    flex-shrink: 0;
+}
+
+.ej-row-nombre {
+    font-family: var(--RobotoFlex);
+    font-size: 13px;
+    color: var(--gris4);
+    line-height: 1.35;
+}
+
+/* Mensaje descanso */
+.descanso-msg {
+    text-align: center;
+    padding: 48px 24px;
+    color: var(--gris3);
+    font-family: var(--Gabarito);
+    font-size: 20px;
+    line-height: 1.6;
 }
