@@ -1,11 +1,10 @@
 /* ========================================
-   ZENTIA — js.js
-   UI general: menú lateral, tabs, etc.
+   ZENTIA — js.js  (v2 — sin código viejo)
    ======================================== */
 
 document.addEventListener('DOMContentLoaded', () => {
 
-    /* ---- Side Menu ---- */
+    /* ── Side Menu ── */
     const menuIcon = document.getElementById('menu');
     const sideMenu = document.getElementById('side-menu');
     const closeBtn = document.getElementById('close-menu');
@@ -14,31 +13,35 @@ document.addEventListener('DOMContentLoaded', () => {
     if (menuIcon && sideMenu) {
         menuIcon.addEventListener('click', () => {
             sideMenu.classList.add('active');
-            overlay?.classList.add('active');
+            if (overlay) overlay.classList.add('active');
         });
     }
 
-    const closeMenu = () => {
-        sideMenu?.classList.remove('active');
-        overlay?.classList.remove('active');
-    };
+    if (closeBtn) {
+        closeBtn.addEventListener('click', () => {
+            if (sideMenu) sideMenu.classList.remove('active');
+            if (overlay)  overlay.classList.remove('active');
+        });
+    }
 
-    closeBtn?.addEventListener('click', closeMenu);
-    overlay?.addEventListener('click', closeMenu);
+    if (overlay) {
+        overlay.addEventListener('click', () => {
+            if (sideMenu) sideMenu.classList.remove('active');
+            overlay.classList.remove('active');
+        });
+    }
 
 });
 
-/* ---- Tab Switcher (index.html) ---- */
+/* ── Tab Switcher (index.html) ── */
 window.switchMainTab = function(tab) {
-    const panes = document.querySelectorAll('.main-pane');
-    const btns  = document.querySelectorAll('.tab-btn');
-
-    panes.forEach(p => p.classList.remove('active'));
-    btns.forEach(b => { b.classList.remove('active'); b.classList.add('inactive'); });
-
-    const pane = document.getElementById(`pane-${tab}`);
-    const btn  = document.querySelector(`.tab-btn[onclick*="${tab}"]`);
-
+    document.querySelectorAll('.main-pane').forEach(p => p.classList.remove('active'));
+    document.querySelectorAll('.tab-btn').forEach(b => {
+        b.classList.remove('active');
+        b.classList.add('inactive');
+    });
+    const pane = document.getElementById('pane-' + tab);
+    const btn  = document.querySelector('.tab-btn[onclick*="' + tab + '"]');
     if (pane) pane.classList.add('active');
     if (btn)  { btn.classList.add('active'); btn.classList.remove('inactive'); }
 };
