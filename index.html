@@ -11,7 +11,6 @@
 </head>
 <body>
 
-    <!-- Overlay + Side Menu -->
     <div id="overlay" class="overlay"></div>
     <nav id="side-menu" class="side-menu">
         <div class="close-btn" id="close-menu">&times;</div>
@@ -23,13 +22,8 @@
             <svg xmlns="http://www.w3.org/2000/svg" height="20px" viewBox="0 -960 960 960" width="20px" fill="currentColor"><path d="M280-80v-366q-54-14-87-57t-33-97v-280h80v280h40v-280h80v280h40v-280h80v280q0 54-33 97t-87 57v366h-80Zm240 0v-320h-40v-280q0-83 58.5-141.5T680-880v800h-160Z"/></svg>
             Recetas
         </a>
-        <a href="mirutina.html">
-            <svg xmlns="http://www.w3.org/2000/svg" height="20px" viewBox="0 -960 960 960" width="20px" fill="currentColor"><path d="m260-520 220-360 220 360H260ZM700-80q-75 0-127.5-52.5T520-260q0-75 52.5-127.5T700-440q75 0 127.5 52.5T880-260q0 75-52.5 127.5T700-80Zm-580-20v-320h320v320H120Zm580-60q42 0 71-29t29-71q0-42-29-71t-71-29q-42 0-71 29t-29 71q0 42 29 71t71 29Zm-500-20h160v-160H200v160Zm202-420h156l-78-126-78 126Zm78 0ZM360-340Zm340 80Z"/></svg>
-            Ejercicios
-        </a>
     </nav>
 
-    <!-- Header -->
     <header>
         <h1 class="logo">Zentia</h1>
         <svg id="menu" xmlns="http://www.w3.org/2000/svg" height="28px" viewBox="0 -960 960 960" width="28px" fill="#252525">
@@ -39,29 +33,25 @@
 
     <!-- Tab Switcher -->
     <div class="tab-row">
-        <button class="tab-btn active" onclick="switchMainTab('mirutina')">Mi rutina</button>
+        <button class="tab-btn active"   onclick="switchMainTab('mirutina')">Mi rutina</button>
         <button class="tab-btn inactive" onclick="switchMainTab('ejercicios')">Ejercicios</button>
     </div>
 
-    <!-- Mi Rutina Pane -->
+    <!-- ── MI RUTINA ── -->
     <div id="pane-mirutina" class="main-pane active">
-        <div class="dias-list" id="dias-container">
-            <!-- Días generados por JS -->
-        </div>
+        <div class="dias-list" id="dias-container"></div>
         <div class="bottom-bar">
             <div class="info-chip">
-                <svg xmlns="http://www.w3.org/2000/svg" height="16px" viewBox="0 -960 960 960" width="16px" fill="currentColor"><path d="M480-120q-75 0-140.5-28.5t-114-77q-48.5-48.5-77-114T120-480q0-75 28.5-140.5t77-114q48.5-48.5 114-77T480-840q75 0 140.5 28.5t114 77q48.5 48.5 77 114T840-480q0 75-28.5 140.5t-77 114q-48.5 48.5-114 77T480-120Zm0-80q117 0 198.5-81.5T760-480q0-117-81.5-198.5T480-760q-117 0-198.5 81.5T200-480q0 117 81.5 198.5T480-200Zm0-280Zm-40 200v-240l-40 40-56-56 136-136 136 136-56 56-40-40v240h-80Z"/></svg>
-                Nueva rutina en <span id="countdown-display">5 días</span>
+                <svg xmlns="http://www.w3.org/2000/svg" height="16px" viewBox="0 -960 960 960" width="16px" fill="currentColor"><path d="M200-80v-520l280-200 280 200v520H560v-240h-160v240H200Z"/></svg>
+                Nueva rutina en <span id="countdown-display">—</span>
             </div>
             <button class="btn-cambiar" onclick="regenerarRutina()">Cambiar rutina</button>
         </div>
     </div>
 
-    <!-- Ejercicios Pane -->
+    <!-- ── EJERCICIOS (acordeones) ── -->
     <div id="pane-ejercicios" class="main-pane">
-        <div class="musculos-grid" id="musculos-container">
-            <!-- Grupos musculares generados por JS -->
-        </div>
+        <div id="acordeones-container" class="acordeones-wrap"></div>
     </div>
 
     <script src="ejercicios.js"></script>
